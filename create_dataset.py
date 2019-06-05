@@ -100,6 +100,6 @@ def __main__():
       file.write(v)
       
 if __name__ == '__main__':
-  main()
+  __main__()
   
   
