@@ -1,0 +1,6581 @@
+,mineral_id,mineral_name
+0,7024,Levinsonite-(Y)
+1,4098,Uralite
+2,4099,Uralolite
+3,2114,Jordisite
+4,2325,Lanthanite-(Ce)
+5,4102,Uraninite
+6,4103,Uranmicrolite (of Hogarth 1977)
+7,4105,Uranocircite
+8,10,Acanthite
+9,4107,Uranophane
+10,2061,Jacobsite
+11,17,Achtaragdite
+12,18,Actinolite
+13,4116,Uranpyrochlore (of Hogarth 1977)
+14,21,Adamite
+15,2070,Jamborite
+16,2072,Jamesonite
+17,4,Abhurite
+18,4122,Ussingite
+19,6831,Brendelite
+20,28,Adularia
+21,4125,Uvarovite
+22,4126,Uvite Series
+23,31,Aegirine
+24,10272,Garnet Group
+25,1,Abelsonite
+26,2054,Isokite
+27,4134,Valencianite
+28,39,Aeschynite-(Y)
+29,26664,Manganese Oxides
+30,41,Afghanite
+31,2090,Jeremejevite
+32,4139,Vanadinite
+33,44,Agardite-(Y)
+34,46,Agardite
+35,48,Agardite-(Ce)
+36,50,Agardite-(La)
+37,2099,Joaquinite-(Ce)
+38,2100,Joesmithite
+39,2593,Matlockite
+40,4150,Vantasselite
+41,2103,Johannsenite
+42,1746,Greenockite
+43,4156,Variscite
+44,2058,Jacobsite-Q
+45,2259,Kosnarite
+46,2112,Jonesite
+47,2113,Jordanite
+48,66,Ajoite
+49,2115,Joséite
+50,10308,Whiteite
+51,4169,Verdelite
+52,74,Aktashite
+53,10315,Gismondine
+54,4173,Versiliaite
+55,2126,Kaatialaite
+56,4175,Vésigniéite
+57,4176,Veszelyite
+58,1912,Hochelagaite
+59,4178,Viitaniemiite
+60,4181,Villiaumite
+61,87,Aluminocopiapite
+62,2185,Kentrolite
+63,89,Alabandite
+64,91,Alacránite
+65,2746,Molybdenite
+66,357,Arsenic
+67,96,Albite
+68,2145,Kambaldaite
+69,4194,Vivianite
+70,4196,Vlasovite
+71,2149,Chromian Clinochlore
+72,2150,Kamotoite-(Y)
+73,2151,Kamphaugite-(Y)
+74,4200,Volborthite
+75,2153,Kaňkite
+76,2156,Kaolinite
+77,109,Alexandrite
+78,10351,Moroxite
+79,114,Algodonite
+80,4211,Vrbaite
+81,2164,Kashinite
+82,2165,Kasolite
+83,26743,Cuprian Halloysite
+84,2169,Katoptrite
+85,4220,Väyrynenite
+86,125,Allanite-(Ce)
+87,2174,Keckite
+88,4223,Vesuvianite
+89,128,Allargentum
+90,4289,Wilhelmvierlingite
+91,10386,Kampfite
+92,4229,Wagnerite
+93,3315,Pyrobelonite
+94,4233,Wakefieldite-(Ce)
+95,10378,Manganoan Siderite
+96,2187,Kermesite
+97,3778,Stibiocolumbite
+98,2190,Kettnerite
+99,1389,Epidote
+100,4242,Wardite
+101,148,Althausite
+102,2869,Nealite
+103,6294,Marmatite
+104,154,Aluminite
+105,7535,Topazolite
+106,4252,Waylandite
+107,4254,Weddellite
+108,161,Alunite
+109,4259,Weilite
+110,10404,Chromian Elbaite
+111,2213,Kinoite
+112,7196,Niobocarbide
+113,4266,Weloganite
+114,1915,Hoelite
+115,4268,Wendwilsonite
+116,2223,Klebelsbergite
+117,2225,Kleinite
+118,2226,Klockmannite
+119,4275,Wherryite
+120,4276,Whewellite
+121,2078,Jarosite
+122,4279,Whiteite-(MnFeMg)
+123,184,Amazonite
+124,4281,Whitmoreite
+125,4310,Wood Copper
+126,4127,Uytenbogaardtite
+127,188,Amber
+128,4286,Widgiemoolthalite
+129,4288,Wilcoxite
+130,9262,Pennine
+131,2243,Kolwezite
+132,4292,Willemite
+133,198,Amethyst
+134,2249,Koninckite
+135,2250,Kongsbergite
+136,4299,Witherite
+137,4300,Wittichenite
+138,4302,Wodginite
+139,207,Amphibole Supergroup
+140,2256,Korshunovskite
+141,4305,Wolframite
+142,210,Analcime
+143,211,Anapaite
+144,1439,Fairbankite
+145,213,Anatase
+146,2262,Kotoite
+147,2263,Köttigite
+148,956,Chabazite
+149,4313,Wood Tin
+150,4314,Woodwardite
+151,219,Andersonite
+152,220,Andesine
+153,4317,Wülfingite
+154,4318,Wurtzite
+155,223,Andradite
+156,2273,Kremersite
+157,4322,Wulfenite
+158,4323,Wollastonite
+159,2277,Kröhnkite
+160,783,Bromargyrite
+161,721,Boracite
+162,233,Anglesite
+163,234,Anhydrite
+164,4135,Valentinite
+165,4333,Xenotime-(Y)
+166,239,Ankerite
+167,240,Annabergite
+168,2289,Kunzite
+169,2292,Kuranakhite
+170,292,Arsenogoyazite
+171,246,Anorthite
+172,248,Anorthoclase
+173,2299,Kutnohorite
+174,30762,Olmiite
+175,2303,Kyanite
+176,2304,Kyzylkumite
+177,2306,Koenenite
+178,260,Antigorite
+179,2309,Labuntsovite-Mn
+180,262,Antimony
+181,2311,Laffittite
+182,2313,Laitakarite
+183,727,Bornite
+184,2316,Lanarkite
+185,2319,Långbanite
+186,2322,Langite
+187,4373,Yttrotantalite-(Y)
+188,4374,Yttrotungstite-(Y)
+189,2777,Mopungite
+190,4376,Yugawaralite
+191,4377,Yukonite
+192,2330,Lapis lazuli
+193,283,Apophyllite
+194,2332,Larderellite
+195,285,Apuanite
+196,2328,Laphamite
+197,4383,Zakharovite
+198,289,Aquamarine
+199,2728,Mitridatite
+200,2340,Laumontite
+201,294,Arsenolite
+202,2343,Laurionite
+203,2344,Laurite
+204,2347,Lautenthalite
+205,2348,Lautite
+206,4397,Zeunerite
+207,4238,Walpurgite
+208,303,Arsenopalladinite
+209,3207,Picropharmacolite
+210,305,Arsenopyrite
+211,1734,Graemite
+212,307,Aragonite
+213,2356,Lazulite
+214,2357,Lazurite
+215,2358,Lead
+216,311,Aravaipaite
+217,2361,Leadhillite
+218,4410,Zincite
+219,735,Bottinoite
+220,2365,Legrandite
+221,3125,Parsettensite
+222,2369,Leightonite
+223,322,Ardennite-(As)
+224,4419,Zinnwaldite
+225,4421,Zircon
+226,8519,Obsidian
+227,2379,Lepidocrocite
+228,2380,Lepidolite
+229,6882,Clinoptilolite-Ca
+230,4430,Zoisite
+231,4431,Zorite
+232,2385,Leucophosphite
+233,2388,Lévyne
+234,4437,Zýkaite
+235,9354,Lignite
+236,343,Armenite
+237,3809,Strätlingite
+238,2394,Libethenite
+239,1082,Clinoptilolite
+240,2398,Liebigite
+241,351,Arrojadite-(KFe)
+242,1424,Eulytine
+243,2402,Limonite
+244,2403,Linarite
+245,356,Arsendescloizite
+246,2405,Lindgrenite
+247,3473,Ruby
+248,360,Arseniosiderite
+249,743,Boussingaultite
+250,2413,Liroconite
+251,4157,Varlamoffite
+252,2416,Liskeardite
+253,2792,Mottramite
+254,2418,Lithiophilite
+255,2419,Lithiophorite
+256,3081,Parabutlerite
+257,3453,Rosenbergite
+258,376,Arthurite
+259,377,Artinite
+260,2426,Löllingite
+261,4159,Vashegyite
+262,2428,Lomonosovite
+263,1581,Foordite
+264,383,Asbestos
+265,8577,Zinc-Schefferite
+266,2434,Lorándite
+267,2436,Lorenzenite
+268,2454,Ludwigite
+269,10174,Batiferrite
+270,39304,Noonkanbahite
+271,2442,Lourenswalsite
+272,397,Asselbornite
+273,8591,Almandine-Spessartine Series
+274,4163,Vauquelinite
+275,2452,Ludlamite
+276,2453,Ludlockite
+277,406,Atacamite
+278,2455,Lueshite
+279,4164,Vauxite
+280,2461,Luzonite
+281,2462,Låvenite
+282,3141,Pectolite
+283,2464,Lyonsite
+284,2465,Leucite
+285,2466,Litharge
+286,8611,Uranothorite
+287,9286,Chromian Dravite
+288,422,Aurichalcite
+289,2801,Mrázekite
+290,2472,Manganophyllite
+291,3181,Phosphophyllite
+292,7581,Biehlite
+293,432,Austinite
+294,433,Autunite
+295,2482,Magnesite
+296,6899,Deliensite
+297,10677,Argentian Tetrahedrite
+298,438,Avogadrite
+299,2265,Koutekite
+300,7583,Ducktownite
+301,2494,Manganbabingtonite
+302,447,Azurite
+303,1885,Heterogenite
+304,451,Augelite
+305,452,Almandine
+306,453,Ashoverite
+307,2502,Axinite-(Mn)
+308,2503,Manganosite
+309,2507,Macedonite
+310,2508,Macfallite
+311,11000,Ronneburgite
+312,466,Barytocalcite
+313,419,Augite
+314,2608,Mbobomkulite
+315,1785,Gyrolite
+316,472,Bariopharmacosiderite
+317,2522,Tantalite-(Mn)
+318,8667,Columbite-(Fe)-Columbite-(Mn) Series
+319,2526,Manganoan Calcite
+320,2528,Manganostibite
+321,2308,Labradorite
+322,764,Brenkite
+323,2538,Magnetite
+324,2539,Magnetoplumbite
+325,2349,Lavendulan
+326,10734,Rinmanite
+327,1789,Hackmanite
+328,2544,Malhmoodite
+329,2690,Metatyuyamunite
+330,1107,Cohenite
+331,10740,Unnamed (gamma-Zn(OH)2)
+332,2550,Malachite
+333,29175,Pyrochlore Supergroup
+334,7178,Meurigite-K
+335,11007,Orthominasragrite
+336,2133,Kainosite-(Y)
+337,8705,Heterosite-Purpurite Series
+338,2564,Manganoneptunite
+339,2565,Manganoan Vesuvianite
+340,2568,Mansfieldite
+341,2404,Lindackerite
+342,6666,Precious Opal
+343,2571,Marcasite
+344,8717,Phillipsite-Ca-Phillipsite-K Series
+345,2575,Marialite
+346,39442,Ferri-fluoro-katophorite
+347,1795,Hagendorfite
+348,1927,Honessite
+349,1113,Colusite
+350,536,Barrerite
+351,772,Brianyoungite
+352,2587,Massicot
+353,6684,Pleonaste
+354,7258,Pushcharovskite
+355,542,Cuprian Austinite
+356,6689,Plumbeine
+357,2597,Mattheddleite
+358,10790,Byssolite
+359,2599,Maucherite
+360,43562,Fluor-uvite
+361,29229,Apatite
+362,6703,Prase
+363,560,Bastnäsite-(Ce)
+364,2281,Kryzhanovskite
+365,7262,Quadratite
+366,29239,Axinite Group
+367,10810,Zaccagnaite
+368,2143,Kamacite
+369,7384,Zdenĕkite
+370,574,Bauranoite
+371,10816,Nickeloan Adamite
+372,577,Bavenite
+373,2627,Meionite
+374,2628,Meixnerite
+375,8773,Descloizite-Mottramite Series
+376,6726,Troostite
+377,6727,Heliodor
+378,2632,Melanotekite
+379,2633,Melanterite
+380,8778,Scapolite
+381,2827,Nadorite
+382,2638,Mellite
+383,2270,Krausite
+384,2641,Mendipite
+385,6739,Campylite
+386,2644,Meneghinite
+387,597,Becquerelite
+388,6742,Sphärosiderite
+389,2647,Mercury
+390,2648,Mereheadite
+391,7268,Rambergite
+392,602,Béhierite
+393,603,Behoite
+394,36,Aerugite
+395,608,Belendorffite
+396,2657,Mesolite
+397,2066,Jahnsite-(CaMnFe)
+398,612,Bellingerite
+399,39448,Stolzite-Wulfenite Series
+400,2662,Meta-autunite
+401,618,Belovite-(Ce)
+402,2670,Metacinnabar
+403,6728,Mica Group
+404,624,Benitoite
+405,2673,Metaheinrichite
+406,6975,Gordaite
+407,628,Beraunite
+408,631,Bergenite
+409,2680,Metamunirite
+410,2684,Metaschoepite
+411,2685,Metasideronatrite
+412,29310,Melilite Group
+413,2688,Metaswitzerite
+414,2689,Metatorbernite
+415,642,Bertrandite
+416,3772,Stewartite
+417,644,Beryllonite
+418,646,Berzeliite
+419,2696,Metavoltine
+420,649,Betafite (of Hogarth 1977)
+421,2698,Metazeunerite
+422,3863,Magnesiotaaffeite-2N’2S
+423,652,Beudantite
+424,653,Beusite
+425,2702,Miargyrite
+426,10349,Redgillite
+427,2704,Microcline
+428,2705,Microlite Group
+429,39572,Jahnsite Group
+430,3182,Phosphuranylite
+431,2710,Milarite
+432,2711,Millerite
+433,2712,Millisite
+434,2713,Millosevichite
+435,2714,Mimetite
+436,667,Bismutoferrite
+437,670,Bikitaite
+438,8864,Hubeite
+439,2721,Minium
+440,2723,Minrecordite
+441,676,Bindheimite
+442,677,Biotite
+443,680,Birnessite
+444,3868,Taenite
+445,2730,Mixite
+446,684,Bismuth
+447,686,Bismuthinite
+448,687,Bismutite
+449,5576,Kidney Ore
+450,691,Bixbyite
+451,2740,Mohawkite
+452,694,Blatterite
+453,695,Blödite
+454,10936,Garnierite
+455,11380,Ca-bearing Pyromorphite
+456,698,Blue John
+457,49852,IAB-MG iron meteorite
+458,6845,Caoxite
+459,2750,Monazite
+460,2751,Monazite-(Ce)
+461,6848,Caresite
+462,2754,Moncheite
+463,2756,Mongolite
+464,6854,Chabazite-Ca
+465,4388,Zaratite
+466,712,Boleite
+467,2274,Krennerite
+468,2763,Montebrasite
+469,716,Boltwoodite
+470,2767,Montgomeryite
+471,43669,Correianevesite
+472,3192,Phillipsite
+473,4428,Znucalite
+474,6867,Chevkinite-(Ce)
+475,4260,Weinebeneite
+476,1145,Cowlesite
+477,1047,Churchite-(Y)
+478,27428,Hydrokenoelsmoreite
+479,2778,Moraesite
+480,2779,Mordenite
+481,732,Botallackite
+482,2783,Morganite
+483,738,Boulangerite
+484,1147,Crandallite
+485,741,Bournonite
+486,2790,Mosesite
+487,2513,Macphersonite
+488,10984,Sunstone
+489,2793,Motukoreaite
+490,2796,Mountkeithite
+491,8658,Fayalite-Forsterite Series
+492,751,Braggite
+493,753,Brandtite
+494,754,Brannerite
+495,29139,Fluorophlogopite
+496,8949,Diopside-Hedenbergite Series
+497,2806,Mullite
+498,809,Bustamite
+499,760,Brazilianite
+500,8954,Herderite-Hydroxylherderite Series
+501,2812,Murdochite
+502,2813,Murmanite
+503,766,Brewsterite
+504,2815,Muscovite
+505,811,Buttgenbachite
+506,6916,Erionite-K
+507,2821,Montmorillonite
+508,8971,Clinozoisite-Epidote Series
+509,2830,Nagyágite
+510,813,Bystrite
+511,784,Bromellite
+512,2520,Columbite-(Mn)
+513,787,Brookite
+514,2836,Namibite
+515,2837,Namuwite
+516,11032,Gladiusite
+517,2841,Narsarsukite
+518,11036,Manganoan Gahnite
+519,11037,Palladian Gold
+520,798,Bukovskýite
+521,2847,Natanite
+522,4391,Zellerite
+523,2851,Fluorapophyllite-(Na)
+524,6948,Fluorcaphite
+525,2853,Natrochalcite
+526,2854,Natrodufrénite
+527,1186,Cuproiridsite
+528,6952,Fluoro-richterite
+529,11620,Baryte Rose
+530,3573,Schoenfliesite
+531,818,Fluor-buergerite
+532,6958,Frankhawthorneite
+533,27439,Pumpellyite-(Al)
+534,2865,Naujakasite
+535,3846,Sweetite
+536,819,Beryl
+537,820,Brucite
+538,478,Babingtonite
+539,10377,Pumpellyite-(Fe)
+540,1844,Hedyphane
+541,2235,Koechlinite
+542,852,Calaverite
+543,831,Calciohilairite
+544,2880,Nepheline
+545,480,Baddeleyite
+546,139,Allophane
+547,6981,Grumiplucite
+548,840,Cacoxenite
+549,46220,Allanite Group
+550,6986,Hechtsbergite
+551,6988,Heulandite-Ca
+552,849,Cafarsite
+553,2898,Nickelzippeite
+554,2900,Nickenichite
+555,2901,Nickeline
+556,855,Calcioancylite-(Ce)
+557,3556,Schalenblende
+558,11135,Serpentine Subgroup
+559,859,Calcite
+560,7016,Scainiite
+561,863,Calcurmolite
+562,865,Caledonite
+563,11106,Hexagonite
+564,868,Callaghanite
+565,1124,Copiapite
+566,779,Brochantite
+567,4330,Xanthoconite
+568,7020,Mallestigite
+569,146,Alstonite
+570,4311,Woodhouseite
+571,11119,Smectite Group
+572,880,Cancrinite
+573,7026,Zálesíite
+574,2932,Normandite
+575,3902,Teineite
+576,886,Capgaronnite
+577,888,Capped Quartz
+578,3220,Pirssonite
+579,1257,Delvauxite
+580,892,Carbocernaite
+581,895,Carbonate-rich Fluorapatite
+582,2737,Moctezumite
+583,1547,Fiedlerite
+584,2947,Natrolite
+585,900,Carlhintzeite
+586,3222,Pitchblende
+587,2950,Oakstone
+588,3905,Tellurite
+589,904,Carlsbergite
+590,905,Carminite
+591,3223,Pitiglianoite
+592,909,Carpholite
+593,911,Carrollite
+594,7056,Orlandiite
+595,913,Caryopilite
+596,2883,Neptunite
+597,917,Cassiterite
+598,2966,Okanoganite-(Y)
+599,2967,Okenite
+600,1629,Gagarinite-(Y)
+601,921,Cavansite
+602,2543,Magnussonite
+603,2972,Olenite
+604,4250,Wavellite
+605,926,Celadonite
+606,927,Celestine
+607,2976,Oligoclase
+608,931,Cerite-(Ce)
+609,933,Ceruleite
+610,934,Cerussite
+611,935,Cervandonite-(Ce)
+612,936,Cervantite
+613,943,Cetineite
+614,7088,Adamsite-(Y)
+615,2202,Kidwellite
+616,946,Chlorophoenicite
+617,947,Chalcophanite
+618,11188,Cronusite
+619,949,Chalcomenite
+620,7095,Cobalttsumcorite
+621,953,Chloroxiphite
+622,955,Chalcopyrite
+623,3004,Opal
+624,2053,Isoferroplatinum
+625,959,Chalcanthite
+626,960,Chalcedony
+627,961,Chalcoalumite
+628,962,Chalcocite
+629,1123,Cooperite
+630,967,Chamosite
+631,9160,Hokutolite
+632,7115,Isovite
+633,2760,Montanite
+634,3021,Orpiment
+635,975,Chrysotile
+636,977,Chalcotrichite
+637,3026,Orthoclase
+638,979,Chalcophyllite
+639,7125,Julgoldite-(Fe3+)
+640,7126,Juonniite
+641,983,Chalcostibite
+642,3306,Pucherite
+643,987,Chenite
+644,3037,Osmium
+645,990,Cherepanovite
+646,992,Chernovite-(Y)
+647,3920,Tetra-auricupride
+648,994,Chert
+649,995,Chervetite
+650,7140,Koragoite
+651,7141,Korobitsynite
+652,1001,Chiastolite
+653,7146,Kukharenkoite-(Ce)
+654,1003,Childrenite
+655,31727,Munakataite
+656,7153,Lesukite
+657,1014,Chlorargyrite
+658,1193,Cuprostibite
+659,1016,Chlorite Group
+660,1017,Chloritoid
+661,7162,Magnesio-foitite
+662,2559,Manandonite
+663,7165,Mahnertite
+664,3072,Palygorskite
+665,3073,Panasqueiraite
+666,1027,Chondrodite
+667,5125,Cerasite (of Kikuchi)
+668,513,Barberiite
+669,1032,Chrome-Cerussite
+670,1033,Chromian Diopside
+671,3082,Paracelsian
+672,6999,Horváthite-(Y)
+673,1037,Chromium
+674,1039,Chrysoberyl
+675,1040,Chrysocolla
+676,1539,Fersmite
+677,2699,Meyerhofferite
+678,7190,Nežilovite
+679,7191,Nickelphosphide
+680,3096,Paralaurionite
+681,1052,Cinnabar
+682,1054,Citrine
+683,1055,Clinoclase
+684,1399,Erionite
+685,1060,Claudetite
+686,1542,Fetiasite
+687,53425,Pecos Diamonds
+688,1064,Cliffordite
+689,1065,Clinoatacamite
+690,3115,Paratacamite
+691,3116,Paratellurite
+692,3377,Rectorite
+693,1070,Clinochlore
+694,3119,Pargasite
+695,3120,Parisite-(Ce)
+696,1544,Fibroferrite
+697,7218,Paulingite-Ca
+698,3124,Parnauite
+699,1077,Clinohumite
+700,7072,Tegengrenite
+701,7348,Utahite
+702,3130,Pascoite
+703,7007,Ilinskite
+704,7228,Phillipsite-K
+705,7229,Phillipsite-Na
+706,1087,Clinozoisite
+707,1088,Clintonite
+708,1059,Clarkeite
+709,1091,Cobaltkoritnigite
+710,1093,Cobaltite
+711,1094,Cobaltoan Calcite
+712,7265,Quintinite
+713,3596,Scorzalite
+714,3146,Penfieldite
+715,1099,Cobaltaustinite
+716,1100,Coccinite
+717,9294,Decrespignyite-(Y)
+718,1103,Coeruleolactite
+719,3152,Pentagonite
+720,1105,Cobaltoan Dolomite
+721,7129,Kastningite
+722,3155,Pentlandite
+723,1108,Colemanite
+724,3159,Peretaite
+725,3161,Periclase
+726,1114,Comancheite
+727,11356,Greifensteinite
+728,1117,Compreignacite
+729,3166,Perovskite
+730,1119,Conichalcite
+731,1120,Connellite
+732,1121,Cookeite
+733,3171,Petalite
+734,651,Betpakdalite-CaCa
+735,1125,Coquandite
+736,26770,Iron Rose
+737,1127,Corderoite
+738,1128,Cordierite
+739,1129,Cordylite-(Ce)
+740,1131,Cornetite
+741,1132,Cornubite
+742,1133,Cornwallite
+743,1134,Coronadite
+744,1136,Corundum
+745,3185,Pharmacosiderite
+746,3187,Phosphosiderite
+747,3188,Phenakite
+748,1141,Cotunnite
+749,3190,Philipsbornite
+750,3191,Philipsburgite
+751,1144,Covellite
+752,3193,Phlogopite
+753,3194,Phoenicochroite
+754,3195,Phosgenite
+755,1402,Ernienickelite
+756,1150,Crednerite
+757,1151,Creedite
+758,3107,Pararealgar
+759,7298,Smolyaninovite
+760,1155,Cristobalite
+761,3204,Pickeringite
+762,1157,Crocoite
+763,1158,Cronstedtite
+764,7361,Wallkilldellite-(Fe)
+765,3208,Piemontite
+766,1161,Cryolite
+767,1948,Hummerite
+768,1163,Cryptohalite
+769,1164,Cryptomelane
+770,1168,Cubanite
+771,7313,Stilbite-Ca
+772,1172,Cuprite
+773,1174,Cuprian Adamite
+774,44183,Barian magnetoplumbite
+775,879,Canavesite
+776,7325,Tainiolite
+777,3231,Albite-Anorthite Series
+778,3233,Plancheite
+779,3234,Planerite
+780,3236,Platinum
+781,3237,Plattnerite
+782,1191,Cuprosklodowskite
+783,1949,Hunchunite
+784,3241,Plumbomicrolite (of Hogarth 1977)
+785,1194,Cuprotungstite
+786,1198,Cuspidine
+787,3247,Plumbogummite
+788,7345,Turkestanite
+789,1203,Cyanotrichite
+790,1204,Cylindrite
+791,7710,Peridot
+792,1206,Cyrilovite
+793,3255,Pollucite
+794,3256,Polybasite
+795,1209,Copper
+796,3260,Polylithionite
+797,2573,Margarite
+798,3265,Posnjakite
+799,1218,Danburite
+800,3270,Pottsite
+801,545,Barylite
+802,3273,Poughite
+803,3275,Powellite
+804,3277,Prehnite
+805,3278,Preisingerite
+806,9424,Bitumen
+807,2936,Nosean
+808,3619,Senegalite
+809,1237,Davreuxite
+810,3287,Prosopite
+811,1240,Dawsonite
+812,3289,Protasite
+813,2354,Lazarenkoite
+814,3294,Proustite
+815,549,Baryte
+816,1248,Delafossite
+817,3299,Pseudomalachite
+818,3301,Pseudoboleite
+819,3302,Pseudobrookite
+820,581,Bayldonite
+821,3304,Psilomelane
+822,3305,Pumpellyite
+823,1258,Demantoid
+824,1259,Demesmaekerite
+825,1261,Denisovite
+826,1262,Denningite
+827,3311,Purpurite
+828,3313,Pyrargyrite
+829,3314,Pyrite
+830,1267,Descloizite
+831,1270,Devilline
+832,2088,Jensenite
+833,3320,Pyromorphite
+834,3321,Pyrope
+835,3322,Pyrophanite
+836,3323,Pyrophyllite
+837,1276,Diaboleite
+838,3325,Pyrostilpnite
+839,1279,Diadochite
+840,3328,Pyrrhotite
+841,925,Čechite
+842,1282,Diamond
+843,1284,Diaphorite
+844,1285,Diaspore
+845,1287,Dickite
+846,3337,Quartz
+847,1291,Digenite
+848,1292,Dimorphite
+849,7437,Cobaltoan Adamite
+850,1294,Diopside
+851,1295,Dioptase
+852,216,Ancylite-(Ce)
+853,7443,Melanite
+854,1300,Djurleite
+855,217,Andalusite
+856,1304,Dolomite
+857,3353,Rajite
+858,3354,Hydrokenoralstonite
+859,1583,Fornacite
+860,2266,Kovdorskite
+861,3358,Ramsbeckite
+862,3359,Ramsdellite
+863,10800,Unnamed (Basic  Zinc Sulphate Hydrate)
+864,3362,Rankamaite
+865,4315,Wroewolfeite
+866,3974,Tiragalloite
+867,1318,Dravite
+868,3368,Raspite
+869,1321,Drugmanite
+870,1323,Dufrénite
+871,1325,Duftite
+872,1326,Dugganite
+873,3375,Realgar
+874,3376,Rebulite
+875,1329,Dumortierite
+876,1330,Dundasite
+877,1246,Defernite
+878,1681,Germanite
+879,11433,Ferriallanite-(Ce)
+880,1338,Dypingite
+881,1340,Datolite
+882,1342,Dyscrasite
+883,1345,Earlshannonite
+884,7493,Cyrtolite
+885,1351,Edenite
+886,3591,Schumacherite
+887,1353,Edingtonite
+888,1354,Edoylerite
+889,3405,Rhodizite
+890,3406,Rhodochrosite
+891,3407,Rhodonite
+892,1363,Ecdemite
+893,1364,Elbaite
+894,1365,Electrum
+895,3414,Richelsdorfite
+896,3416,Richterite
+897,1369,Elpasolite
+898,1370,Elpidite
+899,1371,Elyite
+900,1372,Bromian Chlorargyrite
+901,1373,Embreyite
+902,3422,Rinkite-(Ce)
+903,1375,Emerald
+904,1377,Emmonsite
+905,1378,Emplectite
+906,10811,Zincowoodwardite
+907,1380,Enargite
+908,1382,Arsenatian Vanadinite
+909,1384,Enstatite
+910,3433,Rockbridgeite
+911,1386,Eosphorite
+912,1388,Epididymite
+913,9581,K Feldspar
+914,1751,Grimselite
+915,1391,Epistilbite
+916,3441,Romanèchite
+917,3443,Roméite Group
+918,1396,Ericaite
+919,3646,Siderazot
+920,1398,Eriochalcite
+921,3447,Rosasite
+922,3448,Roscherite
+923,3988,Todorokite
+924,3450,Roselite
+925,2055,Isomertieite
+926,2282,Ktenasite
+927,1407,Erythrite
+928,3456,Rose Quartz
+929,3458,Rosickýite
+930,7555,Goshenite
+931,3990,Tolbachite
+932,1414,Ettringite
+933,1418,Euclase
+934,4207,Vonsenite
+935,1420,Eudialyte
+936,1422,Eugenite
+937,3472,Rubellite
+938,1425,Euxenite-(Y)
+939,3474,Rucklidgeite
+940,1428,Evenkite
+941,5527,Selenite
+942,1432,Eztlite
+943,3482,Rutheniridosmine
+944,3484,Rutherfordine
+945,3485,Rutilated Quartz
+946,3486,Rutile
+947,6725,Fire Opal
+948,7585,Zincian Dolomite
+949,3490,Saamite (of Volkova & Melentiev)
+950,1443,Fairfieldite
+951,1480,Fergusonite-(Y)
+952,2630,Melanophlogite
+953,1537,Ferruccite
+954,241,Annite
+955,1071,Clinochrysotile
+956,1451,Famatinite
+957,7069,Gottlobite
+958,584,Bazhenovite
+959,1458,Fayalite
+960,1459,Axinite-(Fe)
+961,3508,Saléeite
+962,3509,Salesite
+963,1609,Friedelite
+964,3512,Samarskite-(Y)
+965,9658,Lemanskiite
+966,26645,Manganese Dendrites
+967,586,Bazzite
+968,3521,Sanidine
+969,1476,Ferberite
+970,3318,Pyrolusite
+971,3528,Saponite
+972,3529,Sapphire
+973,3531,Sapphirine
+974,3532,Sarabauite
+975,3535,Sarkinite
+976,1495,Ferrilotharmeyerite
+977,1497,Ferrinatrite
+978,3547,Sazykinaite-(Y)
+979,1500,Ferristrunzite
+980,1401,Erlichmanite
+981,2981,Olivenite
+982,1504,Ferritungstite
+983,391,Asisite
+984,3897,Tazheranite
+985,593,Bechererite
+986,3560,Scheelite
+987,3561,Schefferite
+988,1514,Columbite-(Fe)
+989,1519,Ferro-hornblende
+990,3569,Schmiederite
+991,3570,Schmitterite
+992,3572,Schoderite
+993,1525,Pyrosmalite-(Fe)
+994,3574,Schoepite
+995,3576,Scholzite
+996,1529,Ferrostrunzite
+997,3578,Schorl
+998,3584,Schröckingerite
+999,51,Agate
+1000,1538,Fersmanite
+1001,8107,Manganoan Adamite
+1002,3588,Schuilingite-(Nd)
+1003,3589,Schulenbergite
+1004,3590,Schultenite
+1005,1543,Fettelite
+1006,7688,Cleavelandite
+1007,3594,Scolecite
+1008,3595,Scorodite
+1009,1548,Filipstadite
+1010,3330,Pyroaurite
+1011,7212,Eleonorite
+1012,1554,Fizélyite
+1013,3606,Segnitite
+1014,1559,Fülöppite
+1015,1560,Florencite-(Ce)
+1016,2916,Nitratine
+1017,3611,Selenium
+1018,1565,Fluellite
+1019,3614,Sellaite
+1020,3616,Semseyite
+1021,3618,Senarmontite
+1022,2651,Merlinoite
+1023,1572,Fluorapatite
+1024,1573,Fluorapophyllite-(K)
+1025,3622,Serandite
+1026,7719,Mercurian Tetrahedrite
+1027,1576,Fluorite
+1028,3625,Serpierite
+1029,1579,Foitite
+1030,11186,Buryatite
+1031,32349,Mimetite-Pyromorphite Series
+1032,1584,Forsterite
+1033,3635,Shcherbakovite
+1034,1589,Francevillite
+1035,1591,Francisite
+1036,1592,Franckeite
+1037,3940,Thomsenolite
+1038,7740,Hiddenite
+1039,1598,Franklinite
+1040,3647,Siderite
+1041,3650,Sideronatrite
+1042,1605,Freibergite
+1043,1606,Freieslebenite
+1044,3655,Siegenite
+1045,268,Antlerite
+1046,2658,Messelite
+1047,3662,Sillimanite
+1048,3663,Sillénite
+1049,3664,Silver
+1050,1617,Fuchsite
+1051,3666,Simonellite
+1052,3671,Sincosite
+1053,1624,Feldspar Group
+1054,3674,Sinkankasite
+1055,3343,Quetzalcoatlite
+1056,1628,Gadolinite-(Y)
+1057,7773,Flos Ferri
+1058,3678,Pyroaurite-2H
+1059,1631,Gageite
+1060,1632,Gahnite
+1061,3682,Skutterudite
+1062,7099,Petterdite
+1063,3688,Smithsonite
+1064,3689,Smoky Quartz
+1065,1623,Faustite
+1066,3691,Smythite
+1067,4283,Wickmanite
+1068,1641,Galena
+1069,3348,Rabejacite
+1070,4031,Trona
+1071,3708,Sogdianite
+1072,2803,Mückeite
+1073,1663,Gearksutite
+1074,1643,Galkhaite
+1075,11004,Nickellotharmeyerite
+1076,3397,Rhabdophane-(Ce)
+1077,1671,Geminite
+1078,3721,Spangolite
+1079,1674,Geocronite
+1080,3723,Sperrylite
+1081,3725,Spessartine
+1082,3727,Sphalerite
+1083,3352,Raite
+1084,1684,Gerstleyite
+1085,3733,Spodumene
+1086,1686,Getchellite
+1087,1947,Humite
+1088,1689,Gibbsite
+1089,3739,Stibiotantalite
+1090,1989,Hydroxyapophyllite-(K)
+1091,3747,Stannite
+1092,1701,Gismondine-Ca
+1093,1702,Gittinsite
+1094,1703,Giuseppettite
+1095,3753,Staurolite
+1096,3754,Steacyite
+1097,1707,Glaucocerinite
+1098,1711,Glaukosphaerite
+1099,3760,Stellerite
+1100,1992,Hydroxylapatite
+1101,1714,Gmelinite
+1102,3764,Stephanite
+1103,1719,Goethite
+1104,1720,Gold
+1105,3126,Parsonsite
+1106,1724,Gonnardite
+1107,1726,Goosecreekite
+1108,3701,Sodalite
+1109,3776,Stibiconite
+1110,1729,Gormanite
+1111,3803,Stromeyerite
+1112,7876,Blister Copper
+1113,1733,Gowerite
+1114,3782,Stibnite
+1115,2337,Latrappite
+1116,3784,Stichtite
+1117,3785,Stilbite subgroup
+1118,1740,Graphite
+1119,1741,Gratonite
+1120,7117,Jáchymovite
+1121,5222,Destinezite
+1122,9938,Cotterite
+1123,2339,Laueite
+1124,3796,Straczekite
+1125,1749,Griceite
+1126,1750,Grimaldiite
+1127,3799,Strashimirite
+1128,3801,Strengite
+1129,1755,Grossular
+1130,1695,Giniite
+1131,3805,Strontianite
+1132,945,Chalcosiderite
+1133,3810,Strunzite
+1134,11379,Nickelschneebergite
+1135,3366,Rapidcreekite
+1136,1766,Gudmundite
+1137,1767,Guérinite
+1138,3817,Sturmanite
+1139,1771,Guilleminite
+1140,46829,Wampenite
+1141,3822,Sugilite
+1142,3826,Sulphur
+1143,3027,Ericssonite-2O
+1144,2686,Metastibnite
+1145,1784,Gypsum
+1146,3833,Susannite
+1147,1787,Goyazite
+1148,3836,Svabite
+1149,3837,Svanbergite
+1150,6879,Clinocervantite
+1151,640,Berthierite
+1152,2700,Meymacite
+1153,4395,Zeolite Group
+1154,4054,Tungstite
+1155,1798,Hainite-(Y)
+1156,3848,Switzerite
+1157,3849,Sylvanite
+1158,3031,Orthoserpierite
+1159,1804,Halite
+1160,3853,Synchysite-(Ce)
+1161,3855,Synchysite-(Y)
+1162,1808,Halloysite
+1163,1809,Halotrichite
+1164,1811,Hambergite
+1165,3470,Rößlerite
+1166,1815,Hanksite
+1167,3864,Tacharanite
+1168,1668,Gehlenite
+1169,1820,Harmotome
+1170,1822,Harstigite
+1171,4364,Yofortierite
+1172,3875,Talc
+1173,3876,Talmessite
+1174,29318,Osumilite Group
+1175,3878,Tamarugite
+1176,1831,Hauerite
+1177,1832,Hausmannite
+1178,1833,Haüyne
+1179,3882,Tantalite
+1180,1834,Hawleyite
+1181,3885,Tanzanite
+1182,1838,Haynesite
+1183,1840,Hectorfloresite
+1184,1842,Hedenbergite
+1185,1843,Hedleyite
+1186,3892,Tarbuttite
+1187,3893,Plumboan Aragonite
+1188,1357,Eglestonite
+1189,3895,Tausonite
+1190,3062,Pahasapaite
+1191,1853,Hellyerite
+1192,7998,Black Opal
+1193,1855,Helvine
+1194,1856,Hematite
+1195,1857,Hematolite
+1196,3906,Tellurium
+1197,3907,Tellurobismuthite
+1198,1860,Hemimorphite
+1199,3911,Tennantite
+1200,3912,Tenorite
+1201,3913,Tephroite
+1202,1866,Henmilite
+1203,3613,Seligmannite
+1204,8018,Petrified Wood
+1205,11019,Fassaite
+1206,3924,Tetrahedrite
+1207,1877,"""Herkimer-style"" Quartz"
+1208,3928,Tetrawickmanite
+1209,1882,Hessonite
+1210,6799,Alumoklyuchevskite
+1211,3933,Thaumasite
+1212,1887,Heterosite
+1213,1889,Heulandite subgroup
+1214,2561,Mandarinoite
+1215,3941,Thomsonite-Ca
+1216,3729,Spinel
+1217,3944,Thorianite
+1218,3945,Thorikosite
+1219,3946,Thorite
+1220,1899,Hidalgoite
+1221,3794,Stolzite
+1222,4837,Plumosite
+1223,7173,Mcalpineite
+1224,7403,Parisite
+1225,3960,Tiger's Eye
+1226,3962,Tilasite
+1227,3963,Tile ore
+1228,3967,Tincalconite
+1229,2246,Kombatite
+1230,1921,Hollandite
+1231,1922,Hollingworthite
+1232,1923,Holmquistite
+1233,2519,Manganite
+1234,4417,Zinkenite
+1235,405,Astrophyllite
+1236,3977,Titanite
+1237,1930,Hornblende
+1238,3982,Tlalocite
+1239,3983,Tlapallite
+1240,3986,Tochilinite
+1241,1940,Hübnerite
+1242,610,Bellbergite
+1243,872,Camérolaite
+1244,2997,Onoratoite
+1245,1946,Humboldtine
+1246,7151,Leisingite
+1247,3996,Topaz
+1248,3997,Torbernite
+1249,325,Arfvedsonite
+1250,1952,Hureaulite
+1251,2032,Ingersonite
+1252,1954,Hutchinsonite
+1253,4003,Tourmaline
+1254,1958,Hydroxylellestadite
+1255,1959,Opal-AN
+1256,1960,Hyalophane
+1257,4009,Trechmannite
+1258,1962,Hydroxylherderite
+1259,4011,Tremolite
+1260,4013,Trögerite
+1261,8110,Imperial Topaz
+1262,4015,Tridymite
+1263,4356,Ye'elimite
+1264,1969,Hydrocerussite
+1265,6885,Cobaltlotharmeyerite
+1266,1979,Hydromagnesite
+1267,4030,Trolleite
+1268,10175,Dashkovaite
+1269,331,Argyrodite
+1270,4037,Tschernichite
+1271,4040,Tsumebite
+1272,1993,Hydrozincite
+1273,2039,Iquiqueite
+1274,1997,Hannebachite
+1275,333,Arhbarite
+1276,2001,Ice
+1277,30371,Unnamed (Mcgovernite-like mineral 2)
+1278,6101,Polianite
+1279,2006,Iimoriite-(Y)
+1280,3065,Palenzonaite
+1281,4056,Tunisite
+1282,2724,Minyulite
+1283,4060,Turquoise
+1284,2013,Ilmenite
+1285,2015,Ilsemannite
+1286,2016,Ilvaite
+1287,2020,Imiterite
+1288,4070,Tyrolite
+1289,4072,Tyuyamunite
+1290,2027,Indicolite
+1291,2030,Indium
+1292,2031,Inesite
+1293,6128,Rock Crystal
+1294,6129,Milky Quartz
+1295,4085,Ulexite
+1296,4086,Ullmannite
+1297,1705,Gladite
+1298,4436,Zwieselite
+1299,4093,Umohoite
+1300,2046,Iriginite
+1301,2047,Iron
+6,4112,Uranosphaerite
+14,34,Aerinite
+15,37,Aeschynite-(Ce)
+26,4151,Vanthoffite
+27,4152,Vanuralite
+28,57,Agrellite
+29,59,Aguilarite
+32,63,Aikinite
+36,4170,Vermiculite
+37,4171,Vernadite
+38,4174,Vertumnite
+41,4177,Vigezzite
+46,93,Alamosite
+49,4199,Voglite
+51,4201,Volkonskoite
+52,4203,Voltaite
+55,4212,Vuagnatite
+57,4216,Vuonnemite
+58,122,Allactite
+62,4225,Wad
+64,4232,Wakabayashilite
+69,147,Altaite
+70,4244,Warikahnite
+73,157,Alumohydrocalcite
+74,4255,Weeksite
+75,162,Alunogen
+77,2758,Monohydrocalcite
+78,4265,Wellsite
+80,4269,Wenkite
+83,181,Native Amalgam
+84,4278,Whiteite-(CaMnMg)
+87,4282,Wickenburgite
+89,189,Amblygonite
+91,197,Amesite
+93,4297,Winstanleyite
+108,4321,Wyllieite
+117,2771,Montroydite
+119,4347,Xanthoxenite
+121,254,Anthophyllite
+122,4352,Yanomamite
+125,4359,Yedlinite
+126,265,Polybasite-Tac
+128,272,Apachite
+129,28945,Gjerdingenite-Na
+132,4378,Yuksporite
+136,4386,Zapatalite
+138,4390,Zektzerite
+139,4392,Zemannite
+140,299,Argentopyrite
+141,4396,Zeophyllite
+145,4405,Zinc
+146,312,Arsenolamprite
+148,10975,Argentiferous Galena
+149,4414,Zincrosasite
+152,4420,Zippeite
+158,2787,Mosandrite-(Ce)
+160,2789,Moschellandsbergite
+164,61,Ahlfeldite
+165,372,Arsentsumebite
+168,8574,Satin Spar Gypsum
+170,384,Asbolane
+171,388,Ashburtonite
+172,389,Ashcroftine-(Y)
+175,404,Astrocyanite-(Ce)
+178,407,Atelestite
+179,2799,Mozartite
+180,416,Aubertite
+185,4106,Uranophane-β
+186,7582,Charmarite
+187,439,Awaruite
+188,29118,Fluor-schorl
+192,459,Barian Celestine
+194,10318,Pillaite
+198,484,Bahianite
+199,490,Bakerite
+200,492,Balangeroite
+201,8688,Bournonite-Seligmannite Series
+203,506,Bandylite
+205,516,Barbosalite
+206,533,Barnesite
+209,546,Barysilite
+211,6919,Esperanzaite
+212,557,Bassanite
+214,6920,Faujasite-Ca
+215,563,Bastnäsite
+216,564,Bastonite
+217,9507,Marble
+218,572,Baumhauerite
+219,575,Bauxite
+223,582,Bayleyite
+226,591,Beaverite-(Cu)
+232,2834,Namansilite
+233,623,Benavidesite
+235,6931,Ferrierite-Mg
+237,629,Berborite
+239,633,Berlinite
+240,634,Bermanite
+241,11029,Feklichevite
+248,654,Beyerite
+249,664,Bieberite
+250,665,Bismutomicrolite (of Hogarth 1977)
+254,4114,Uranothorianite
+255,29347,Unnamed (Gordaite-related Ca-Zn Sulphate Chloride Hydrate)
+257,681,Bischofite
+258,682,Bismite
+259,683,Bismoclite
+264,690,Red Beryl
+267,701,Bobierrite
+268,703,Bøggildite
+269,704,Boggsite
+270,707,Böhmite
+275,804,Burckhardtite
+277,733,Botryogen
+282,8940,Childrenite-Eosphorite Series
+283,749,Brackebuschite
+284,752,Braitschite-(Ce)
+286,755,Brannockite
+287,757,Braunite
+288,759,Bravoite
+290,127,Allanite-(Y)
+292,765,Ferroan Magnesite
+294,8965,Enstatite-Ferrosilite Series
+295,775,Britholite-(Ce)
+300,800,Bultfonteinite
+301,8996,Crocidolite
+302,805,Burkeite
+308,827,Calcioburbankite
+310,4235,Walentaite
+312,6967,Georgbokiite
+314,45907,Favreauite
+320,869,Calomel
+321,870,Calumetite
+323,876,Campigliaite
+325,2877,Nenadkevichite
+327,883,Cannizzarite
+328,884,Cannonite
+331,894,Carbonatecyanotrichite
+333,898,Carletonite
+334,899,Carlfriesite
+335,903,Carlosturanite
+337,906,Carnallite
+338,907,Carnotite
+339,6978,Grattarolaite
+341,912,Caryinite
+347,930,Ceriopyrochlore (of Hogarth 1977)
+352,939,Cesàrolite
+363,963,Chalcocyanite
+364,966,Chambersite
+366,970,Chapmanite
+367,972,Charoite
+371,982,Chlorothionite
+373,986,Chenevixite
+375,991,Chernikovite
+379,6993,Heyrovskýite
+380,1002,Chiavennite
+382,1006,Chiolite
+383,25587,Anorthominasragrite
+384,25588,Goldquarryite
+385,1013,Chlorapatite
+389,2598,Matulaite
+390,39765,Georgerobinsonite
+391,1026,Choloalite
+395,1036,Chromite
+398,1043,Chudobaite
+403,1056,Clairite
+404,25633,Tokyoite
+405,1058,Claringbullite
+408,1067,Clinobisvanite
+409,1068,Clinochalcomenite
+413,1075,Clinohedrite
+414,25652,Pezzottaite
+415,1080,Mimetite-M
+418,1092,Cobaltomenite
+419,182,Amarantite
+424,1106,Coffinite
+426,1109,Collinsite
+427,1110,Coloradoite
+428,1111,Colquiriite
+429,25689,Hartite
+431,1118,Congolite
+433,25696,Nevadaite
+437,1126,Coquimbite
+439,1130,Corkite
+445,1139,Cosalite
+450,1149,Creaseyite
+453,1153,Crichtonite
+455,9348,Soapstone
+462,1177,Cuprobismutite
+463,1183,Cuprian Descloizite
+464,4294,Willhendersonite
+467,5293,Bronzite
+468,1199,Cuzticite
+469,1200,Cyanochroite
+470,6991,Heulandite-Sr
+471,1202,Cualstibite-1M
+476,1212,Dachiardite
+477,1213,Dadsonite
+481,1229,Daubréeite
+484,1238,Davyne
+486,1951,Huntite
+490,1263,Derbylite
+491,1264,Derriksite
+492,1266,Desautelsite
+495,1273,Dewindtite
+496,2943,Nullaginite
+502,1289,Dietrichite
+505,1298,Dixenite
+506,7043,Zincgartrellite
+507,1302,Dolerophanite
+509,7044,Rappoldite
+510,1306,Domeykite
+511,1309,Donnayite-(Y)
+514,1319,Dresserite
+516,1324,Dufrénoysite
+519,7048,Lemmleinite-K
+521,1332,Durangite
+522,1333,Duranusite
+523,1334,Dussertite
+525,4319,Wyartite
+528,1343,Eakerite
+531,1355,Efremovite
+539,1374,Emeleusite
+543,1379,Empressite
+551,1393,Epsomite
+554,1404,Ernstite
+557,1408,Erythrosiderite
+558,1412,Esperite
+559,7062,Belloite
+561,1416,Euchlorine
+562,1417,Euchroite
+564,1419,Eucryptite
+568,1429,Ewaldite
+569,1431,Ezcurrite
+571,1435,Faheyite
+572,3992,Tombarthite-(Y)
+575,1444,Falcondoite
+576,42410,Hilarionite
+577,1452,Fangite
+582,1469,Fedotovite
+585,4342,Xocomecatlite
+587,1483,Fernandinite
+588,42445,Lamprophyllite Group
+590,1496,Ferrimolybdite
+593,1511,Ferrobustamite
+595,1516,Ferro-glaucophane
+596,1517,Ferrohexahydrite
+598,1522,Ferrokësterite
+601,1531,Tapiolite-(Fe)
+602,2986,Olmsteadite
+603,7765,Maskelynite
+605,39169,Chalcodite
+607,1550,Fingerite
+608,1551,Finnemanite
+610,1558,Flinkite
+613,1561,Florencite-(La)
+614,4280,Whitlockite
+615,1566,Fluoborite
+618,4144,Vandenbrandeite
+622,1588,Fraipontite
+626,1600,Fransoletite
+629,1607,Fresnoite
+632,1622,Furutobeite
+638,1634,Gaidonnayite
+641,1644,Gallite
+642,1649,Ganophyllite
+643,1651,Garnet Supergroup
+644,1654,Gartrellite
+645,9847,Randite
+646,1656,Gasparite-(Ce)
+647,1657,Gaspéite
+648,1670,Geikielite
+649,1673,Genthelvite
+650,1675,Georgechaoite
+651,1680,Gerhardtite
+654,1691,Gilalite
+655,1694,Gillulyite
+656,1699,Girdite
+658,5805,Lodestone
+659,1710,Glauconite
+662,1715,Gobbinsite
+663,1717,Godovikovite
+664,1718,Goedkenite
+667,1721,Goldfieldite
+668,1722,Goldichite
+669,1723,Goldmanite
+671,1725,Gonyerite
+673,1727,Gorceixite
+675,1732,Goudeyite
+676,4385,Zanazziite
+679,46798,Cyprine
+683,1756,Groutite
+684,1758,Grunerite
+685,42724,Tangdanite
+688,1770,Guildite
+689,1774,Gummite
+692,1786,Gysinite-(Nd)
+695,1797,Haidingerite
+697,1802,Haiweeite
+702,1812,Hammarite
+703,26392,Larisaite
+704,1818,Hardystonite
+707,1826,Hatchettite
+708,1830,Hauckite
+709,26407,Jaspillite
+713,26417,Alsakharovite-Zn
+715,26419,Hapkeite
+716,1846,Heidornite
+717,1848,Heinrichite
+718,1849,Hejtmanite
+721,1859,Hemihedrite
+723,1864,Hendricksite
+725,26443,Ansermetite
+726,1869,Hentschelite
+728,1881,Hessite
+730,1883,Hetaerolite
+733,1890,Hewettite
+734,1892,Hexahydroborite
+735,1898,Hibschite
+737,1902,Hilgardite
+738,1908,Hinsdalite
+739,1909,Hiortdahlite
+740,1910,Hisingerite
+743,1924,Holtedahlite
+744,26933,Withamite
+746,1929,Hongshiite
+748,1936,Howlite
+759,3058,Pachnolite
+762,1983,Hydroniumjarosite
+763,1990,Hydroxycancrinite
+766,1998,Henryite
+767,1999,Hopeite
+768,2000,Ianthinite
+770,2009,Ilesite
+774,2019,Imhofite
+775,26600,Herbertsmithite
+779,38898,Adranosite-(Fe)
+780,2037,Iodargyrite
+781,2038,Iowaite
+782,2040,Iranite
+789,2071,Jamesite
+791,2074,Janhaugite
+792,2076,Jarlite
+796,2082,Jasper
+797,2084,Jeanbandyite
+798,2085,Jeffersonite
+801,2091,Jeromite
+802,2102,Johannite
+803,10295,Cuprian Elbaite
+804,2107,Johnsomervilleite
+808,2120,Julgoldite-(Fe2+)
+811,2132,Kainite
+813,2142,Kalsilite
+814,2146,Kamchatkite
+815,26723,Blue Quartz
+818,3089,Parafransoletite
+822,2159,Karibibite
+823,2162,Carpathite
+826,2182,Kemmlitzite
+827,2186,Kenyaite
+828,2188,Kernite
+829,10382,Bradaczekite
+830,2191,Keyite
+831,2192,Keystoneite
+834,2199,Khinite
+836,2208,Kimuraite-(Y)
+837,2209,Kimzeyite
+838,2210,Kingite
+839,2211,Kingsmountite
+841,2215,Kipushite
+844,2232,Kobeite-(Y)
+845,2237,Koktaite
+846,2239,Kolbeckite
+847,3105,Parapierrotite
+849,9250,Eisenkiesel
+856,2279,Krut'aite
+859,2285,Kulanite
+860,26864,Picrolite
+863,2296,Kurumsakite
+866,8576,Leucochalcite
+870,2314,Lammerite
+873,7214,Palladodymite
+874,2327,Lanthanite-(Nd)
+879,2342,Laurelite
+888,2368,Leifite
+890,2370,Leiteite
+891,2373,Lengenbachite
+894,2382,Letovicite
+895,2807,Mummeite
+896,2384,Leucophoenicite
+898,2386,Leucosphenite
+900,1764,Guarinite
+903,2399,Likasite
+904,2400,Lillianite
+909,39272,Sooty Uraninite
+910,2412,Lipscombite
+915,2423,Liveingite
+916,2425,Lizardite
+918,2432,Loparite-(Ce)
+919,2433,Lópezite
+922,51589,Clino-suenoite
+923,8599,Ankerite-Dolomite Series
+924,2451,Ludjibaite
+927,2456,Luetheite
+932,43427,Calcian Elpidite
+933,39333,Miguelromeroite
+934,2477,Ferri-katophorite
+937,2501,Magnesioferrite
+940,2511,Mackayite
+941,2514,Macquartite
+944,2521,Magnesioaubertite
+946,2524,Magnesio-hornblende
+950,2556,Mammothite
+953,2566,Manjiroite
+956,222,Andorite
+957,2579,Marrite
+958,2580,Marshite
+959,2582,Marthozite
+960,2583,Martite
+961,2584,Mascagnite
+962,2588,Masutomilite
+963,2589,Masuyite
+964,2592,Matildite
+967,43558,Ferrihollandite
+969,10792,Unnamed (Pb Silicate) ?
+970,10793,Unnamed (Cu-Pb Silicate ?)
+971,10798,Mottanaite-(Ce)
+973,10804,Kleberite
+974,2614,Mcgovernite
+975,2615,Mcguinnessite
+976,2617,Mckelveyite-(Y)
+978,2622,Melanovanadite
+979,6719,Rhodolite
+986,2639,Melonite
+995,2664,Metasaléeite
+996,7271,Rodolicoite
+997,10860,Moldavite
+998,2674,Metahewettite
+999,10003,Mariposite
+1000,2682,Metarossite
+1001,39547,Fluoro-leakeite
+1005,10889,Watermelon Tourmaline
+1010,2707,Miersite
+1018,2725,Mirabilite
+1019,2727,Miserite
+1022,10924,Nickeloan Rosasite
+1023,2734,Molybdofornacite
+1025,6833,Brewsterite-Sr
+1027,10934,Nikischerite
+1030,2748,Molybdite
+1034,39616,Berborite-2H
+1036,6856,Chabazite-Na
+1038,2765,Monteregianite-(Y)
+1039,2766,Montesommaite
+1041,2769,Montroseite
+1043,2773,Moolooite
+1044,6870,Christelite
+1047,31866,Hagendorfite-(Na)(Na)
+1048,2782,Morenosite
+1050,2785,Morinite
+1053,6884,Clinoptilolite-Na
+1058,6894,Cumengeite
+1059,6895,Dachiardite-Ca
+1060,6896,Dachiardite-Na
+1062,10997,Oswaldpeetersite
+1064,10999,Felbertalite
+1066,6909,Eastonite
+1067,6911,Effenbergerite
+1068,2817,Mushistonite
+1069,11011,Neustädtelite
+1071,11015,Cobaltneustädtelite
+1072,11016,Smaragdite
+1073,2826,Nacrite
+1074,6923,Feinglosite
+1076,6930,Ferrierite-K
+1077,2835,Nambulite
+1081,6946,Fianelite
+1084,2856,Natrojarosite
+1085,2867,Navajoite
+1087,2871,Neighborite
+1088,6971,Gmelinite-Ca
+1089,6973,Gmelinite-Na
+1090,2879,Neotocite
+1092,2882,Népouite
+1094,2885,Nesquehonite
+1095,2887,Newberyite
+1096,2889,Nickelhexahydrite
+1098,2895,Nickel
+1099,2897,Nickelskutterudite
+1100,11090,Turtmannite
+1104,7004,Hydrowoodwardite
+1105,11102,Cobaltoan Pyrite
+1107,2915,Nissonite
+1108,2918,Nitrobarite
+1111,11113,Cobaltarthurite
+1112,2923,Noelbensonite
+1113,2924,Nontronite
+1114,2926,Nordenskiöldine
+1115,2930,Nordstrandite
+1116,7027,Cabalzarite
+1117,11125,Ferroan Dolomite
+1118,2940,Nsutite
+1119,2942,Nukundamite
+1121,1189,Cuprorivaite
+1123,2948,Nakauriite
+1125,7047,Fluornatromicrolite
+1126,2952,Obradovicite-KCu
+1127,7053,Vajdakite
+1128,2960,Offretite
+1129,7058,Lulzacite
+1130,7059,Krettnichite
+1131,2965,Ojuelaite
+1134,11162,Pseudogaylussite
+1135,7070,Urusovite
+1138,7081,Cerchiaraite-(Mn)
+1139,7082,Londonite
+1140,2987,Olsacherite
+1141,7084,Henrymeyerite
+1143,26440,Cavoite
+1146,3000,Limestone Onyx
+1148,11200,Fowlerite
+1149,7105,Čejkaite
+1150,7106,Ferrokentbrooksite
+1151,11206,Manganlotharmeyerite
+1153,26445,Gramaccioliite-(Y)
+1154,11216,Dickthomssenite
+1156,7123,Juanitaite
+1160,8698,Riebeckite Root Name
+1161,7134,Kerstenite
+1162,7135,Khaidarkanite
+1163,3043,Ottrélite
+1164,3045,Oulankaite
+1165,3049,Owyheeite
+1167,7147,Kuzelite
+1169,11432,Novgorodovaite
+1170,7154,Lévyne-Ca
+1172,3066,Palermoite
+1173,7168,Manganogrunerite
+1174,3077,Papagoite
+1175,3086,Paradamite
+1176,3087,Paradocrasite
+1177,7185,Nabiasite
+1178,3090,Paragonite
+1179,3092,Parahopeite
+1180,3095,Khinite-3T
+1181,7192,Niedermayrite
+1182,11439,Nabesite
+1183,11440,Lemmleinite-Ba
+1185,3111,Parascholzite
+1188,3118,Paravauxite
+1192,3123,Parkinsonite
+1195,3128,Cuproroméite
+1196,3252,Poldervaartite
+1198,7227,Phillipsite-Ca
+1201,3138,Pearceite
+1203,7238,Piretite
+1204,11337,Sphaerobertrandite
+1206,11340,Cliftonite
+1208,3153,Pentahydrite
+1209,7252,Prismatine
+1211,3160,Perhamite
+1216,3167,Perraultite
+1218,3172,Petarasite
+1219,3174,Petersenite-(Ce)
+1220,3175,Petersite-(Y)
+1221,7274,Rosiaite
+1222,3180,Petzite
+1225,3184,Pharmacolite
+1227,11378,Schneebergite
+1230,11383,Graulichite-(Ce)
+1234,7291,Shkatulkalite
+1235,3199,Phosphoferrite
+1236,7296,Silvialite
+1237,3201,Phuralumite
+1238,3202,Phurcalite
+1239,7299,Smrkovecite
+1243,3214,Pinakiolite
+1244,3215,Pinalite
+1245,3217,Pinnoite
+1247,7319,Sturtite
+1248,3224,Pitticite
+1249,7336,Thomasclarkite-(Y)
+1251,3232,Plagionite
+1258,7367,Wiluite
+1259,11436,Santabarbaraite
+1260,7341,Trilithionite
+1262,3248,Plumbojarosite
+1266,3258,Polydymite
+1267,11451,Ferronigerite-6N6S
+1268,3263,Ponomarevite
+1269,3264,Portlandite
+1271,11458,Gjerdingenite-Fe
+1272,7364,Wesselsite
+1273,3269,Potosíite
+1279,11475,Manganvesuvianite
+1280,3285,Probertite
+1281,7382,Yvonite
+1283,3288,Prosperite
+1284,7386,Zincohögbomite-2N2S
+1286,3297,Pseudolaueite
+1294,3316,Pyrochlore Group
+1295,3317,Pyrochroite
+1297,11511,Guanacoite
+1300,11514,Holfertite
+1303,3327,Pyroxmangite
+1305,3329,Petitjeanite
+1307,3335,Quadridavyne
+1309,7383,Gagarinite-(Ce)
+1312,3351,Raguinite
+1313,7450,Synchysite
+1314,10799,Ciprianiite
+1316,3360,Ranciéite
+1317,3364,Ransomite
+1319,3367,Rashleighite
+1321,3373,Ravatite
+1323,3380,Redledgeite
+1324,3385,Reichenbachite
+1325,3386,Reinerite
+1326,3389,Renierite
+1327,3402,Rhönite
+1332,3418,Riebeckite
+1333,3423,Rinneite
+1334,3424,Ripidolite
+1335,3428,Römerite
+1336,3431,Robertsite
+1337,7529,Ozocerite
+1338,3435,Rodalquilarite
+1342,3446,Rorisite
+1345,3449,Roscoelite
+1347,3451,β-Roselite
+1349,2624,Medaite
+1352,3461,Rostite
+1353,3462,Roubaultite
+1356,3476,Ruizite
+1357,3478,Russellite
+1358,3483,Ruthenium
+1363,3493,Sabelliite
+1364,3494,Sabieite
+1365,3495,Sabinaite
+1366,3500,Safflorite
+1367,3502,Sahlinite
+1368,11437,Litvinskite
+1369,3507,Salammoniac
+1372,40375,Pascoite Group
+1374,3515,Sampleite
+1375,3517,Samuelsonite
+1376,3520,Saneroite
+1379,40396,Pseudoapatite
+1380,7630,Clinopyroxene Subgroup
+1382,3540,Sassolite
+1383,3544,Sauconite
+1385,3551,Scarbroite
+1387,3557,Schallerite
+1388,3559,Schaurteite
+1390,3566,Schieffelinite
+1393,3571,Schneiderhöhnite
+1397,3577,Schoonerite
+1399,3579,Schorlomite
+1400,3583,Schreyerite
+1405,3592,Schwartzembergite
+1409,3597,Scotlandite
+1410,3603,Seeligerite
+1416,3617,Senaite
+1419,3620,Sengierite
+1422,7726,Telluronevskite
+1423,3634,Shattuckite
+1424,3636,Shcherbinaite
+1425,3637,Sherwoodite
+1426,3638,Shigaite
+1427,3639,Shomiokite-(Y)
+1428,3640,Shortite
+1429,3641,Shubnikovite
+1433,3654,Sidwillite
+1435,3656,Sieleckiite
+1438,46697,Kayrobertsonite
+1439,3668,Simonkolleite
+1440,3259,Polyhalite
+1441,3670,Simpsonite
+1446,613,Bellite
+1447,3681,Sklodowskite
+1451,3669,Simplotite
+1452,3347,Rabbittite
+1454,3702,Soddyite
+1455,3705,Metanatroautunite
+1456,3712,Sonoraite
+1457,3714,Sofiite
+1459,3722,Spencerite
+1461,3724,Spertiniite
+1463,3726,Spherocobaltite
+1465,3728,Spheniscidite
+1467,3731,Spiroffite
+1469,3734,Spurrite
+1470,3736,Srebrodolskite
+1471,32411,Planerite-Turquoise Series
+1472,3740,Strontiojoaquinite
+1477,3755,Steatite
+1478,3759,Steigerite
+1482,3775,Stibarsen
+1484,7873,Breunnerite
+1486,3781,Stibivanite
+1490,7281,Schwertmannite
+1491,3789,Stilpnomelane
+1492,3792,Stoiberite
+1494,3795,Stottite
+1496,3798,Stranskiite
+1499,3802,Stringhamite
+1502,3815,Studtite
+1503,3820,Sudoite
+1505,3827,Sulvanite
+1506,3829,Suolunite
+1507,3832,Sursassite
+1509,3834,Sussexite
+1512,3843,Swamboite-(Nd)
+1513,3845,Swedenborgite
+1516,3850,Sylvite
+1517,3851,Symplesite
+1520,3859,Szomolnokite
+1521,3862,Szenicsite
+1522,3865,Tachyhydrite
+1528,53039,Jahnsite Subgroup
+1531,3896,Tavorite
+1533,3903,Telargpalite
+1539,3914,Terlinguaite
+1540,3921,Tetradymite
+1543,3926,Tetrarooseveltite
+1544,3934,Theisite
+1545,3935,Thénardite
+1546,3939,Thometzekite
+1549,3943,Thoreaulite
+1553,3950,Thortveitite
+1554,3952,Threadgoldite
+1555,3957,Tiemannite
+1556,3961,Tikhonenkovite
+1558,3966,Tinaksite
+1560,3969,Tinsleyite
+1561,3972,Tinzenite
+1564,3979,Titanowodginite
+1567,8080,Aluminian Britholite
+1570,8589,Almandine-Pyrope Series
+1571,3995,Tooeleite
+1578,4020,Triphylite
+1579,4021,Triplite
+1580,4024,Tripuhyite
+1582,4036,Tschermigite
+1584,4039,Tsumcorite
+1586,4041,Tsumoite
+1587,4044,Tugtupite
+1588,674,Billietite
+1589,4046,Tulameenite
+1590,4051,Tungstenite
+1591,4052,Tungstibite
+1593,4057,Tuperssuatsiaite
+1596,4063,Tuzlaite
+1599,4073,Tangeite
+1600,6823,Benyacarite
+1601,11456,Cattiite
+1602,4083,Uintahite
+1604,4088,Ulrichite
+0,2050,Ishikawaite
+10,2062,Jadeite
+11,4113,Uranospinite
+13,2067,Jahnsite-(CaMnMg)
+17,23,Adelite
+25,33,Aenigmatite
+27,6957,Frankamenite
+37,2097,Jinshajiangite
+40,26569,Mercurian Tennantite
+46,8255,Chromian Wulfenite
+58,3890,Taranakite
+69,30325,Stink-Fluss
+75,4222,Vyuntspakhkite-(Y)
+78,129,Alleghanyite
+79,2178,Keiviite-(Yb)
+80,4227,Wadeite
+84,2189,Kësterite 
+88,26774,Vanadiocarpholite
+89,4248,Wattersite
+93,2205,Kilchoanite
+95,2212,Kinichilite
+97,832,Calcioferrite
+98,2217,Kirschsteinite
+100,1735,Graftonite
+105,4277,Whiteite-(CaFeMg)
+106,1737,Grandidierite
+108,2233,Kobellite
+118,4129,Ushkovite
+124,4304,Wolfeite
+140,2278,Krupkaite
+146,2170,Kawazulite
+151,2290,Kupletskite
+153,4343,Xonotlite
+156,42,Afwillite
+161,1761,Guanajuatite
+163,2315,Lamprophyllite
+165,4367,Yttrialite-(Y)
+167,1411,Eskolaite
+169,280,Aphthitalite
+176,290,Argentojarosite
+181,4394,Zenzénite
+185,2352,Lawsonbauerite
+199,2374,Leningradite
+206,3971,Tintinaite
+209,4435,Zvyagintsevite
+212,2390,Lithiotantite
+214,2447,Luanheite
+215,3012,Orcelite
+223,2409,Linnaeite
+229,2424,Livingstonite
+231,29050,Talmessite - β-Roselite Series
+232,10303,Columbite-Tantalite
+241,2059,Ixiolite
+242,2450,Luddenite
+243,67,Akaganeite
+247,29083,Zincian Calcite
+255,2469,Mangangordonite
+258,4523,Zygadite
+259,413,Atokite
+263,29427,Famatinite-Luzonite Series
+265,2487,Lobanovite
+267,2491,Pyrosmalite-(Mn)
+273,454,Achroite
+275,9767,Pyroxene Group
+285,8668,Columbite-(Fe)-Tantalite-(Fe) Series
+288,2537,Magnesio-arfvedsonite
+291,8685,Magnesite-Siderite Series
+294,8690,Lazulite-Scorzalite Series
+295,7251,Pretulite
+296,501,Balyakinite
+303,512,Baratovite
+310,524,Barićite
+312,2577,Maricopaite
+314,6676,Flint
+325,6697,Holmbushite
+326,2603,Mawbyite
+331,2612,Mcconnellite
+336,2621,Metavauxite
+337,437,Avicennite
+340,27204,Wilhelmramsayite
+350,2642,Mendozavilite-NaFe
+356,604,Beidellite
+357,2490,Axinite-(Mg)
+358,27232,Williamsite
+364,10859,Tektite
+373,632,Bergslagite
+379,645,Berzelianite
+381,2697,Metazellerite
+390,6802,Andyrobertsite
+396,7620,Sceptre Quartz
+398,2717,Minasragrite
+409,2733,Molybdomenite
+412,689,Bityite
+421,1814,Hancockite
+428,7116,Itoigawaite
+430,6862,Charmarite-2H
+431,719,Bonshtedtite
+436,2776,Moorhouseite
+447,2791,Moss Agate
+449,2794,Mounanaite
+450,2795,Mountainite
+452,39378,Roscherite Group
+454,1383,Englishite
+457,10995,Baumstarkite
+460,762,Bredigite
+461,26751,Copal
+468,2177,Keiviite-(Y)
+470,2825,Nacareniobsite-(Ce)
+475,2831,Nahcolite
+482,791,Brugnatellite
+484,2844,Nasonite
+488,802,Burangaite
+489,11044,Selenian Sulphur
+490,6950,Fluoro-edenite
+491,817,Benleonardite
+494,1159,Crookesite
+503,2872,Nekoite
+506,6972,Gmelinite-K
+516,850,Cafetite
+517,851,Cahnite
+529,882,Canfieldite
+533,2935,Northupite
+535,890,Caracolite
+537,2941,Nuffieldite
+540,896,Carbonate-rich Hydroxylapatite
+541,3904,Tellurantimony
+544,10390,Micheelsenite
+550,915,Cassedanneite
+552,919,Catapleiite
+558,928,Celsian
+560,7074,Bakhchisaraitsevite
+565,937,Cervelleite
+566,2988,Olshanskyite
+568,2888,Neyite
+570,8626,Roselite-Wendwilsonite Series
+572,952,Chrysoprase
+577,8693,Elbaite-Schorl Series
+581,9156,Ancylite
+584,3017,Orientite
+594,27608,Phosphohedyphane
+597,7132,Kentbrooksite
+605,1007,Chkalovite
+606,1192,Cuprospinel
+613,1019,Chlormanganokalite
+614,3070,Palladseite
+617,7170,Manganonordite-(Ce)
+619,1028,Chrisstanleyite
+620,3621,Sepiolite
+626,7186,Nafertisite
+627,1044,Chukhrovite-(Ce)
+631,3097,Paralstonite
+639,1061,Clausthalite
+640,1062,Clays
+642,3114,Parasymplesite
+645,3117,Paraumbite
+660,1095,Coalingite
+665,25679,Ferrian Variscite
+672,25691,Håleniusite-(La)
+673,621,Bementite
+683,25707,Haineaultite
+690,3186,Phaunouxite
+693,3189,Phengite
+709,9353,Coal
+717,3609,Sekaninaite
+718,31409,Parwanite
+719,3226,Pääkkönenite
+724,9382,Geyserite
+726,3240,Plumbopalladinite
+728,7338,Titanclinohumite
+729,1196,Curienite
+731,3246,Plumboferrite
+740,7354,Vicanite-(Ce)
+741,1567,Fluocerite-(Ce)
+743,3261,Polymignite
+744,1215,Damaraite
+750,11464,Percleveite-(Ce)
+752,7372,Wupatkiite
+754,4301,Wittite
+756,3282,Priderite
+761,9434,Anthracite
+773,3309,Pumpellyite-(Mg)
+788,2261,Kostylevite
+794,28887,Polylithionite-Trilithionite Series
+798,1296,Dissakisite-(Ce)
+801,1303,Dollaseite-(Ce)
+808,1312,Dorfmanite
+812,1585,Foshagite
+814,11561,Ferroan Phlogopite
+815,3371,Rauenthalite
+823,3382,Reedmergnerite
+826,1341,Danalite
+829,1350,Edenharterite
+830,1352,Edgarbaileyite
+833,3403,Rhodesite
+835,28898,Monheimite
+837,1359,Eifelite
+839,1251,Delhayelite
+845,1614,Frondelite
+846,9786,Honey Opal
+860,1394,Erdite
+862,7540,Gold Opal
+866,5499,Melnikovite
+871,8670,Gahnite-Spinel Series
+873,7557,Viridine
+875,1415,Eucairite
+881,1421,Eudidymite
+882,2775,Mooreite
+886,1603,Fredrikssonite
+887,3479,Rustenburgite
+888,1604,Freedite
+898,3504,Sakhaite
+899,27208,Capillitite
+907,1474,Felsőbányaite
+908,1475,Fenaksite
+911,5574,Specularite
+915,3534,Sarcopside
+916,3537,Sartorite
+917,1492,Ferrierite
+918,590,Bearthite
+920,3546,Sazhinite-(Ce)
+922,42461,Unnamed (Sazhinite-related mineral I)
+924,32227,Londonite-Rhodizite Series
+929,3568,Schlossmacherite
+939,5628,Hiortdahlite I
+949,3599,Seamanite
+950,1552,Fischesserite
+954,1556,Fleischerite
+957,3257,Polycrase-(Y)
+961,3615,Semenovite-(Ce)
+963,7349,Vanadomalayaite
+969,1575,Fluorellestadite
+972,1578,Foggite
+973,5675,Osmiridium
+976,7729,Hydroxylclinohumite
+980,1197,Curite
+983,3642,Shuiskite
+984,3679,Skinnerite
+989,4363,Yoderite
+990,9796,Menilite
+991,3653,Sidorenkite
+993,1608,Freudenbergite
+995,1610,Friedrichite
+996,3469,Rozenite
+1007,1639,Galaxite
+1010,1642,Galenobismutite
+1012,9837,Wood Opal
+1013,1647,Ganomalite
+1015,4371,Yttrofluorite
+1020,9834,Wax Opal
+1021,3711,Sonolite
+1022,1665,Gedrite
+1023,619,Belyankinite
+1024,3716,Sørensenite
+1031,1678,Gerasimovskite
+1035,1683,Gersdorffite
+1040,1688,Gianellaite
+1043,7836,Tsavorite
+1046,2331,Laplandite-(Ce)
+1047,3749,Stannomicrolite (of Hogarth 1977)
+1049,1706,Glauberite
+1051,3756,Steenstrupine-(Ce)
+1052,1709,Glaucodot
+1058,3767,Sternbergite
+1074,3793,Stokesite
+1092,978,Chalcothallite
+1112,3857,Szaibélyite
+1114,1935,Howieite
+1116,1327,Duhamelite
+1119,1824,Hastingsite
+1122,2694,Metavariscite
+1133,25599,Paravinogradovite
+1134,650,Betekhtinite
+1140,310,Aramayoite
+1141,3910,Tengerite-(Y)
+1148,32275,Apatite Group
+1149,3922,Tetraferriphlogopite
+1152,4409,Zincaluminite
+1155,3931,Thalénite-(Y)
+1163,1901,Hilairite
+1166,1906,Hingganite-(Y)
+1173,1913,Hodgkinsonite
+1175,1916,Högbomite
+1182,1931,Hörnesite
+1184,1937,Hsianghualite
+1190,3998,Törnebohmite-(Ce)
+1193,1953,Hurlbutite
+1204,1971,Hydrodelhayelite
+1210,4029,Troilite
+1212,4034,Tsaregorodtsevite
+1224,2007,Ikaite
+1229,2014,Ilmenorutile
+1232,7163,Katophorite
+1235,4433,Zunyite
+1237,2025,Inderite
+1248,4090,Umangite
+1249,3955,Thulite
+1250,4092,Umbozerite
+1251,2045,Iridium
+2,4101,Urancalcarite
+8,4111,Uranospathite
+17,4128,Uzonite
+20,40,Aeschynite
+27,52,Agate-Jasper
+35,70,Åkermanite
+40,4180,Villamaninite
+43,90,Alabaster
+57,4236,Wallisite
+61,4245,Warwickite
+66,163,Alurgite
+70,4274,Wheatleyite
+81,199,Amicite
+102,242,Bismuthian Tetrahedrite
+110,4358,Yecoraite
+125,31451,Sagenite (of Saussure)
+139,29000,Laubmannite (of Moore)
+149,367,Pearceite-T2ac
+150,6888,Colerainite
+154,382,Asbecasite
+156,8579,Damourite
+159,4491,Cymatolite
+166,8613,Baryte-Celestine Series
+168,8615,Bastnäsite-(Ce)-Hydroxylbastnäsite-(Ce) Series
+169,4520,Peristerite
+178,455,Arandisite
+185,8680,Nickelskutterudite-Skutterudite Series
+188,11005,Natrolemoynite
+193,6915,Erionite-Ca
+194,4186,Vinogradovite
+195,29214,Hellandite Group
+196,11013,Tsepinite-Na
+198,8738,Amosite
+201,558,Bassetite
+208,29252,Humite Group
+216,626,Benstonite
+220,638,Berryite
+221,639,Berthierine
+230,660,Bianchite
+245,4809,Pseudocubic Quartz
+247,718,Bonattite
+249,722,Borax
+269,803,Burbankite
+272,810,Butlerite
+278,836,Magnesian Annabergite
+290,881,Cancrisilite
+299,910,Carrboydite
+304,922,Caysichite-(Y)
+325,974,Chayesite
+336,25585,Hillite
+337,6853,Kupletskite-(Cs)
+350,1057,Claraite
+361,1083,Clinosafflorite
+368,25675,Zirsilite-(Ce)
+370,25682,Rondorfite
+374,25692,Phosphowalpurgite
+388,25713,Zincolibethenite
+390,25719,Heulandite-Ba
+415,9410,Pinite
+416,1224,Daqingshanite-(Ce)
+418,1234,Davidite-(La)
+420,4303,Wöhlerite
+430,1272,Deweylite
+437,8601,Annabergite-Erythrite Series
+460,26778,Pisolite
+461,1367,Ellestadite
+476,1392,Epistolite
+479,9603,Hydromuscovite
+480,1413,Esseneite
+498,1484,Feroxyhyte
+501,1493,Ferrihydrite
+511,1557,Fletcherite
+512,1564,Fluckite
+515,1574,Fluorbritholite-(Ce)
+520,1587,Fourmarierite
+522,1595,Franconite
+524,1601,Franzinite
+528,9798,Milk Opal
+535,46690,Garronite-Na
+544,1660,Gaudefroyite
+546,1662,Gaylussite
+552,1677,Georgiadèsite
+559,1692,Gilbertite
+561,1704,Glaucophane
+570,1728,Gordonite
+577,1748,Görgeyite
+579,9946,Lavrovite
+583,1760,Götzenite
+590,1782,Gustavite
+595,26372,Västmanlandite-(Ce)
+616,1868,Henritermierite
+617,1875,Hercynite
+618,1876,Herderite
+626,1894,Heyite
+627,1897,Hibonite
+641,1934,Howardevansite
+647,26529,Coutinhoite
+649,26531,Chromian Leadhillite
+653,1967,Hydroboracite
+656,1978,Hydrohonessite
+659,1987,Hydrotalcite
+663,1995,Hypersthene
+664,26578,Lindbergite
+676,1977,Hydrohetaerolite
+682,2068,Jahnsite-(CaMnMn)
+688,35845,Pyrobitumen
+692,2087,Jennite
+695,30765,Footemineite
+698,2106,Johninnesite
+699,10299,Ferroan Calcite
+702,2125,Jurbanite
+703,2129,Kaersutite
+707,10343,Fencooperite
+713,30863,Bowel Stone
+719,2214,Kintoreite
+722,2236,Kogarkoite
+727,2252,Koritnigite
+730,3109,Paraschachnerite
+747,2318,Landesite
+748,2320,Langbeinite
+750,2338,Laubmannite
+765,2371,Lemoynite
+767,43334,Bobmeyerite
+768,2376,Lenoblite
+772,2383,Leucophanite
+781,2410,Lintisite
+784,2417,Lithiomarsturite
+787,2420,Lithiophosphate
+803,2473,Magnesiodumortierite
+804,2480,Manganberzeliite
+807,2495,Manganohörnesite
+813,2518,Magnesio-riebeckite
+819,4518,Pericline
+822,2548,Makatite
+824,27132,Clinothulite
+826,6662,Epidote Supergroup
+830,2576,Marićite
+843,2618,Mckelveyite
+846,2625,Medenbachite
+853,2636,Meliphanite
+866,27246,Ferruginous Quartz
+868,27262,Pietersite
+874,2695,Metavivianite
+887,6814,Baksanite
+896,2735,Molybdophyllite
+900,31417,Meißelspat
+906,2757,Monimolite
+910,2764,Monteponite
+914,2774,Moonstone
+929,39672,Luinaite-(OH)
+935,11012,Rémondite-(La)
+937,6922,Faujasite-Na
+941,27414,Juangodoyite
+942,6935,Ferroceladonite
+943,2840,Nantokite
+946,2845,Nastrophite
+947,27426,Piergorite-(Ce)
+950,2854,NatrodufrÃ©nite
+952,2862,Natrophosphate
+954,2866,Naumannite
+956,31542,Britholite Group
+966,27470,Terlinguacreekite
+971,2913,Niocalite
+974,11115,Impsonite
+977,11121,Pyknite
+981,2934,Norsethite
+986,2958,Barian Muscovite
+988,11157,Burnsite
+995,11185,Cuprian Melanterite
+998,11197,Kasparite
+1000,3019,Orlymanite
+1002,7122,Juabite
+1003,3033,Osarizawaite
+1006,3039,Osumilite
+1007,3048,Overite
+1011,3063,Painite
+1012,3067,Palladium
+1015,7169,Manganokhomyakovite
+1024,7205,Oneillite
+1033,7219,Paulingite-K
+1037,3134,Paulkerrite
+1041,3149,Penkvilksite
+1042,3150,Pennantite
+1046,7256,Proto-ferro-suenoite
+1050,7266,Quintinite-3T
+1052,7269,Rheniite
+1063,7289,Sheldrickite
+1068,11395,Nickeloan Pyrrhotite
+1069,11396,Turgite
+1078,3225,Piypite
+1079,3228,Plumbopyrochlore (of Skorobogatova et al.)
+1083,7330,Ternesite
+1103,11478,Manganese
+1106,3677,Sitinakite
+1122,3326,Pyroxferroite
+1136,3361,Rankachite
+1138,3369,Rasvumite
+1139,3370,Rathite
+1142,3378,Reddingite
+1144,3388,Rémondite-(Ce)
+1147,3400,Rhabdophane
+1154,3420,Rimkorolgite
+1156,3425,Rittmannite
+1158,3429,Röntgenite-(Ce)
+1160,3432,Robinsonite
+1163,3437,Roedderite
+1165,3442,Romarchite
+1171,3454,Rosenbuschite
+1174,3307,Pumpellyite-(Fe2+)
+1180,3496,Sabugalite
+1182,3503,Sainfeldite
+1190,3518,Sanbornite
+1194,3525,Santafeite
+1201,3539,Sasaite
+1203,3543,Satterlyite
+1217,3587,Schuetteite
+1225,3600,Searlesite
+1244,7747,Fulgurite
+1248,3657,Sigloite
+1253,3675,Sinnerite
+1261,3709,Söhngeite
+1273,3742,Strontiowhitlockite
+1280,3762,Stenonite
+1289,3788,Stillwellite-(Ce)
+1299,3811,Struvite
+1301,2002,Idaite
+1304,3828,Sundiusite
+1306,3831,Surite
+1309,3847,Swinefordite
+1313,3856,Syngenite
+1317,3866,Tadzhikite-(Ce)
+1319,3874,Takovite
+1322,3877,Talnakhite
+1325,3887,Tapiolite
+1328,3900,Teallite
+1330,8000,Boulder Opal
+1336,3915,Terskite
+1345,3938,Thermonatrite
+1348,3942,Thorbastnäsite
+1367,4018,Trimerite
+1369,8117,Violan
+1370,4028,Trogtalite
+1374,8129,Calamine
+1378,4048,Tundrite-(Ce)
+1379,4050,Tunellite
+1383,4061,Tuscanite
+1385,4065,Tvedalite
+1386,4067,Twinnite
+7,4108,Uranopilite
+9,2064,Jagoite
+12,2605,Maxwellite
+21,32,Aegirine-augite
+25,4133,Vaesite
+34,4145,Vandendriesscheite
+50,26694,Pinolite
+56,4109,Uranopolycrase
+62,2139,Kaliophilite
+84,2179,Keldyshite
+87,141,Alluaivite
+107,2222,Kladnoite
+127,2254,Kornerupine
+139,378,Artroeite
+142,28896,Thomsonite
+143,3452,Rosemaryite
+173,28956,Pink Opal
+190,4407,Zincian Olivenite
+203,2377,Leonite
+215,10588,Rouaite
+226,365,Arsenocrandallite
+244,2445,Lovozerite
+261,2474,Magnesiozippeite
+262,430,Aurostibite
+267,39667,Ellingsenite
+268,436,Aventurine
+274,8640,Chalcosiderite-Turquoise Series
+277,8645,Actinolite-Tremolite Series
+278,10657,Palladian Platinum
+280,2506,Macdonaldite
+294,2530,Magadiite
+295,763,Breithauptite
+297,27112,Glendonite
+305,8691,Dravite-Schorl Series
+310,2581,Marsturite
+311,509,Bannisterite
+325,4136,Valleriite
+334,50346,Khorixasite
+339,2269,Kratochvílite
+343,568,Batisite
+345,6716,Rhodic Platinum
+347,29247,Unnamed (Fe-analogue of Zakharovite)
+359,7267,Radian Barite
+365,29274,Autunite Group
+367,2656,Merwinite
+372,3516,Samsonite
+377,40381,Strontian Potassic-richterite
+379,2152,Kanemite
+390,107,Aluminium
+409,10910,Alumino Adamite
+410,6815,Bamfordite
+420,31405,Gillardite
+423,6832,Brewsterite-Ba
+428,2742,Mohrite
+431,2069,Jalpaite
+444,1827,Hatchite
+456,3169,Perroudite
+461,27377,Jacinto de Compostela Quartz
+464,6900,Deloneite
+471,2003,Idrialite
+476,11014,Phacolite
+480,31502,Zincolivenite
+485,27412,Matioliite
+491,796,Buddingtonite
+496,4900,Iceland Spar
+497,9574,Calcio-olivine
+504,822,Brandãosite
+513,2665,Metauranocircite-I
+519,2899,Nickelalumite
+524,2911,Niobophyllite
+525,7008,Iltisite
+532,11145,Teruelite
+535,984,Chekhovichite
+555,11154,Greenovite
+573,940,Cesbronite
+579,2999,Onyx
+581,48628,Eclogite
+589,2925,Norbergite
+592,971,Charlesite
+605,3038,Osumilite-(Mg)
+620,25597,Calderónite
+623,25602,Pellouxite
+626,2080,Jasmundite
+628,1034,Chrome-bearing Grossular
+631,2353,Lawsonite
+635,5138,Corundite
+638,3094,Parakeldyshite
+643,7197,Nobleite
+667,3145,Pellyite
+671,7247,Potassic-richterite
+674,1891,Hexahydrite
+678,7061,Springcreekite
+680,1115,Combeite
+681,3164,Perloffite
+697,7279,Schäferite
+703,1214,Dalyite
+723,1167,Cualstibite
+726,46226,Ferribushmakinite
+730,9791,Jelly Opal
+733,11425,Labuntsovite-Fe
+769,3281,Priceite
+772,3284,Prixite
+777,36060,Eirikite
+781,31969,Aluminian Strengite
+783,1254,Deloryite
+784,31976,Hydronephelite
+789,3310,Pumpellyite-(Mn2+)
+801,1645,Gamagarite
+826,3623,Serendibite
+829,3383,Reevesite
+832,3387,Reinhardbraunsite
+836,1348,Eckermannite
+849,32091,Scandian Ixiolite (of von Knorring)
+851,1955,Huttonite
+864,3438,Roggianite
+878,9602,Calcioancylite
+895,40349,Calciopyrochlore
+924,2295,Kurnakovite
+936,1505,Ferro-actinolite
+937,3554,Schafarzikite
+939,40188,Strontian Baryte
+941,1515,Ferro-gedrite
+945,1524,Ferro-pargasite
+950,1536,Ferrowyllieite
+962,7698,Cupro-Allophane
+972,2991,Omphacite
+989,2167,Katoite
+995,3651,Siderophyllite
+998,3658,Silhydrite
+999,47995,Sb-rich pinakiolite
+1008,42938,Unnamed (Cu-S-Si-O-H)
+1032,1669,Geigerite
+1047,1693,Gillespite
+1062,3773,Piemontite-(Sr)
+1065,1731,Goslarite
+1073,1742,Gravegliaite
+1078,1752,Griphite
+1083,9333,Carnelian
+1094,3824,Sulphohalite
+1112,7954,Astrolite
+1120,1829,Hauchecornite
+1125,26411,Glass
+1128,3888,Taramellite
+1129,1841,Hectorite
+1139,3040,Otavite
+1143,35126,Faujasite
+1147,3131,Patrónite
+1164,3947,Thornasite
+1165,1904,Hillebrandite
+1167,3956,Thuringite
+1171,3964,Tilleyite
+1175,3973,Tiptopite
+1180,3980,Titantaramellite
+1183,3985,Tobermorite
+1187,26518,Leogangite
+1190,27125,Plazolite
+1195,815,Bytownite
+1202,1968,Hydrocalumite
+1207,26553,Bisbeeite
+1212,4033,Truscottite
+9,2283,Kukisvumite
+10,2065,Jagowerite
+25,2089,Jeppeite
+29,9906,Chrome-Vesuvianite
+38,4155,Varennesite
+44,68,Akatoreite
+45,2118,Jouravskite
+48,2123,Junitoite
+49,700,Bobfergusonite
+58,4193,Vitusite-(Ce)
+68,6252,Fibrolite
+74,2166,Kassite
+76,4218,Vyacheslavite
+78,2172,Kazakovite
+84,4230,Wairakite
+96,46105,Mendigite
+102,8598,Andradite-Schorlomite Series
+104,4264,Welinite
+106,4267,Welshite
+109,4272,Wernerite
+110,4273,Westerveldite
+115,26811,Kanonenspat
+119,4293,Willemseite
+122,200,Aminoffite
+127,206,Ammonioleucite
+137,1700,Girvasite
+141,2272,Krautite
+153,2293,Kurchatovite
+157,10964,Plessite
+158,8635,Grossular-Hibschite Series
+161,2302,Kvanefjeldite
+165,4357,Yeatmanite
+167,2312,Laihunite
+172,3339,Queitite
+177,1753,Grischunite
+178,281,Apjohnite
+181,2335,Larsenite
+182,2336,Latiumite
+187,4389,Zavaritskite
+193,1757,Grumantite
+194,304,Arsenogorceixite
+201,4408,Zinczippeite
+204,1905,Hingganite-(Ce)
+224,1366,Ellenbergerite
+225,2392,Lithiowodginite
+237,359,Arseniopleite
+239,60,Aheylite
+241,364,Arsenoclasite
+244,7231,Phosinaite-(Ce)
+245,1769,Gugiaite
+249,3135,Paulmooreite
+258,2441,Loughlinite
+259,11091,Traversellite
+264,27030,Mahogany Obsidian
+279,442,Azoproite
+280,415,Attakolite
+288,3489,Retgersite
+290,3148,Penikisite
+291,39374,Gwindel
+293,2267,Mangano-ferri-eckermannite
+304,344,Armstrongite
+311,423,Auricupride
+318,2552,Malayaite
+320,510,Baotite
+322,2560,Hydrotalcite-2H
+323,2563,Mangan-diaspore
+330,2572,Margaritasite
+331,525,Bario-orthojoaquinite
+333,27152,Marécottite
+340,9838,Yowah Nut
+351,2609,Mcallisterite
+353,2613,Mcgillite
+354,27258,Sailaufite
+356,1613,Frolovite
+361,10814,Kristiansenite
+378,72,Akrochordite
+380,1807,Hallimondite
+382,1467,Fedorite
+395,2676,Metakahlerite
+400,635,Bernalite
+401,627,Bentorite
+407,643,Beryllite
+416,6800,Ancylite-(La)
+418,2706,Microsommite
+419,7278,Scandiobabingtonite
+421,6807,Arsenbrackebuschite
+427,2719,Minehillite
+440,688,Bismutocolumbite
+443,6840,Calcioandyrobertsite
+444,7284,Seidite-(Ce)
+457,2768,Monticellite
+460,2772,Mooihoekite
+461,725,Bornemanite
+464,6872,Chromphyllite
+465,27353,Zincian Aragonite
+475,6890,Coskrenite-(Ce)
+484,27388,Avdoninite
+487,8961,Genthelvite-Helvine Series
+490,2822,Nabaphite
+491,27399,Mazzite-Na
+497,2833,Nalipoite
+502,27418,Golyshevite
+507,27424,Kochsándorite
+510,504,Banalsite
+511,806,Burpalite
+512,27431,Allanpringite
+516,47916,Ferrorhodonite
+517,2863,Natrosilite
+520,2868,Nchwaningite
+522,6966,Gatehouseite
+525,2874,Nelenite
+529,27104,Eveslogite
+532,837,Cabriite
+533,7275,Rossmanite
+538,7309,Spodiophyllite
+540,6994,Hiärneite
+544,2903,Ferronigerite-2N1S
+545,2043,Irhtemite
+547,27485,Waterhouseite
+548,1938,Huanghoite-(Ce)
+551,27490,Scheuchzerite
+554,878,Canasite
+559,2933,Norrishite
+564,11131,Trinitite
+573,39819,Alunite Group
+576,914,Cascandite
+577,2963,Ohmilite
+589,27558,Aqualite
+591,4316,Wüstite
+593,7083,Bigcreekite
+598,7091,Chromceladonite
+602,27576,Poppiite
+603,27577,Phosphoinnelite
+604,7098,Niobokupletskite
+605,27579,Paratooite-(La)
+611,1867,Hennomartinite
+612,7110,Schiavinatoite
+616,7114,Isolueshite
+620,11215,Whelanite
+633,3852,Synadelphite
+637,7148,Kuzmenkoite-Mn
+641,3057,Pabstite
+644,2558,Manaksite
+652,26453,Taseqite
+653,25600,Telyushenkoite
+657,3084,Paracoquimbite
+669,25629,Zeiringite
+676,3108,Pararobertsite
+692,3129,Parwelite
+695,3132,Paulingite
+696,7230,Philolithite
+698,7232,Phosphoellenbergerite
+699,25665,Mesitine Spar
+700,3139,Pecoraite
+709,1104,Coesite
+713,3157,Peprossiite-(Ce)
+714,3158,Percylite
+718,3163,Perlialite
+726,3173,Petedunnite
+734,25711,Kuannersuite-(Ce)
+744,7290,Shibkovite
+757,1162,Cryolithionite
+758,9355,Jet
+770,7322,Suredaite
+772,11420,Nickel-iron
+774,11424,Labuntsovite-Mg
+777,7331,Ternovite
+782,1195,Curetonite
+790,11465,Tantalite-(Mg)
+801,3267,Alum-(K)
+803,1225,Darapiosite
+804,3274,Povondraite
+808,3279,Preiswerkite
+809,3280,Preobrazhenskite
+812,1405,Ershovite
+814,1242,Deanesmithite
+819,40345,Kenoplumbopyrochlore
+833,1268,Desert Rose
+842,11518,Diversilite-(Ce)
+850,1290,Dietzeite
+852,3340,Quenselite
+862,3355,Ramdohrite
+863,1308,Donharrisite
+864,3357,Rammelsbergite
+867,3582,Schreibersite
+872,2268,Kraisslite
+882,1336,Dwornikite
+885,2271,Krauskopfite
+889,3392,Retzian-(Ce)
+891,3395,Revdite
+895,1356,Eggletonite
+899,3410,Rhomboclase
+912,2619,Mckinstryite
+919,1387,Ephesite
+925,32115,Conichalcite-Duftite Series
+939,11159,Karupmøllerite-Ca
+945,1426,Evansite
+949,40283,Bariopharmacoalumite
+952,3488,Rynersonite
+959,7598,Eye Agate
+960,7601,Fire Agate
+961,7602,Fortification Agate
+967,7611,Laguna Agate
+968,1468,Fedorovskite
+988,3552,Scawtite
+1002,1534,Ferro-winchite
+1003,3586,Schubnelite
+1005,1540,Feruvite
+1012,2307,Kinoshitalite
+1013,3604,Seelite
+1029,3626,Shabaite-(Nd)
+1031,2994,Onegite
+1055,2752,Monazite-(La)
+1059,9815,Precious Fire Opal
+1061,1626,Gabrielsonite
+1072,3694,Natrozippeite
+1075,2578,Marokite
+1080,9252,Sericite
+1083,3806,Strontio-orthojoaquinite
+1091,10967,Orthopyroxene Subgroup
+1108,1712,Glucine
+1109,3761,Stenhuggarite
+1128,2629,Melanocerite-(Ce)
+1132,2681,Metanováčekite
+1141,3812,Strüverite
+1142,1765,Guarinoite
+1148,26354,Trattnerite
+1150,2230,Koashvite
+1154,3835,Suzukiite
+1161,27607,Menezesite
+1166,3860,Szymańskiite
+1169,26393,Rouxelite
+1176,3790,Stishovite
+1183,1839,Heazlewoodite
+1192,7996,Amber Opal
+1197,6795,Aluminoceladonite
+1205,26446,Kapustinite
+1211,1880,Herzenbergite
+1216,1886,Heteromorphite
+1219,2245,Komarovite
+1228,2024,Inderborite
+1229,1907,Hingganite-(Yb)
+1231,3390,Reppiaite
+1232,3958,Tienshanite
+1234,1914,Hodrušite
+1235,4415,Zincroselite
+1237,1917,Høgtuvaite
+1239,3436,Roeblingite
+1241,1925,Holtite
+1242,1926,Homilite
+1243,3976,Tisinalite
+1252,3989,Tokkoite
+1253,6805,Arakiite
+1265,1961,Hyalotekite
+1268,4012,Trevorite
+1271,4016,Trigonite
+1279,4026,Tritomite-(Ce)
+1284,6816,Bariosincosite
+1288,673,Bílinite
+1291,4042,Tučekite
+1293,2381,Lermontovite
+1299,4055,Tungusite
+1300,2008,Ikunolite
+1302,2010,Ilímaussite-(Ce)
+1304,2012,Ilmajokite
+1308,4066,Tveitite-(Y)
+1309,7023,Zugshunstite-(Ce)
+1319,2034,Innelite
+1325,4091,Umbite
+42,4166,Veatchite
+46,10317,Malinkoite
+50,4179,Vikingite
+53,2140,Hydropyrochlore
+54,10333,Fluorannite
+55,4190,Vishnevite
+56,29029,Sanrománite
+78,1181,Cuprocopiapite
+94,10268,Florencite
+106,2242,Kolovratite
+111,4295,Willyamite
+120,4308,Wölsendorfite
+156,2326,Lanthanite-(La)
+182,2363,Lechatelierite
+190,4422,Zirconolite
+211,373,Arsenuranospathite
+214,4403,Zimbabweite
+216,8597,Andradite-Grossular Series
+218,386,Aschamalmite
+223,2439,Lotharmeyerite
+224,29066,Ruifrancoite
+231,2458,Lüneburgite
+238,10663,Meteoritic Iron
+242,1437,Tennantite-Tetrahedrite Series
+251,29122,Duxite
+257,25676,Ganterite
+275,8275,Chrysanthemum Stone
+284,522,Bariandite
+287,2574,Margarosanite
+291,8724,Köttigite-Parasymplesite Series
+294,6683,Perthite
+300,10791,Cherry Opal
+306,561,Bastnäsite-(La)
+330,49939,Shergottite meteorite
+347,10397,Polyakovite-(Ce)
+361,31865,Ferroalluaudite-Na□
+368,6910,Edgarite
+385,49848,Acapulcoite meteorite
+425,6906,Dusmatovite
+432,11010,Lukrahnite
+436,27401,Dissakisite-(La)
+437,49930,IIIAB iron meteorite
+448,27422,Challacolloite
+450,49955,Basaltic Lunar meteorite
+461,6970,Gilmarite
+465,2881,Nephrite
+486,2929,Nordite-(La)
+499,6977,Graeserite
+500,27528,Potassic-arfvedsonite
+525,950,Chloropal (of Schneiderhöhn)
+528,954,Chalconatronite
+532,3009,Orangite
+548,3041,Otjisumeite
+550,7143,Krasnogorite
+551,7144,Krasnoselskite
+554,3053,Oyelite
+562,7549,Goodletite
+563,3242,Plombièrite
+564,1478,Fergusonite-(Ce)
+567,9219,Strontian Calcite
+595,7217,Parasibirskite
+604,25664,Pistomesite
+605,25667,Mg-rich Siderite
+614,3154,Pentahydroborite
+618,3162,Perite
+630,11369,Titaniferous Chromite
+641,11382,Zincian Siderite
+658,3210,Pigeonite
+663,1170,Cummingtonite
+676,11434,Potassic-ferri-leakeite
+677,27545,Krieselite
+687,1205,Cymrite
+697,1223,Daphnite
+745,2949,O'Danielite
+746,11023,Dysanalyte
+748,1316,Doyleite
+751,1320,Dreyerite
+791,46446,Obertiite Root Name
+805,3460,Rossite
+816,1427,Eveite
+828,39738,Chromian Titanite
+837,7606,Ametrine
+854,1498,Ferripyrophyllite
+860,1523,Ferronickelplatinum
+896,3627,Shabynite
+929,3687,Smithite
+934,3695,Natropharmacosiderite
+939,3706,Betpakdalite-NaCa
+948,1676,Georgeite
+959,3743,Strontiopyrochlore (of Hogarth 1977)
+966,30383,Manganapatite
+977,1653,Garronite-Ca
+987,1738,Grandreefite
+1025,1810,Halurgite
+1029,1816,Hannayite
+1030,1819,Harkerite
+1033,4401,Zhonghuacerite-(Ce)
+1043,1850,Heliophyllite
+1044,1852,Hellandite-(Y)
+1058,9871,Iserine
+1074,26498,Tourmalinated Quartz
+1090,4001,Tosudite
+1093,1956,Hydroxylbastnäsite-(Ce)
+1094,28998,Melliniite
+1101,8520,Snowflake Obsidian
+1117,4045,Tuhualite
+1122,1358,Ehrleite
+1124,2011,Illite
+1130,26593,Manganoan Ankerite
+1139,4084,Uklonskovite
+19,38,Aeschynite-(Nd)
+41,4187,Violarite
+45,4195,Vladimirite
+51,126,Allanite-(La)
+71,165,Alvanite
+76,6174,Leucoxene
+87,204,Ammonioborite
+88,205,Ammoniojarosite
+93,28884,Calciopetersite
+104,4327,Xanthiosite
+108,236,Anilite
+121,4365,Yoshimuraite
+123,4370,Yttrocrasite-(Y)
+128,28958,Lithium Quartz
+141,314,Arcanite
+142,4412,Zincochromite
+157,29039,Salmonsite
+166,398,Star Quartz
+172,29100,Numanoite
+177,29113,Organovaite-Zn
+186,488,Baileychlore
+192,7599,Dendritic Agate
+196,554,Basaltic Hornblende
+201,562,Bastnäsite-(Y)
+202,40371,Elsmoreite Group
+209,11021,Eudialyte Group
+232,3524,Santaclaraite
+246,11040,Shungite
+253,723,Borcarite
+256,2852,Natrobistantite
+265,4253,Weberite
+273,8960,Danalite-Genthelvite Series
+275,776,Britholite-(Y)
+276,778,Brizziite
+284,812,Byelorussite-(Ce)
+288,828,Calciouranoite
+291,833,Calciogadolinite-(Y)
+295,854,Calciborite
+297,856,Calcioancylite-(Nd)
+299,29535,Titanian Samarskite-(Y)
+314,9096,Emmonite
+374,9259,Stannite Group
+387,25674,Carbokentbrooksite
+409,1138,Corvusite
+420,1165,Csiklovaite
+444,1252,Delindeite
+470,1328,Dumontite
+484,1361,Ekanite
+506,1409,Eskebornite
+520,1463,Fergusonite-(Y)-β
+526,1479,Fergusonite-(Nd)
+529,1501,Ferrisurite
+534,1527,Ferroselite
+555,1590,Franciscanite
+558,1594,Françoisite-(Nd)
+560,1597,Franklinfurnaceite
+621,26345,Martinite
+623,26355,Tsepinite-K
+624,1781,Gurhofian
+628,26363,Manganilvaite
+630,5890,Lovchorrite
+656,26447,Bykovaite
+657,26449,Jacquesdietrichite
+693,1973,Hydroglauberite
+703,26586,Rastsvetaevite
+726,30764,Guimarãesite
+728,2098,Jixianite
+731,30778,Attikaite
+747,2155,Kanonaite
+762,2200,Khristovite-(Ce)
+780,2258,Kosmochlor
+788,2286,Kuliokite-(Y)
+834,2427,Lokkaite-(Y)
+839,2440,Loudounite
+840,2443,Lovdarite
+852,2483,Magnesio-hastingsite
+853,2486,Magnesiocopiapite
+866,27105,Jarandolite
+871,2540,Magniotriplite
+876,2562,Mn-bearing Fluorapatite
+889,2607,Mazzite-Mg
+891,10812,Natroglaucocerinite
+897,27207,Chlorbartonite
+900,2637,Melkovite
+909,2652,Merrihueite
+910,31325,Carbonate-rich Apatite
+915,2669,Metacalciouranoite
+933,43672,Fluorplumbopyrochlore
+946,2749,Molysite
+952,43718,Chrome-diaspore
+953,6855,Chabazite-K
+957,6861,Changoite
+967,2797,Mourite
+970,27384,Biraite-(Ce)
+980,51981,Ferriperbøeite-(Ce)
+982,6932,Ferrierite-Na
+985,27416,Chistyakovaite
+990,2850,Natroalunite
+995,27433,Atencioite
+996,27446,Kapellasite
+1000,31550,Cs-rich Lepidolite
+1008,6989,Heulandite-K
+1022,2937,Nováčekite-I
+1033,2978,Oligonite
+1039,11187,Bussenite
+1042,39874,Campbellite
+1051,7136,Khmaralite
+1052,44001,Rainbow Hematite
+1062,6658,Zirconolite-3T
+1072,31794,Lady's Slipper
+1081,7236,Pimelite
+1083,3144,Pekoite
+1084,3151,Penroseite
+1090,11354,Hafnian Zircon
+1095,11360,Calcioursilite
+1100,3179,Petscheckite
+1116,7307,Sorosite
+1132,3272,Poudretteite
+1159,11516,Ankinovichite
+1197,39483,Arisite-(Ce)
+1224,40360,Hydroxykenomicrolite
+1225,40362,Zero valent dominant member of the Microlite Group
+1229,3506,Sakuraiite
+1246,3555,Schairerite
+1275,29959,Ferrithorite
+1284,3645,Sicklerite
+1294,3672,Sinhalite
+1296,2661,Meta-ankoleite
+1321,3774,Strontiodresserite
+1339,3830,Surinamite
+1387,3978,Titaniferous Magnetite
+1390,8083,Aluminian Chromite
+1394,3999,Törnebohmite-(La)
+1401,4022,Triploidite
+12,4115,Uranotungstite
+25,4161,Vaterite
+32,10286,Sazhinite
+53,2122,Jungite
+58,28997,Caryochroite
+72,115,Aliettite
+86,142,Alluaudite
+120,4298,Wiserite
+148,27689,Moëloite
+151,622,Benauite
+162,729,Boromuscovite
+197,4434,Zussmanite
+206,29030,Santarosaite
+212,366,Arsenoflorencite-(Ce)
+247,43439,Trapiche emerald
+251,29110,Organovaite-Mn
+263,29136,Zinclipscombite
+285,8697,Frondelite-Rockbridgeite Series
+288,27134,Rosolite
+307,8735,Chamosite-Clinochlore Series
+312,2602,Mavinite
+323,43588,Nioboholtite
+324,43589,Titanoholtite
+332,2640,Mélonjosephite
+350,29294,Halotrichite Group
+352,10344,Gadolinite
+399,3987,Tocornalite
+401,10930,Fergusonite
+402,2739,Mogánite
+435,29433,Nickeloan Talmessite
+451,792,Brunogeierite
+452,11033,Symesite
+455,11038,Leuchtenbergite
+491,2533,Maghemite
+520,2970,Oldhamite
+531,948,Chlorophane
+538,957,Chabournéite
+557,988,Cheralite-(Ce)
+561,3047,Oursinite
+584,7127,Kalifersite
+587,3098,Paramelaconite
+606,1081,Clinophosinaite
+619,1102,Coconinoite
+629,40463,Strickblende
+641,11371,Chromian Dawsonite
+656,3200,Phosphofibrite
+659,3203,Phyllotungstite
+662,44167,Nickeltsumcorite
+666,7131,Kenhsuite
+669,7314,Stilbite-Na
+670,5267,Duftite-alpha
+698,7360,Walfordite
+708,7374,Xenotime-(Yb)
+714,1245,Deerite
+752,43,Agardite-(Nd)
+762,7458,Hydrophane
+767,1322,Drysdallite
+769,1817,Haradaite
+786,3408,Rhodostannite
+788,3455,Rosenhahnite
+790,3415,Richetite
+810,3444,Rooseveltite
+831,40342,Oxycalciopyrochlore
+847,32188,Hyalite
+850,7616,Bloodstone
+858,26871,Plumboan Calcite
+906,3630,Shakhovite
+917,4362,Yingjiangite
+925,609,Belkovite
+932,1627,Gadolinite-(Ce)
+938,3683,Slavíkite
+949,1659,Gatumbaite
+996,7287,Selwynite
+1002,1768,Guettardite
+1012,2687,Metastudtite
+1013,40234,Gorceixite-Goyazite Series
+1070,5990,Iridosmine
+1075,30571,Plumbodolomit
+1076,3948,Thorogummite
+1084,7145,Krasnovite
+1106,1530,Tantalite-(Fe)
+1120,38847,Malacon
+1139,29267,Alunite Supergroup
+1144,2026,Indialite
+1149,2036,Inyoite
+75,4206,Vonbezingite
+87,29260,Marrucciite
+89,4226,Wadalite
+104,10974,Lanthanite
+212,2378,Lepersonnite-(Gd)
+229,29025,Larimar
+237,2411,Liottite
+261,4217,Vuorelainenite
+282,2463,Löweite
+291,2512,Mackinawite
+294,39382,Voltaite Group
+303,482,Bafertisite
+304,483,Baghdadite
+308,42748,Hydroxymanganopyrochlore
+319,29178,Betafite Group
+328,770,Thorian Uraninite
+331,47633,Ammonian Metavoltine
+338,540,Barstowite
+366,31306,Faizievite
+367,31307,Nalivkinite
+372,3168,Perrierite-(Ce)
+376,601,Befanamite
+383,29289,Ettringite Group
+396,2683,Metaschoderite
+420,669,Bijvoetite-(Y)
+447,2753,Monazite-(Nd)
+468,6883,Clinoptilolite-K
+483,2175,Kegelite
+500,797,Bukovite
+518,27449,Samarskite-(Yb)
+531,301,Arsenohauchecornite
+536,38900,Flörkeite
+545,29546,Alloriite
+550,43879,Ferroindialite
+554,11128,Sewardite
+575,920,Cattierite
+627,514,Stichtite-2H
+640,26262,Cleusonite
+650,1072,Clinoenstatite
+666,8716,Harmotome-Phillipsite-Ca Series
+671,25681,Almarudite
+678,11105,Titanian Augite
+702,11389,Indochinite
+715,3266,Potarite
+717,9359,Chillagite
+736,7343,Tschörtnerite
+745,7356,Vihorlatite
+772,9442,Phosphorite
+804,3345,Quiroguite
+812,27184,Seraphinite
+814,3365,Ranunculite
+852,1385,Enysite
+903,32183,Synchysite Group
+905,32185,Opal-CT
+940,1532,Ferro-tschermakite
+950,3607,Seidozerite
+966,1582,Formanite-(Y)
+980,31328,Andes Jade
+1015,1666,Geerite
+1069,1747,Greigite
+1107,39614,Chevkinite Group
+1114,3881,Tantalaeschynite-(Y)
+1118,3720,Spadaite
+1144,1888,Heubachite
+1161,1911,Hocartite
+1167,1920,Holdenite
+1205,32527,Porricin
+1206,4035,Tschermakite
+1212,1994,Hypercinnabar
+1227,4071,Tyrrellite
+1240,10235,Gavite
+0,3,Abernathyite
+9,3075,Panunzite
+37,10294,Barian Goyazite
+74,51965,Manganiakasakaite-(La)
+83,133,Allevardite
+109,30907,Podlesnoite
+133,25638,Marinellite
+218,29079,Ferrosaponite
+232,7237,Pingguite
+237,29098,Hundholmenite-(Y)
+243,8630,Hagendorfite-Varulite Series
+248,29121,Unnamed (P-analogue of Schultenite)
+249,29123,Bastnäsite-(Nd)
+276,8703,Ilmenite-Pyrophanite Series
+278,2922,Nolanite
+279,8710,Linnaeite-Polydymite Series
+283,29197,UM1992-30-SO:CCuHZn
+286,27155,Oregon Sunstone
+293,27171,Orbicular Jasper
+312,29259,Ottensite
+329,625,Benjaminite
+356,2716,Minasgeraisite-(Y)
+364,10923,Porpezite
+372,692,Bjarebyite
+375,699,Blue Lace Agate
+406,2802,Mroseite
+408,2804,Muirite
+423,31500,Haydeeite
+426,11025,Californite
+430,790,Brownmillerite
+432,2846,Natalyite
+436,1499,Ferrisicklerite
+460,31570,Jadarite
+466,31588,Grandviewite
+469,7018,Raadeite
+470,27499,Sazhinite-(La)
+483,42720,Jadeite Jade
+501,923,Cebaite-(Ce)
+508,6979,Gregoryite
+529,27589,Calcian Seidozerite
+530,4192,Vistepite
+543,7133,Kerolite
+559,26289,Pseudojohannite
+570,1045,Chukhrovite-(Y)
+579,7200,Odintsovite
+598,11329,Siberite
+659,3229,Plumbonacrite
+660,3230,Plumbotsumite
+681,7359,Vuoriyarvite-K
+687,1233,Davidite-(Ce)
+689,2595,Mattagamite
+699,41169,Cordylite-(La)
+721,2945,Nyerereite
+738,3372,Rauvite
+759,30046,Brauner Glaskopf
+772,9590,Manganoan Grossular
+796,3477,Rusakovite
+872,5677,Platiniridium
+959,3797,Strakhovite
+984,32526,Spreustein
+1002,38699,Steverustite
+1019,1865,Heneuite
+1033,30570,Manganoan Dolomite
+1043,8058,Yttrian Titanite
+1062,3055,Oboyerite
+1073,4010,Trembathite
+1083,1985,Hydroromarchite
+1086,31734,Erikite
+28,4351,Yakhontovite
+33,2104,Johillerite
+34,2105,Johnbaumite
+44,38991,Aluminocerite-(Ce)
+51,10340,Nakaseite
+57,8303,Cleiophane
+74,2204,Kieserite
+83,2227,Klyuchevskite
+88,4285,Widenmannite
+103,214,Anauxite
+113,26672,Nabalamprophyllite
+114,232,Angelite
+137,2317,Landauite
+139,4368,Yttrobetafite (of Hogarth 1977)
+154,4399,Zharchikhite
+175,41296,Fluor-liddicoatite
+179,2391,Liandratite
+191,374,Arsenuranylite
+210,412,Atlasovite
+214,8608,Astrophyllite-Kupletskite Series
+220,40348,Zero valent dominant member of Pyrochlore Group
+247,29156,Spinel Group
+253,2541,Columbite-(Mg)
+258,26708,Kudriavite
+263,8711,Pearceite-Polybasite Series
+273,6917,Erionite-Na
+282,2604,Mawsonite
+291,2623,Melanothallite
+300,29262,Cloncurryite
+311,2668,Metaborite
+320,29312,Mixite Group
+326,1473,Feitknechtite
+340,29125,Unnamed (Kogarkoite-like mineral)
+355,6843,Calcybeborosilite-(Y)
+358,27328,Gold Amalgam
+361,709,Bokite
+391,768,Brezinaite
+398,2823,Nabokoite
+402,29138,Fluorcalciobritholite
+442,31587,Lasalite
+444,871,Calzirtite
+450,41842,Chesterlite
+457,27521,Lafossaite
+469,29150,Andorite VI
+472,27548,Mazzite
+522,3925,Tetranatrolite
+533,3099,Paramendozavilite
+557,3136,Pavonite
+618,3122,Parkerite
+626,7344,Tsugaruite
+638,4064,Tvalchrelidzeite
+710,1339,Dzhalindite
+718,32075,Unnamed (Fe-Al Phosphate)
+723,1362,Ekaterinite
+765,1207,Chaoite
+774,3501,Sahamalite-(Ce)
+775,46512,Mianningite
+785,1472,Ferro-edenite
+804,1521,Ferro-kaersutite
+813,1541,Fervanite
+835,9769,Picotite
+844,48393,Ijolite
+858,40535,Nordgauite
+919,3800,Strelkinite
+921,3468,Roxbyite
+966,42808,Kovalenkoite
+976,7478,Cimolite
+988,3930,Thalcusite
+1002,2367,Lehnerite
+1014,43673,Hydroxyplumbopyrochlore
+1040,4043,Tugarinovite
+1041,4047,Tuliokite
+1042,26581,Ovamboite
+1057,2029,Indite
+1066,6826,Blatonite
+60,2193,Khademite
+97,6865,Cheralite
+105,28925,Ferro-nybøite
+122,4306,Wollastonite-2M
+135,4425,Zirkelite
+140,10587,Ferristilpnomelane
+164,2476,Magnesiocoulsonite
+192,428,Aurorite
+197,537,Barringerite
+198,539,Barroisite
+200,29219,Manganoan Phlogopite
+234,2679,Metalodèvite
+245,656,Bezsmertnovite
+260,2137,Kalinite
+273,11208,Ferronordite-(La)
+281,756,Brassite
+286,11008,Allabogdanite
+291,6926,Ferro-ferri-nybøite
+293,6929,Ferri-nybøite
+321,864,Calderite
+370,993,Chernykhite
+391,3100,Paramontroseite
+409,7248,Potassic-ferro-sadanagaite
+450,3249,Poitevinite
+457,7368,Wolframoixiolite
+491,1299,Djerfisherite
+510,3398,Rhabdophane-(La)
+516,3413,Richellite
+518,3417,Rickardite
+564,3533,Sarcolite
+565,1494,Ferro-ferri-katophorite
+570,43601,Kihlmanite-(Ce)
+575,1526,Ferro-richterite
+603,6941,Ferronordite-(Ce)
+623,7352,Vergasovaite
+638,1696,Ginorite
+645,9905,Chrome-Tremolite
+661,1743,Grayite
+662,1745,Greenalite
+722,2928,Nordite-(Ce)
+752,4058,Turanite
+0,26528,Ca-bearing Queitite
+22,9904,Chrome-Tourmaline
+53,4172,Verplanckite
+54,3426,Rivadavite
+68,2147,Kamiokite
+88,1555,Flagstaffite
+92,2033,Ingodite
+113,2228,Knopite
+121,27339,Reinite
+128,203,Ammonioalunite
+137,30934,Potassic-magnesio-arfvedsonite
+154,238,Ankangite
+158,28914,Glagolevite
+162,28920,Bouazzerite
+166,26878,Artsmithite
+178,28948,Maghrebite
+180,28951,Pattersonite
+188,32475,Pharmacosiderite Group
+194,2346,Lautarite
+205,35892,Burovaite-Ca
+208,28988,Borocookeite
+213,28993,Cerian Vesuvianite
+248,32489,Unnamed Mineral (Tsumeb GS4)
+268,409,Atheneite
+274,29092,Joséite-C
+279,696,Blixite
+285,29428,Cobaltoan Olivenite
+294,456,Anandite
+295,2124,Junoite
+317,7592,Botswana Agate
+328,2567,Mannardite
+345,58,Agrinierite
+351,2554,Malladrite
+361,27190,Albite Moonstone
+363,571,Argentobaumhauerite
+375,585,Bazirite
+382,27220,Manganoan Pectolite
+405,637,Berndtite
+421,29327,Rosasite Group
+424,29331,Scapolite Group
+435,6822,Belovite-(La)
+457,2762,Montdorite
+463,720,Boothite
+470,25687,Raslakite
+479,6951,Ferro-ferri-fluoro-leakeite
+491,2816,Magnesiotaaffeite-6N’3S
+493,27395,Skorpionite
+520,814,Byströmite
+522,1160,Crossite
+538,2886,Nevskite
+541,6987,Hellandite
+543,846,Calciobetafite (of Mazzi & Munno)
+545,11435,Shirokshinite
+547,1253,Dellaite
+556,31591,Cassagnaite
+565,889,Cappelenite-(Y)
+566,29564,Chathamite
+574,780,Brockite
+596,8007,Pig's Egg
+607,3006,Opal-Jasper
+612,2891,Nickelaustinite
+613,502,Bambollaite
+614,3014,Ordoñezite
+622,9168,Mountain Leather
+641,31722,Bendadaite
+644,31728,Barahonaite-(Al)
+653,511,Bararite
+674,2224,Kleemanite
+686,3250,Pokrovskite
+719,25686,Ikranite
+730,11364,Auriferous Chalcopyrite
+738,3183,Phosphorrösslerite
+779,3927,Tetrataenite
+794,3271,Poubaite
+801,316,Arctite
+818,3308,Pumpellyite-(Fe3+)
+842,793,Brushite
+848,3770,Stevensite
+853,1310,Donpeacorite
+856,3363,Rankinite
+887,1360,Eitelite
+912,1397,Ericssonite
+936,3480,Rustumite
+950,321,Ardealite
+951,40367,Fluorcalcioroméite
+963,3522,Sanjuanite
+967,929,Cerianite-(Ce)
+975,1490,Ferricopiapite
+976,42915,Maw Sit Sit
+990,252,Anthoinite
+1011,2643,Mendozite
+1022,32289,Niveolanite
+1024,29275,Baryte Group
+1031,5674,Ruthenosmiridium
+1034,3633,Sharpite
+1065,1636,Gaitite
+1066,3686,Smirnite
+1074,1648,Ganomatite
+1075,1640,Galeite
+1080,32379,Thallian Carnotite
+1100,1305,Doloresite
+1108,7844,Arkansite
+1114,1708,Glaucochroite
+1116,3758,Stibiopalladinite
+1119,2171,Kazakhstanite
+1136,1739,Grantsite
+1152,4355,Yavapaiite
+1156,30445,Sand-Calcite
+1161,2345,Lausenite
+1170,1796,Häggite
+1190,3719,Souzalite
+1193,3889,Taramite Root Name
+1215,3917,Teruggite
+1232,26469,Manganoan Hedenbergite
+1262,3984,Tobelite
+1265,26520,Bario-olgite
+1276,4007,Traskite
+1282,1970,Hydrochlorborite
+1330,2042,Irarsite
+13,4118,Uricite
+14,4120,Urvantsevite
+37,4158,Varulite
+38,4160,Vasilite
+43,4165,Veatchite-A
+44,4167,Veenite
+50,4183,Vimsite
+53,4189,Viséite
+54,4191,Vismirnovite
+57,4198,Voggite
+59,104,Aldermanite
+61,4202,Volkovskite
+63,4213,Vulcanite
+71,1232,Davidite
+78,159,Alumotantite
+79,4256,Wegscheiderite
+82,4263,Weissite
+91,4290,Wilkinsonite
+121,4354,Yarrowite
+124,4361,Yimengite
+128,4372,Yttropyrochlore (of Hogarth 1977)
+130,4375,Yuanfuliite
+134,4381,Zaherite
+135,287,Aquacreptite (of Shepard)
+146,4411,Zincobotryogen
+147,4413,Zincocopiapite
+149,4416,Zincsilite
+155,4424,Zircosulfate
+164,353,Antimonian Gersdorffite
+171,33145,Chalcocite-Digenite Group
+176,33172,Chloritoid Group
+181,29087,Gutkovaite-Mn
+196,2808,Mundite
+204,498,Ballas
+218,49702,L5 chondrite meteorite
+226,29246,Lithian excess-boron olenite
+229,580,Bayerite
+233,39692,Lithium Tosudite
+240,29285,Coronadite Group
+241,29288,Dolomite Group
+242,29290,Fairfieldite Group
+243,4716,Katayamalite
+252,641,Bertossaite
+258,29325,Pumpellyite Group
+261,663,Bismutotantalite
+268,679,Biringuccite
+277,706,Bohdanowiczite
+293,6954,Formicaite
+295,769,Brüggenite
+296,774,Brindleyite
+309,3549,Scacchite
+310,816,Brammallite
+314,826,Calciocopiapite
+317,844,Cadmoselite
+322,2876,Nemalite
+323,875,Caminite
+324,29549,Pittongite
+356,958,Chaidamuite
+362,968,Changbaiite
+369,25570,Albertite
+371,997,Chesterite
+375,25586,Kukharenkoite-(La)
+377,25590,Neskevaaraite-Fe
+381,11093,Titanian Biotite
+382,25601,Vitimite
+384,1031,Chromium-dravite
+389,1049,Chvaleticeite
+397,1073,Clinoferrosilite
+400,1078,Clinojimthompsonite
+402,29758,Glaskopf
+412,25683,Fluorvesuvianite
+416,11109,Pizgrischite
+419,25698,Maleevite
+428,1135,Corrensite
+459,1226,Darapskite
+468,1255,Delrioite
+471,52775,Barian Betafite (of Mironov)
+477,1275,Diabantite
+481,1283,Diaoyudaoite
+483,1288,Dienerite
+487,4312,Woodruffite
+489,1301,Dmisteinbergite
+495,1317,Dozyite
+497,5417,Verdite
+504,1335,Duttonite
+508,1349,Eclarite
+511,226,Andrewsite
+513,28899,Thomsonite-Sr
+525,3644,Sibirskite
+532,1410,Eskimoite
+546,4336,Xilingolite
+552,1465,Ferro-eckermannite
+559,1477,Ferchromide
+562,1482,Johnbaumite-M
+564,1485,Ferrarisite
+568,1512,Ferrocarpholite
+571,30195,Wiikite
+575,34300,Calcite Satin Spar
+576,1533,Ferrotychite
+577,1535,Ferrowodginite
+580,2305,Kalicinite
+581,1549,Fillowite
+586,46627,Norilskite
+595,1586,Foshallasite
+599,1593,Francoanellite
+602,1599,Franklinphilite
+603,1602,Freboldite
+607,1612,Frohbergite
+610,1619,Fukalite
+611,1620,Fukuchilite
+624,1655,Garyansellite
+627,1664,Gebhardite
+633,1685,Gerstmannite
+639,4379,Yushkinite
+649,3699,Sobolevite
+675,26356,Paratsepinite-Ba
+681,26367,Tsepinite-Ca
+707,1858,Hematophanite
+711,1862,Hemusite
+723,1896,Hibbingite
+726,42866,Laptevite-(Ce)
+731,1918,Hohmannite
+732,1919,Holdawayite
+738,1933,Hotsonite
+741,1941,Huemulite
+743,1943,Hulsite
+744,1944,Humberstonite
+745,26521,Lepkhenelmite-Zn
+754,1964,Hydroastrophyllite
+755,1966,Hydrobiotite
+759,1972,Hydrodresserite
+765,1988,Hydrotungstite
+778,2017,Imandrite
+779,2021,Imogolite
+792,2060,Izoklakeite
+800,2077,Jarosewichite
+802,2079,Jaskólskiite
+810,2093,Jervisite
+811,2094,Jianshuiite
+812,2095,Jimboite
+813,2096,Jimthompsonite
+814,2101,Johachidolite
+819,2108,Johnwalkite
+820,2109,Jôkokuite
+821,26687,Forcherite
+824,2121,Julienite
+828,2130,Kafehydrocyanite
+834,2148,Kamitugaite
+840,2158,Karelianite
+842,2161,Karnasurtite-(Ce)
+848,2183,Kempite
+856,2216,Kirkiite
+862,2241,Kolicite
+864,2244,Kolymite
+866,2251,Konyaite
+886,2301,Kuznetsovite
+891,2310,Lacroixite
+892,6407,Binnite (of Des Cloizeaux)
+897,2323,Lannonite
+898,2324,Lansfordite
+907,2351,Lawrencite
+911,2360,Leadamalgam
+917,2375,Lennilenapeite
+919,39241,Plumbopolarite
+926,2393,Liberite
+937,2421,Lithosite
+938,2422,Litidionite
+945,4309,Wonesite
+947,29078,Barylite-1O
+948,2438,Loseyite
+950,2444,Loveringite
+964,2493,Magnesiochromite
+965,2499,Magnesiochlorophoenicite
+976,2525,Magnesiotaramite
+985,2545,Majakite
+1012,18999,Glockerite
+1016,2626,Megacyclite
+1023,1122,Coombsite
+1025,51791,Ajkaite
+1030,2646,Mercallite
+1036,2667,Metauranospinite
+1038,2671,Metadelrioite
+1039,2675,Metahohmannite
+1056,2715,Natroalunite-2c
+1057,27293,Küstelite
+1058,2718,Mineevite-(Y)
+1060,2722,Minnesotaite
+1062,8646,Actinolite-Ferro-actinolite Series
+1063,2726,Misenite
+1066,31404,Barioperovskite
+1067,6829,Boralsilite
+1072,43703,Caswellite
+1081,2770,Montroyalite
+1083,6868,Chlorartinite
+1084,6869,Chloromenite
+1085,10966,Oxy-dravite
+1091,2784,Morimotoite
+1100,2800,Mpororoite
+1102,10994,Pararsenolamprite
+1107,6905,Donbassite
+1114,2824,Nacaphite
+1116,2828,Nagashimalite
+1119,2832,Nahpoite
+1123,2842,Nasinite
+1127,2849,Natrite
+1132,2858,Natron
+1134,27442,Magnesio-fluoro-hastingsite
+1138,43487,Fluoro-riebeckite
+1143,27458,Tsepinite-Sr
+1151,2893,Niahite
+1155,2902,Nifontovite
+1157,2906,Ningyoite
+1158,2908,Nioboaeschynite-(Ce)
+1162,46907,Fluorwavellite
+1163,2917,Niter
+1164,31590,Lakebogaite
+1165,2920,Nitromagnesite
+1171,27506,Georgbarsanovite
+1172,2931,Nordströmite
+1174,7033,Potassic-ferro-ferri-sadanagaite
+1180,7327,Tantalcarbide
+1184,2968,Okhotskite
+1188,7076,Švenekite
+1193,27571,Niksergievite
+1196,26442,Gjerdingenite-Mn
+1200,3024,Orthochamosite
+1210,3050,Oxammite
+1214,7155,Lévyne-Na
+1221,7187,Natroxalate
+1223,7189,Nepskoeite
+1224,3104,Paraotwayite
+1231,7216,Parascorodite
+1235,3127,Parthéite
+1239,7233,Phosphogartrellite
+1243,3143,Peisleyite
+1245,7351,Veatchite-1M
+1246,7244,Potassic-fluoro-richterite
+1247,7246,Potassic-pargasite
+1255,11362,Calcozincite
+1272,3197,Phosphammite
+1275,7333,Tetraferriannite
+1276,3216,Pinchite
+1278,7315,Stoppaniite
+1280,11461,Watatsumiite
+1291,3251,Polarite
+1295,11450,Magnesiohögbomite-2N2S
+1298,7357,Vlodavetsite
+1299,3262,Polyphite
+1303,36044,Barian Betafite (of Mironov & Gofman)
+1335,3331,Qandilite
+1352,40242,Afmite
+1357,3396,Reyerite
+1365,3411,Ribbeite
+1372,3427,Riversideite
+1377,3440,Rokühnite
+1385,3466,Roweite
+1396,40357,Kenoplumbomicrolite
+1399,3498,Sacrofanite
+1406,7607,Sard
+1412,32199,Voronkovite
+1417,3536,Sarmientite
+1420,3541,Satimolite
+1424,3548,Sborgite
+1427,3553,Schachnerite
+1432,3564,Schertelite
+1433,3567,Schirmerite
+1442,3585,Schrötterite
+1452,3602,Sedovite
+1454,4014,Triangulite
+1465,3631,Shandite
+1471,3643,Siderotil
+1478,3341,Quenstedtite
+1485,3684,Slawsonite
+1489,3692,Natroboltwoodite
+1491,3700,Sobolevskite
+1494,3715,Sorbyite
+1501,3730,Spionkopite
+1505,26565,Hornblende-asbestos
+1506,3746,Stanleyite
+1508,3748,Stannoidite
+1510,3750,Stannopalladinite
+1511,3752,Starkeyite
+1515,3763,Stepanovite
+1526,3791,Stistaite
+1534,3804,Stronalsite
+1538,3814,Studenitsite
+1540,3818,Suanite
+1541,40685,Blue Tiger's Eye
+1543,3823,Sulfoborite
+1550,3844,Swartzite
+1553,32523,Rubellan
+1559,3858,Szmikite
+1563,3872,Takedaite
+1564,3873,Takéuchiite
+1568,3883,Tanteuxenite-(Y)
+1570,3891,Tarapacáite
+1573,3899,Telluropalladinite
+1574,3901,Teepleite
+1588,3923,Tetraferroplatinum
+1594,3936,Theophrastite
+1600,3951,Thorutite
+1603,3959,Tiettaite
+1606,2709,Mikasaite
+1620,4000,Torreyite
+1623,4008,Treasurite
+1633,4027,Tritomite-(Y)
+1639,675,Billingsleyite
+1643,4059,Turneaureite
+1645,4068,Tychite
+1648,4075,Uchucchacuaite
+1652,4089,Ulvöspinel
+1654,4094,Mangano-mangani-ungarettiite
+1655,4095,Ungemachite
+42,4149,Vanoxite
+49,11084,Proustite-Pyrargyrite Series
+61,2136,Kaliborite
+66,10334,Magnesio-fluoro-arfvedsonite
+74,2154,Kanoite
+81,8675,Chromite-Magnesiochromite Series
+89,130,Allemontite I
+91,2180,Kellyite
+100,1754,Grossite
+108,2606,Chlormayenite
+123,4287,Wightmanite
+130,131,Allemontite III
+142,2264,Kotulskite
+159,40148,Naquite
+172,8069,Keilhauite
+177,32197,Meurigite-Na
+194,291,Argentopentlandite
+206,4406,Zincmelanterite
+223,4427,Zirsinalite
+247,2408,Lindströmite
+254,745,Bowieite
+264,3819,Sudburyite
+277,408,Athabascaite
+301,448,Azurmalachite
+307,8649,Axinite-(Mn)-Tinzenite Series
+315,474,Barium-Phlogopite
+331,11347,Lithian Muscovite
+337,43523,Vorhauserite
+354,2585,Maslovite
+356,27164,Umbalite
+374,94,Alarsite
+398,31316,Thunder Egg
+421,52678,Siudaite
+454,8647,Ferro-Actinolite-Tremolite Series
+483,31452,Sagenite (of Kunz)
+497,3880,Taneyamalite
+506,6912,Ekmanite
+517,8664,Sussexite-Szaibelyite Series
+525,6943,Ferrorhodsite
+534,6961,Galileiite
+545,8672,Magnesiochromite-Spinel Series
+546,834,Calciotantite
+552,6992,Hexaferrum
+554,27474,Chukhrovite-(Nd)
+561,31584,Rb-rich Lepidolite
+563,1188,Cuprorhodsite
+584,7603,Fossil Agate
+587,27530,Arapovite
+592,2962,Ogdensburgite
+613,40335,Platosmiridium
+625,11204,Cobaltian Mansfieldite
+653,10045,Riband Jasper
+664,3076,Paolovite
+683,9253,Lake Superior Agate
+699,5287,Emilite
+706,35911,Kunatite
+716,11348,Manganoan Ilmenite
+771,1208,Chengdeite
+794,1230,Daubréelite
+799,40150,Linzhiite
+835,3338,Quartzine
+865,2022,Inaglyite
+871,3394,Retzian-(Nd)
+928,4335,Xifengite
+944,1460,Ferro-Ferri-tschermakite
+984,1528,Ferrosilite
+994,1545,Fichtelite
+1002,31871,Xenotime Group
+1008,1456,Farringtonite
+1037,1615,Froodite
+1068,1672,Genkinite
+1078,1687,Geversite
+1134,1780,Gupeiite
+1135,30454,Labuntsovite Supergroup
+1142,32159,Barahonaite-(Fe)
+1163,26405,Plume Agate
+1176,51481,Cobaltoan calcite-spherocobaltite
+1194,10070,Condurrite
+1225,3965,Tin
+1226,661,Bicchulite
+1241,3054,Örebroite
+1244,26522,Petewilliamsite
+1253,4004,Toyohaite
+1301,2035,Insizwaite
+8,13,Acetamide
+32,4143,Vanalite
+38,1716,Godlevskite
+46,69,Akdalaite
+48,71,Akhtenskite
+53,53331,"Mineral E (of Dunn, et. al., 1982)"
+69,2160,Karlite
+80,2176,Keithconnite
+100,158,Pharmacoalumite
+145,2470,Manganhumite
+146,231,Angelellite
+158,35065,Donnayite Group
+174,278,Aphrosiderite
+178,28960,Arrojadite Group
+200,2372,Lenaite
+222,26980,Skaergaardite
+244,8582,Adamite-Olivenite Series
+252,8603,Arfvedsonite Root Name
+262,1778,Gunningite
+268,39349,Leifite Group
+277,462,Barytolamprophyllite
+290,2529,Manganotychite
+299,496,Balkanite
+302,2547,Makarochkinite
+326,535,Barrandite
+332,544,Bartonite
+337,2481,Manganogel
+345,27196,Keilite
+350,27202,Naldrettite
+366,35940,Cryophyllite
+370,2654,Mertieite-I
+371,2655,Mertieite-II
+374,25702,Zeravshanite
+396,35460,Silver Amalgam Group
+417,7962,Calciosamarskite
+424,678,Biphosphammite
+427,2729,Mitscherlichite
+439,2743,Moissanite
+450,35958,Cerphosphorhuttonite
+473,746,Boyleite
+476,4221,Vysotskite
+484,2810,Munirite
+499,3205,Picotpaulite
+500,2848,Natisite
+508,35975,Iridian tulameenite
+516,35977,Rock Guano
+518,251,Antarcticite
+527,27462,Sokolovaite
+530,842,Cadmium
+531,27468,Senkevichite
+534,4237,Wallkilldellite
+540,2904,Niggliite
+542,2907,Niningerite
+544,27487,Mogovidite
+551,35985,Strontioburbankite
+553,4257,Weibullite
+573,150,Altisite
+574,1803,Hakite-(Hg)
+587,2971,Olekminskite
+596,50223,Breccio-conglomerate
+607,39865,Youngite
+612,7102,Tumchaite
+620,969,Chantalite
+621,2551,Malanite
+628,6990,Heulandite-Na
+651,3068,Palladoarsenide
+653,8363,Alumoludwigite
+678,520,Barentsite
+683,1079,Clinokurchatovite
+687,1084,Clinotobermorite
+694,7240,Polkanovite
+695,39436,Ancylite Group
+701,7250,Miassite
+714,3170,Perryite
+716,25700,Pekovite
+717,7270,Rhodarsenide
+719,25704,Potassiccarpholite
+731,35959,Crichtonite-Senaite Series
+734,1146,Coyoteite
+736,1148,Crawfordite
+745,35978,Thorian Curite
+762,3235,Platarsite
+796,2253,Kornelite
+801,11477,Proto-anthophyllite
+812,2257,Korzhinskite
+818,3312,Putoranite
+837,42746,Lahnsteinite
+843,3349,Radhakrishnaite
+851,1315,Downeyite
+870,7137,Khomyakovite
+874,11229,Allanite-Epidote
+904,3445,Roquesite
+940,26781,Beta-Willemite
+1001,3605,Segelerite
+1019,3628,Shadlunite
+1050,2168,Ferro-katophorite
+1059,1635,Gainesite
+1077,3713,Sopcheite
+1096,32412,Odontolite
+1098,3745,Stanfieldite
+1112,1713,Glushinskite
+1132,1744,Grechishchevite
+1133,29304,Lovozerite Group
+1166,3861,Schöllhornite
+1171,3870,Taimyrite
+1174,26408,Cerite-(La)
+1178,3884,Tantite
+1181,3813,Stützite
+1207,10072,Collophane
+1211,3932,Thalfenisite
+1217,315,Archerite
+1225,1900,Hieratite
+1241,10111,Myrickite
+1254,3991,Tolovkite
+1281,29250,Elbaite-Liddicoatite Series
+1300,6821,Bederite
+1314,35833,Burgessite
+10,8212,Kurgantaite
+12,4121,Usovite
+28,9565,Calciorhodochrosite
+55,4205,Volynskite
+80,4271,Wermlandite
+183,29161,Calcite Group
+213,29264,Olivine Group
+229,647,Betalomonosovite
+242,3023,Orthobrannerite
+283,39735,Rinkite Group
+298,30172,Hjelmite
+339,998,Chestermanite
+453,1286,Dickinsonite-(KMnNa)
+475,4320,Wycheproofite
+519,1446,Falkmanite
+604,1730,Gortdrumite
+630,10019,Blue Beryl (Maxixe)
+646,42829,Ferri-kaersutite
+671,28996,Middendorfite
+728,10320,Molybdenum
+757,30905,Britvinite
+814,2401,Lime
+818,2406,Lindqvistite
+839,31813,Triphylite Group
+842,2479,Magnesiostaurolite
+853,27087,Hellandite-(Ce)
+953,7288,Serrabrancaite
+990,35972,Angastonite
+1014,27476,Kyrgyzstanite
+1030,27516,Grenmarite
+1035,27537,Fluoro-pargasite
+1168,31993,Lakargiite
+1311,3768,Sterryite
+1315,52935,Linnaeite Subgroup
+1348,7982,Tungsten
+1413,47781,Wayneburnhamite
+0,6983,Gwihabaite
+2,4100,Uramphite
+18,39599,Fornacite-Vauquelinite Series
+64,731,Bostwickite
+80,120,Alkali-beryl
+98,29429,Cobaltoan Parasymplesite
+105,166,Alvite
+184,2333,Larnite
+185,4382,Zaïrite
+206,2457,Lun'okite
+210,330,Argutite
+243,8578,Sagenite
+251,6545,Caesium Beryl
+268,27047,Eleolite
+270,8620,Mansfieldite-Scorodite Series
+287,25677,Vasilyevite
+307,8692,Dravite-Elbaite Series
+361,3209,Pierrotite
+363,29279,Cancrinite Group
+389,26754,Chromian Mimetite
+427,29366,Sodium Amphibole Subgroup
+428,10935,Petoskey Stone
+445,39640,Manganoeudialyte
+451,29212,Arsenian Pyrite
+477,8964,Curienite-Francevillite Series
+488,2839,Nanpingite
+492,49950,Anorthositic Lunar meteorite
+498,2861,Natrophilite
+521,27472,Pakhomovskyite
+550,39805,Hallimondite-Parsonsite Series
+566,27539,Milotaite
+610,3030,Orthopinakiolite
+619,7138,Hydroxylian Pseudorutile
+622,3046,Ourayite
+637,36041,Plimerite
+643,7174,Mccrillisite
+683,1030,Chromatite
+693,35925,Birchite
+784,3296,Pseudorutile
+789,209,Antimony Ochre
+828,25685,Spriggite
+831,11557,Mg(T) Mica
+869,9184,Eucolite
+902,39491,Beudantite-Segnitite Series
+952,4860,Braunite-II
+984,11184,Sheridanite
+994,3629,Shafranovskite
+1043,7104,Paganoite
+1053,4284,Wicksite
+1096,3218,Pintadoite
+1104,2260,Kostovite
+1105,42728,Forêtite
+1177,5984,Opalite
+1187,2023,Incaite
+1194,38781,Olmiite-Poldervaartite Series
+1232,8124,Oriental Topaz
+1235,29049,Cobaltoan Talmessite
+1252,4069,Tyretskite
+1269,4337,Ximengite
+1270,42349,Anorpiment
+22,10273,Antimonian Claudetite
+35,10293,Strontian Crandallite
+47,7379,Yttrocerite
+48,8264,Chromojadeite
+93,4234,Wakefieldite-(Y)
+101,149,Althupite
+159,2284,Kuksite
+202,2780,Moreauite
+246,744,Bowenite
+289,25673,Kozoite-(La)
+291,2492,Manganbelyankinite
+336,29201,Zippeite Group
+350,29220,Sodalite Group
+364,573,Baumite
+386,41568,Palygorskite Group
+399,8823,Stilpnosiderite
+405,32615,Bussyite-(Ce)
+412,10886,Tiger Iron
+450,10933,Zincian Tetrahedrite
+480,10983,Revoredite
+492,8948,Geocronite-Jordanite Series
+498,8956,Fluorapophyllite-(K) - Hydroxyapophyllite-(K) Series
+524,799,Bulachite
+545,35647,Wöhlerite Group
+601,11153,Pseudomesolite
+656,27630,UM1986-63-SiO:FeHKMnNa
+691,29875,Cobaltian Wad
+719,1116,Comblainite
+759,7310,Stanĕkite
+821,3303,Pseudocotunnite
+856,1311,Dorallcharite
+942,48545,Analcime phonolite
+952,3505,Sakharovaite
+962,1507,Ferroalluaudite
+981,40412,Titanoan Andradite
+1033,1580,Fontanite
+1034,3632,Shannonite
+1038,9781,Keramohalite
+1058,9819,Quinzite Opal
+1087,38927,Unnamed (HBU UK-4)
+1128,3399,Rhabdophane-(Nd)
+1151,10991,Xanthochroite
+1197,38933,Blue Diopside
+1245,11384,Krut'aite-Trogtalite Series
+1295,1430,Eylettersite
+1304,39587,Arisite
+1316,10288,Ferberite-Hübnerite Series
+24,34480,Petitjeanite-Schumacherite Series
+34,30767,Pradetite
+53,8663,Ranciéite-Takanelite Series
+55,38984,Zirconian Halloysite
+94,39041,Orlets
+102,39057,Travertine
+117,8677,Gormanite-Souzalite Series
+118,4079,Ugrandite
+138,4296,Winchite
+142,3106,Pararammelsbergite
+156,28893,Ardennite-(V)
+168,485,Baikalite
+239,39037,Unnamed (MSH UK-86)
+244,349,Arquerite
+263,35903,Ferropericlase
+274,53222,Escheite
+318,25680,Ferri-ghoseite
+330,29176,Perovskite Supergroup
+337,8707,Julgoldite-(Fe2+)-Pumpellyite-(Mg) Series
+469,2744,Moluranite
+506,8659,Fayalite-Tephroite Series
+529,11026,Zincian Greenockite
+551,31536,Quintinite-2H
+591,31589,Dovyrenite
+594,873,Cameronite
+602,11129,High-Hydrated Si-Deficient Vesuvianite
+618,6918,Esmeraldaite
+693,46093,Bonazziite
+702,35867,Gieseckite
+718,25644,Pertsevite-(F)
+723,25650,Iwashiroite-(Y)
+801,3219,Pirquitasite
+857,43911,Oxyplumboroméite
+896,4002,Tounkite
+925,8706,Julgoldite-(Fe2+)-Pumpellyite-(Fe2+) Series
+985,42907,Hydroxycalciomicrolite
+1015,41103,Tarbagataite
+1032,7660,Pertsevite-(OH)
+1033,253,Anthonyite
+1046,30213,Huantajayite
+1060,7335,Thérèsemagnanite
+1064,261,Antillite
+1149,9313,Knebelite
+1153,32435,Hortonolite
+1199,39552,Yangzhumingite
+1211,31363,Unnamed (Arseniosiderite-related mineral)
+1277,31721,Molybdenite-2H
+1283,3970,Tinticite
+1320,38843,Xocolatlite
+50,2119,Juanite
+90,39213,Unnamed (Pb-Fe Chloride Hydroxide Hydrate)
+101,3738,Stibiomicrolite (of Groat et al.)
+195,9265,Tsumcorite Group
+197,39212,Alumoåkermanite
+240,39270,Unnamed (Mg-analogue of Ferriallanite-(Ce))
+246,8594,Amblygonite-Montebrasite Series
+303,8634,Grossular-Uvarovite Series
+339,29180,Plumbogummite Group
+372,32207,Martyite
+375,4247,Watkinsonite
+417,41604,Manganoquadratite
+466,118,Alkali Feldspar
+500,11006,Ondrušite
+509,32555,Muscovite-2M1
+526,6944,Ferrotitanowodginite
+611,924,Cebollite
+642,11209,Galgenbergite-(Ce)
+646,10739,Unnamed (Tetragonal Pb Oxide Hydrate)
+717,8715,Halotrichite-Pickeringite Series
+733,7257,Pseudosinhalite
+753,31592,Onofrite
+780,32622,Scheelite Group
+808,10319,Woodallite
+819,11469,Chlorastrolite
+898,4137,Valuevite
+907,523,Baricalcite
+955,39058,Jarosite-Natrojarosite Series
+959,7594,Cloud Agate
+982,32206,Magnesiopascoite
+985,32209,Ardennite
+997,35750,Strunzite Group
+1062,7745,Fuggerite
+1116,29296,Hematite Group
+1148,30426,Ferrocalcite
+1178,1792,Hafnon
+1204,38703,Plumbophyllite
+1249,32620,Ivanyukite-Cu
+1254,30580,Star Sapphire
+1255,10101,Mushketovite
+1314,32725,Antimonian Silver
+4,49160,Limestone
+64,7215,Paraniite-(Y)
+70,3467,Rowlandite-(Y)
+80,134,Alloclasite
+191,2350,Lavrentievite
+241,31315,Dillnite
+252,39338,Unnamed (Lyonsite-like Cu-Fe-Vanadate)
+267,39368,Unnamed (Ta-Mo intermetallide)
+279,476,Babefphite
+286,9980,Ledererite
+303,2569,Mantienneite
+331,29237,Joaquinite Group
+394,9024,Mountain Wood
+445,27382,Plumboagardite
+456,773,Briartite
+468,981,Chlorophyllite
+470,27420,Labyrinthite
+480,2859,Natronambulite
+492,35576,Cupropearceite
+531,897,Carbonate-Vishnevite
+534,7046,Brandholzite
+546,2964,Oil Quartz
+552,2974,Oligoclase-Albite
+595,7142,Kozoite-(Nd)
+681,26658,Margarodite
+746,36040,Tazieffite
+803,29986,Hydrogoethite
+871,375,Arshinovite
+873,32153,Muscovite-3T
+897,1471,Ferro-ferri-winchite
+922,3563,Schernikite
+1082,1794,Hagemannite
+1206,2005,Zincian Cerussite
+1220,4077,Udokanite
+105,164,Alushtite
+163,28919,Uramarsite
+212,39146,Blue Chalcedony
+268,2471,Manganosegelerite
+285,29271,Arsenopyrite Group
+370,615,Belomorite
+398,29333,Sphalerite Group
+406,29342,Vivianite Group
+414,1137,Corundophilite
+426,1140,Costibite
+500,5255,Taraspite
+510,27444,Potassic-fluoro-hastingsite
+524,29157,Natrolite Subgroup
+533,39400,Graphic granite
+541,2938,Novákite
+565,48035,Kimberlite
+608,7999,Bone Opal
+624,3085,Paracostibite
+703,7293,Sidpietersite
+728,1187,Cupropavonite
+803,3356,Rameauite
+870,29249,Dravite-Uvite Series
+893,32172,Uranophane Group
+908,7619,Apricotine
+912,7623,Cape May Diamond
+930,39454,Unnamed (Bafertisite-like Fe-Ti Silicate)
+956,39469,Plasma
+975,47747,UM1983-24-SiO:CaNa
+1012,29971,Yttrogummite
+1093,1806,Hallerite
+1097,27543,Fougèrite
+1120,39220,Metarauchite
+1165,38788,Heftetjernite
+1198,4023,Trippkeite
+23,39077,Sartorite Group
+43,27212,Cadmoindite
+73,27350,Gatelite-(Ce)
+118,2248,Konderite
+160,112,Alforsite
+219,2407,Lindsleyite
+227,30441,Crazy Calcite
+283,11345,Andorite IV
+320,2591,Mathiasite
+352,39508,Meurigite
+354,39505,Julgoldite
+374,39549,Arisite-(La)
+376,29311,Meta-autunite Group
+395,662,Bideauxite
+448,748,Bracewellite
+452,29426,Cuprian Cobaltaustinite
+458,39673,Kapundaite
+486,52360,Anomalous EH7 chondrite meteorite
+569,11190,Juddite
+570,38729,Muscovite-Paragonite Series
+618,25609,Mg-rich Dolomite
+646,35901,Wakefieldite-(La)
+693,29328,Roselite Group
+698,35971,Proshchenkoite-(Y)
+705,3213,Pilsenite
+727,8734,Chalcopyrite-Eskebornite Series
+750,7380,Yttrotungstite-(Ce)
+764,40169,Fassinaite
+808,9512,Lublinite
+888,3492,Sabatierite
+914,7121,Jørgensenite
+915,42914,Unnamed (Pb-Fe-As-Cl-O-H)
+932,1277,Diackethyst
+961,3333,Qingheiite
+1009,9828,Shell Opal
+1039,3741,Strontioginorite
+1069,3703,Alum-(Na)
+1093,1783,Guyanaite
+1099,3838,Sveite
+1146,35933,Wine stone
+1213,4019,Trimounsite-(Y)
+1221,1981,Hydrombobomkulite
+1230,11455,Bobjonesite
+15,39691,Nickeloan Calcite
+43,4204,Voltzite
+61,4249,Wattevilleite
+114,4360,Yftisite-(Y)
+131,28975,Enhydro Quartz
+194,4185,Vinciennite
+206,39007,Zigrasite
+210,8772,Nambulite-Natronambulite Series
+439,28888,Mangazeite
+524,1621,Furongite
+567,9935,Cossaite (of Piolti?)
+573,38930,Unnamed (HBU UK-3)
+696,39004,Chegemite
+720,10409,Halloysite-10Å
+733,6360,Sylvinite
+764,8587,Åkermanite-Gehlenite Series
+776,2396,Liebauite
+832,2549,Makovickyite
+836,2557,Manaccanite
+855,39449,Magnesioneptunite
+885,39540,Samarskite Group
+915,39631,Kerite
+921,27354,Houghite
+934,27386,Manganokukisvumite
+940,39689,Hatchite-Wallisite Series
+961,39742,Corkite-Kintoreite Series
+976,27489,Farneseite
+994,27552,Moskvinite-(Y)
+1167,40337,Fluornatropyrochlore
+1173,40354,Fluorcalciomicrolite
+1175,7595,Crazy Lace Agate
+1180,7604,Sardonyx
+1181,40373,Titan-uranoan Fluorcalciomicrolite
+1197,31998,Hydrogarnet
+1202,11520,Beryllian Vesuvianite
+1210,42242,Vladykinite
+1211,3598,Scrutinyite
+1231,3649,Siderogel
+1233,7751,Frugardite
+1246,7800,Argentine
+1288,3871,Takanelite
+1292,32181,Gadolinite Group
+1308,31374,Arsenic Sulphide Glass No. 1
+1319,3949,Thorosteenstrupine
+53,2745,Molybdenite-3R
+97,4262,Weissbergite
+116,10442,Magnesian hastingsite
+141,243,Anomalite
+150,8942,Gustavite-Lillianite Series
+170,39209,Kumtyubeite
+174,39645,Daliranite
+243,39324,Adranosite
+328,2649,Mereiterite
+376,39583,Nováčekite
+452,39711,Fivegite
+454,39713,Oxyphlogopite
+461,39724,Strontian Fluorite
+462,39725,Unnamed (HBU UK-6)
+533,39855,Cornwallite-Pseudomalachite Series
+591,3091,Paraguanajuatite
+663,11393,Danaite
+690,11438,Monazite-(Sm)
+698,7353,Viaeneite
+699,32287,Thermessaite
+760,3374,Rayite
+820,7593,Brecciated Agate
+873,40471,Yttriaite-(Y)
+930,4239,Walstromite
+941,38696,Kamarizaite
+990,3825,Sulphotsumoite
+1018,38692,Steropesite
+1035,10291,UM1988-05-S:AgBiCuHgPb
+1113,6969,Gerenite-(Y)
+1124,53213,Ferriakasakaite-(Ce)
+17,31407,Hephaistosite
+53,39785,Eurekadumpite
+54,40372,Titan-uranoan Oxycalciopyrochlore
+97,2234,Kochkarite
+173,39787,Depmeierite
+187,341,Armalcolite
+198,28995,Marianoite
+213,39303,Dufrénite Group
+221,10653,Niobian Rutile
+236,8631,Strengite-Variscite Series
+242,6902,Dessauite-(Y)
+329,29284,Copiapite Group
+336,5565,Ghassoulite
+338,11368,Bituminous-coal
+348,29313,Monazite Group
+374,39653,Ivanyukite-Na-C
+397,6863,Charmarite-3T
+432,3206,Picromerite
+462,38709,Whitneyite
+478,858,Calcio-duftite
+480,39772,Unnamed (Al-Th Oxide)
+491,29548,Nechelyustovite
+533,38698,Friedrichbeckeite
+672,11114,Ferrohögbomite-2N2S
+681,3212,Pilolite
+719,9426,Elaterite
+779,3379,Redingtonite
+786,8415,Analbite (of Winchell)
+882,32208,Nielsbohrite
+998,27403,Copper Sulphides
+2,342,Armangite
+45,2116,Joséite-A
+153,7305,Sodicgedrite
+184,295,Arsenoflorencite-(La)
+185,32198,Demicheleite-(Br)
+190,4402,Ziesite
+230,39838,Paratimroseite
+251,39306,Cryptophyllite
+252,39308,Shlykovite
+277,1438,Fahlunite
+288,39671,Markcooperite
+289,461,Barium-Lamprophyllite
+316,6649,Hyacinth
+353,51775,Copper sulfide ore
+354,39488,Anthophyllite-Gedrite Series
+396,27270,Ricolite
+397,39559,Housleyite
+413,29340,Turquoise Group
+420,8869,Cobaltaustinite-Conichalcite Series
+477,4117,Urea
+491,39706,Fluor-elbaite
+493,29146,Písekite-(Y)
+531,7005,Hyttsjöite
+543,29550,Nioboaeschynite-(Y)
+574,39834,Ottoite
+575,39836,Timroseite
+587,27173,Pigeon Blood Agate
+631,27638,Lalondeite
+635,3071,Palmierite
+693,29199,Grossular-Pyrope Series
+734,39789,Ambrinoite
+743,39670,Telluroperite
+756,35973,Stronadelphite
+794,36076,Pompton Granite
+838,27187,Starlite
+841,7481,Cymophane
+887,30070,Chlorospinel
+950,3558,Schapbachite
+954,48039,Lamproite
+959,2985,Olkhonskite
+977,9744,Ceylonite
+1023,9824,Resin Opal
+1024,1633,Gahnospinel
+1087,52173,Hydroxykenopyrochlore
+1131,39558,Thorneite
+1132,38694,Demicheleite-(Cl)
+1204,7089,Dukeite
+0,750,Bradleyite
+86,2755,Monetite
+88,39554,Peatite-(Y)
+105,183,Amarillite
+238,40341,Fluorcalciopyrochlore
+266,414,Atopite
+347,31314,Diatomite
+365,2678,Metaköttigite
+373,39555,Ramikite-(Y)
+374,39556,Fluorbritholite-(Y)
+423,717,Bonaccordite
+428,39638,Auriacusite
+500,39766,Fluornatrocoulsellite
+501,39767,Pseudoleucite
+503,860,Calciocatapleiite
+521,39796,Libyan Desert Glass
+550,39845,Rruffite
+573,39877,Kircherite
+575,3016,Orickite
+577,39883,Iangreyite
+588,7276,Rubicline
+591,39450,Devitoite
+694,7294,Arrojadite-(BaFe)
+728,108,Aleksite
+732,32286,Hexamolybdenum
+740,11466,Shirozulite
+768,36075,Unakite
+822,31665,Montetrisaite
+888,9645,Siliciophite
+930,42495,Florencite-(Sm)
+949,1562,Florencite-(Nd)
+988,1618,Fuenzalidaite
+1030,39334,Fluorphosphohedyphane
+1106,38693,Aiolosite
+1118,10044,Riband Agate
+1157,39913,Chromian Magnesio-arfvedsonite
+1216,335,Arite
+1219,4062,Tusionite
+1227,9001,Cryptoperthite
+1231,38899,Stetindite-(Ce)
+122,29144,Perrierite-(La)
+180,39218,Heklaite
+236,394,Asperolite
+255,40045,Tancaite-(Ce)
+273,8650,Axinite-(Fe)-Axinite-(Mn) Series
+279,29142,Parakuzmenkoite-Fe
+363,6751,Haytorite
+371,7369,Wollastonite-1A
+373,27245,Trudellite
+387,2692,Metavanmeersscheite
+445,10976,Plumboan Rhabdophane-(Ce)
+484,11031,Picroilmenite
+521,32285,Stibioclaudetite
+584,7118,Jahnsite-(MnMnMn)
+590,2553,Maldonite
+629,39963,Thermessaite-(NH4)
+751,36064,Pertlikite
+771,7039,Bleasdaleite
+890,32186,Opal-C
+903,27464,Oxykinoshitalite
+1025,1697,Giorgiosite
+1041,28959,Arrojadite-(KNa)
+1093,8714,Hocartite-Pirquitasite Series
+96,9924,Chromium Mica
+193,39211,Liversidgeite
+211,4423,Zircophyllite
+263,8610,Austinite-Conichalcite Series
+342,29276,Beudantite Group
+370,39570,Toturite
+422,10916,Silica
+440,35970,Fantappièite
+471,43850,Eckhardite
+481,27486,Slavkovite
+506,8001,Cacholong
+552,41944,Betpakdalite-CaMg
+617,11338,Bobkingite
+626,40023,Bitikleite
+627,40024,Usturite
+643,35951,Droninoite
+725,11134,Cuprian Planerite
+761,9523,Lumachelle
+774,30035,Brown Iron Ore
+852,27056,Elaeolite
+873,5629,Hiortdahlite II
+997,39551,Domerockite
+1090,9875,Ishkulite
+1092,30582,Star Ruby
+77,4251,Wawayandaite
+129,2294,Kurilite
+199,39291,Chrome-Chalcedony
+217,39335,Chibaite
+261,39426,Grossmanite
+294,43583,Bairdite
+351,29343,Whiteite Subgroup
+360,39598,Tobermorite Group
+399,39666,Ammoniomagnesiovoltaite
+410,43780,Adachiite
+429,4918,Cerite
+438,845,Cadwaladerite
+554,39973,Lecoqite-(Y)
+576,42507,Yttroepidote
+577,31812,Lithiophilite-Triphylite Series
+617,7297,Simmonsite
+643,1190,Cuprian Scheelite
+650,40112,Prasiolite
+656,40121,Irnimite
+704,559,Bastinite
+736,32092,Scandian Ixiolite (of Bergstøl & Juve)
+854,6830,α-Brass
+901,40219,Arsenogorceixite-Arsenogoyazite Series
+944,40571,Pseudolyonsite
+958,40235,Columbite-(Mn)-Tantalite-(Mn) Series
+959,26376,Drobecite
+1051,38828,Pyracmonite
+8,1773,Guitermanite
+46,38989,Kyanoxalite
+229,39217,Nickeltalmessite
+257,73,Aksaite
+280,39675,Cyanotrichite Group
+287,2542,Magnolite
+316,38701,Alflarsenite
+332,2829,Nagelschmidtite
+340,40051,Volaschioite
+446,6933,Ferroaluminoceladonite
+482,861,Calcjarlite
+696,30578,Star Corundum
+730,1563,Florensovite
+731,7395,Quartz-beta
+761,40204,Unnamed (La-analogue of Daqingshanite-(Ce))
+785,7473,Bort
+793,9532,Petroleum
+863,9799,Moss Opal
+877,40216,Rubidian Muscovite
+899,4349,Yafsoanite
+926,40197,Unnamed (Cu-Zn Arsenate-Sulphate)
+949,3680,Skippenite
+1027,8945,Keiviite-(Y)-Keiviite-(Yb) Series
+1052,3839,Sverigeite
+1079,26414,Cobaltkieserite
+1119,6801,Manganiandrosite-(La)
+1140,11481,Tsumgallite
+47,10307,Kertschenite
+136,53453,Feather pyrite
+192,39300,Cobalt
+284,43437,Trapiche tourmaline
+353,27160,Smirnovskite
+386,8777,Kentrolite-Melanotekite Series
+391,8783,Cuproiridsite-Cuprorhodsite Series
+394,39569,Vorlanite
+483,39715,Kobokoboite
+492,734,Botryolite
+500,6892,Crestmoreite
+511,6907,Dzharkenite
+514,2814,Murunskite
+559,27459,Hydroxylwagnerite
+576,2914,Nisbite
+577,2919,Nitrocalcite
+661,3044,Otwayite
+681,3078,Para-alumohydrocalcite
+683,7340,Tongxinite
+685,1035,Chromferide
+702,25640,Verbeekite
+830,40140,Coralloite
+887,40230,Armalcolite-Pseudobrookite Series
+919,32086,Unnamed (Pb2(OH)3(NO3))
+920,32087,Unnamed (Pb13O8(OH)6(NO3)4)
+969,39699,Napalite
+1026,1142,Coulsonite
+1035,38895,Ammineite
+1044,3608,Seinäjokite
+1194,39553,Huanzalaite
+1319,47046,Selwynite (of Ulrich) 
+1356,45,Agalmatolite
+87,39060,Huntilite
+151,9258,Pyrite Group
+199,40332,Titanian Aegirine
+238,39312,U94 (of Schnorrer)
+352,29266,Alluaudite Group
+461,2811,Murataite-(Y)
+489,6962,Gallobeudantite
+515,9060,Haarsalz
+570,39882,Capranicaite
+613,25614,Darwin Glass
+697,39447,Pyrrhotite Group
+787,39780,Wolframite Group
+825,40290,Rickturnerite
+828,40293,Schüllerite
+868,40353,Oxyuranobetafite
+887,40557,Cu-Zn alloy
+895,6937,Ferrohagendorfite
+959,267,Antiperthite
+990,3005,Opal-Agate
+997,4147,Vanmeersscheite
+1132,1679,Gerdtremmelite
+1187,40267,Cranswickite
+45,2117,Joséite-B
+65,49442,Mudstone
+75,30842,Celestobarite (of Dana)
+152,2298,Kutinaite
+197,320,Ardaite
+228,370,Arsensulfurite
+241,39660,Gelosaite
+259,27156,Apache Tears
+359,7614,Nipomo Agate
+457,43796,Peterandresenite
+501,877,Canaphite
+502,39790,Åskagenite-(Nd)
+523,11158,Matsubaraite
+549,7329,Tantalum
+594,853,Calcareous Tufa
+620,40001,Aluminocoquimbite
+627,40012,Chabazite-Mg
+722,7396,δ-Quartz
+772,9527,Lusakite
+823,40333,Silicon Carbide (artificial)
+840,3499,Sadanagaite
+849,7610,Iris Agate
+870,40411,Pyrochlore
+871,40413,Perelivt
+931,31330,Sulfurite
+937,829,Calcioaravaipaite
+974,35950,Nenadkevichite Group
+989,32723,Gold-Palladium Series
+1015,1775,Gumucionite
+1048,40179,Fluorocronite
+1144,40270,Tashelgite
+1162,10922,Wurtzite Group
+11,36072,Cobaltoan Köttigite
+33,3710,Solongoite
+95,10392,Orthojoaquinite-(La)
+280,40355,Oxycalciomicrolite
+281,6613,Xenotime
+324,43545,Gem Silica
+356,29261,Abramovite
+375,29298,Hydrotalcite Group
+395,32619,Ivanyukite-K
+446,39637,Litochlebite
+491,39702,Pyrophyllite-Talc Group
+520,2870,Nefedovite
+527,31567,Hydroxylborite
+662,274,Apatite Supergroup
+730,32618,Ivanyukite-Na
+768,40139,UM1995-17-O:CaHTiUY
+804,39271,Crandallite-Goyazite Series
+809,1269,Despujolsite
+864,40276,Barlowite
+885,2092,Jerrygibbsite
+906,1423,Eugsterite
+954,1509,Ferroan Platinum
+980,40468,Krotite
+1025,40538,Unnamed (Pb-Cu Chloride-Hydroxide)
+1110,40686,Snakeskin Agate
+1214,1942,Hügelite
+1222,1957,Hydroxylbastnäsite-(Nd)
+0,4096,Upalite
+106,26804,Silex
+281,8669,Tantalite-(Fe)-Tantalite-(Mn) Series
+421,39626,Clear Lake Diamond
+430,40398,Aldridgeite
+432,4184,Vincentite
+490,6959,Fullerite
+507,39760,Amphibole Asbestos
+516,29421,Cuprian Beudantite
+518,27494,Aspidolite
+530,45943,Nestolaite
+566,3032,Orthowalpurgite
+571,3002,Oosterboschite
+624,48141,Granite
+688,30908,Demartinite
+713,11401,Strawberry Quartz
+722,42133,Iris Quartz
+776,7680,Salzburgite
+840,40144,Natropharmacoalumite
+852,40285,Sveinbergeite
+914,48576,Pumice
+970,257,Anthraconite
+1040,26564,Auriferous Galena
+1075,40661,Wilsonite
+1128,42801,Telluromandarinoite
+1134,36831,Allanite-(Nd)
+1231,51173,CCUK-8
+62,41073,Běhounekite
+82,2201,Kiddcreekite
+92,41131,Rongibbsite
+100,41151,Mejillonesite
+194,41295,Vudyavrite
+198,2389,Hydroxycalcioroméite
+285,39439,Sejkoraite-(Y)
+318,27210,Riomarinaite
+326,2650,Merenskyite
+333,29291,Lammerite-β
+370,29350,Lampadite
+458,41099,Carlosbarbosaite
+504,29104,Potassic-magnesio-fluoro-arfvedsonite
+524,941,Cesplumtantite
+652,35967,Jahnsite-(NaMnMg)
+653,35968,Jahnsite-(CaMgMg)
+717,39868,Agricolaite
+728,31994,Jahnsite-(NaFeMg)
+764,40244,Suttroper Quarz
+783,40272,Laurentianite
+884,40447,Rakovanite
+901,32284,Allendeite
+1042,26386,Gabrielite
+1101,1018,Chlormagaluminite
+65,10345,Niobian Anatase
+96,10403,Jade
+140,2280,Krutovite
+217,2395,Liddicoatite
+268,29135,Chesnokovite
+322,49710,L6 chondrite meteorite
+333,39486,Delafossite Group
+416,6824,Berezanskite
+482,41772,Hielscherite
+512,27498,Oftedalite
+533,41858,Ytterbium
+553,7055,Zincalstibite
+586,41953,Cupromolybdite
+628,39985,Taaffeite Group
+640,3137,Paxite
+723,7371,Wooldridgeite
+823,5487,Pencil Ore
+907,41909,Angarfite
+1112,3981,Tivanite
+120,41771,Günterblassite
+138,49384,Banded-ferruginous chert
+172,51484,Honigspat
+337,611,Bellidoite
+386,693,Blakeite
+401,39634,Momoiite
+411,3718,Součekite
+436,8968,Clinoptilolite-Ca-Heulandite-Ca Series
+452,42035,Strontium Perrierite
+499,31605,Tasmanite
+533,4595,Xanthitane
+565,44010,Schizolite
+570,41969,Shimazakiite
+604,42032,Metatorbernite-Metazeunerite Series
+621,27451,Fluoro-pedrizite
+653,34954,Steacyite Group
+756,40208,Brownmillerite-Srebrodolskite Series
+782,28895,Arsenian Renierite
+869,48590,Pyroclastic-breccia
+1027,1759,Gruzdevite
+1030,35110,Zorite Group
+1090,42850,Ferrovalleriite
+1098,32621,Biachellaite
+1117,8082,Alumo-chalcosiderite
+1148,1996,Hydroxylbastnäsite-(La)
+128,4316,WÃ¼stite
+137,26856,Nigrine
+251,39331,Manitobaite
+452,8944,Garyansellite-Kryzhanovskite Series
+454,11448,Magnesiohögbomite-2N3S
+483,6940,Ferro-ferri-leakeite
+503,31541,Stanniferous Copper
+508,31558,Epidote-(Sr)
+520,7006,Iddingsite
+596,41955,Lileyite
+608,25593,Argentiferous Tennantite
+616,52231,Ungrouped iron meteorite
+624,46099,Pieczkaite
+648,39433,Betpakdalite Group
+673,9141,Bentonite
+730,1210,Černýite
+766,42233,Reynoldsite
+786,42268,Postite
+791,28891,Armbrusterite
+827,11152,Ferruginous Microcline
+863,2287,Kulkeite
+868,1441,Fairburn Agate
+924,40465,Oxy-schorl
+960,40289,Parasterryite
+973,32363,Klajite
+1128,42881,Wopmayite
+1180,26592,Uraniferous Graphite
+92,10408,Halloysite-7Å
+95,40647,Icosahedrite
+122,41179,Rusinovite
+337,39542,Wollastonite Group
+387,40055,Elbrusite
+449,41778,Galuskinite
+455,2875,Neltnerite
+472,27480,Françoisite-(Ce)
+550,39893,Megawite
+562,39916,Hingganite
+571,3239,Playfairite
+617,1098,Cobaltzippeite
+686,3253,Polhemusite
+712,3298,Pseudograndreefite
+778,26850,Molybdoscheelite
+787,40281,Vanadian Muscovite
+808,42356,Aspedamite
+872,5621,Heterogenite-2H
+892,31664,Andrianovite
+921,3342,Quercyite
+936,40562,Bohseite
+941,43905,Meisserite
+955,1690,Giessenite
+1147,3464,Routhierite
+95,49606,H4 chondrite meteorite
+121,2240,Kolfanite
+130,32106,Oceanjaspis
+230,29014,Maikainite
+258,39302,Gayite
+296,47564,Euxenite Group
+327,6657,Zirconolite-3O
+338,42367,Kobyashevite
+388,41574,Windhoekite
+451,1823,Hashemite
+530,2873,Nekrasovite
+537,32557,Muscovite-1M
+560,38716,"UM1986-10-CO:ClHMgMnZn (also called Mineral F, Dunn, 1995)"
+575,2944,Nybøite
+609,27574,Mg-rich Calcite
+633,27610,Coiraite
+643,8694,Powellite-Scheelite Series
+648,2693,Metavanuralite
+649,41970,Chromio-pargasite
+651,39924,Atacamite Group
+708,40460,Irghizite
+709,9290,Strontian Piemontite
+719,11350,Cesian Analcime
+726,50275,Lunar achondrite meteorite
+798,39800,Australite
+829,39732,Scorodite-Strengite Series
+848,29972,Manganbrucite
+858,27526,Alpersite
+929,9627,Iodian Bromian Chlorargyrite
+945,40374,Beryl Group
+951,7612,Landscape Agate
+953,4429,Zodacite
+955,42434,Hughesite
+966,42458,Adolfpateraite
+969,42462,Unnamed (Sazhinite-related mineral II)
+986,42240,Bassoite
+1062,32381,Qingheiite-(Fe2+)
+1081,52890,Nöggerathite-(Ce)
+1088,32424,Lithomarge
+1100,3769,Stetefeldtite
+1109,40566,Ferroericssonite
+1122,29367,Mg-Fe-Mn-Li Ortho-Amphibole Subgroup
+1185,1854,Helmutwinklerite
+1280,38866,Falcon's Eye
+0,2048,Iron Ochre
+75,124,Allanite
+165,2805,Mukhinite
+199,41290,Shulamitite
+227,39287,Cuproneyite
+272,8671,Hercynite-Spinel Series
+274,8674,Chromite-Hercynite Series
+281,8689,Cordierite-Sekaninaite Series
+449,42376,Umbrianite
+505,50222,Breccia
+549,41947,Mendozavilite-KCa
+550,41949,Obradovicite-NaNa
+552,8016,Tsilaisite
+820,42408,Witzkeite
+843,42463,Falsterite
+854,42487,Pyrorthite
+858,42493,Pterolite
+869,42520,Menzerite-(Y)
+902,32340,Blaubleierz
+973,42729,Phosphovanadylite-Ca
+975,42733,Christofschäferite-(Ce)
+1047,43913,Fluorkyuygenite
+1049,3954,Thucholite
+1098,31641,Polybasite-T2ac
+20,2086,Jeffreyite
+61,8596,Andalusite-Kanonaite Series
+66,26984,Unnamed (Pd-Cu-Sn Alloy)
+76,49281,Ironstone
+113,195,Ameghinite
+142,53494,"(Nb,Fe)-substituted anatase"
+259,2505,Macaulayite
+280,424,Auriferous Pyrite
+474,27455,Hydroxylapatite-M
+577,29523,Stibiobismuthinite
+588,3080,Parabrandtite
+731,42534,Kottenheimite
+743,42229,Davidlloydite
+789,48451,Rhyolite
+790,30020,Alumogel
+820,8970,Clinoptilolite-Na-Heulandite-Na Series
+908,42522,Zaccagnaite-3R
+910,42525,Alcaparrosaite
+923,42541,Ratovkite
+1001,9902,Chrome-Pyrophyllite
+1021,3786,Stilleite
+1084,3916,Tertschite
+1107,541,Bartelkeite
+20,10269,Stylotypite
+127,8393,Ammolite
+185,49436,Conglomerate
+217,42723,Rumseyite
+243,2429,Lonchidite
+300,42749,Štěpite
+366,3178,Petrukite
+413,38827,Brumadoite
+431,8941,Clausthalite-Galena Series
+446,39682,Edwardsite
+451,31498,Osakaite
+545,35756,Leucophosphite Group
+552,42860,Lavinskyite
+594,48126,Granitoid
+622,50220,Polymictic conglomerate
+632,42043,Vladkrivovichevite
+698,8388,Ammonite
+730,7378,Yixunite
+751,7038,Carraraite
+761,7427,Cobaltoan Rhodochrosite
+793,40256,Uraniferous Zircon
+838,42373,Krásnoite
+902,48627,Amphibolite
+983,42360,Radentheinite
+984,9790,Jasper Opal
+993,9859,Novaculite
+1026,10253,Gelmagnesite
+1033,42691,Unnamed (Na-Mg-Mn Oxide)
+1038,42698,Takanawaite-(Y)
+1041,39885,Chlorapatite-M
+1056,42730,Saltonseaite
+1059,42737,Tubulite
+1066,42750,Babánekite
+1067,42756,Lavoisierite
+1082,41946,Mendozavilite-NaCu
+1116,42837,Kasatkinite
+1118,42840,Protochabournéite
+1135,42861,Scottyite
+1140,42872,Starovaite
+1153,32664,Tanohataite
+1169,49072,Paragneiss
+1179,42944,Unnamed (Na-Ca Silicate)
+1186,42825,Hereroite
+39,8254,Jargoon
+79,32107,Vesuvianite Group
+130,11642,Strontian Thomsonite
+233,32288,Fluorcanasite
+267,2497,Magnesiochloritoid
+374,2677,Metakirchheimerite
+390,6792,Gigantolite
+397,2703,Michenerite
+681,42852,Vigrishinite
+789,29162,Eilat Stone
+832,39562,Carbobystrite
+856,40295,Carlgieseckeite-(Nd)
+876,42369,Argesite
+913,1466,Fergusonite-(Nd)-β
+917,43221,Whitecapsite
+1129,42800,Sarrabusite
+1201,47023,Magnesiovoltaite
+1218,8867,Chernovite-(Y)-Xenotime-(Y) Series
+1220,2041,Iraqite-(La)
+1237,43348,Euxenite-(Y)-Polycrase-(Y) Series
+71,43367,Naegite
+100,152,Alum Group
+143,43223,Chromian Iowaite
+153,49378,Sinter
+166,28917,Chukanovite
+176,43270,Rauchite
+178,43272,Dymkovite
+179,266,Antimonselite
+184,43284,Omsite
+223,29007,Veselovskýite
+227,43349,Minohlite
+243,39286,Corkite-Hinsdalite Series
+267,417,Auerbachite
+269,29091,Kuzmenkoite-Zn
+270,39332,Balliranoite
+292,42734,Lusernaite-(Y)
+309,27158,Rainbow Obsidian
+376,29273,Astrophyllite Supergroup
+404,29326,Rhabdophane Group
+558,11140,Nuttallite
+635,29358,Kësterite-Stannite Series
+644,27479,Johnsenite-(Ce)
+673,25655,Cactus Quartz
+819,41710,Serpentine Jade
+844,902,Carlosruizite
+920,3475,Ruitenbergite
+949,26918,Turnerite
+987,41691,Black Jade
+1017,9785,Harlequin Opal
+1022,42876,Piemontite-(Pb)
+1033,3665,Simferite
+1081,3744,Stalderite
+1110,27597,Mookaite
+1127,42726,Debattistiite
+1135,39891,Chromo-alumino-povondraite
+1191,10054,Risörite
+1247,42755,Joanneumite
+1289,43343,Manganoblödite
+13,2946,Natrokomarovite
+237,43412,Boron
+249,2468,Manganarsite
+257,43422,Rhodic Ferroplatinum
+277,29154,Walkerite
+284,10738,Bonchevite
+305,9989,Taylorite (of Dana)
+345,32187,Opal-AG
+358,39550,Polezhaevaite-(Ce)
+456,6939,Ferrolaueite
+512,2939,Nowackiite
+607,27675,Carbonate of Lime
+654,3165,Permingeatite
+735,3283,Pringleite
+783,3350,Radtkeite
+805,31324,Fluoro-tremolite
+861,5981,Common Opal
+895,1502,Ferrisymplesite
+1009,5745,Jentschite
+1066,3841,Svyazhinite
+1085,42784,Cerchiaraite-(Fe)
+1113,38739,Plaffeiite
+1121,42848,D'Ansite-(Fe)
+1146,42887,Andradite-Uvarovite Series
+1199,43345,Calciodelrioite
+5,4097,Uralborite
+17,26648,Erzbergite
+55,2131,Kahlerite
+88,49992,Kidney and Gallstones
+136,39288,Groatite
+176,43296,Hydrocalumite Group
+198,43328,Billwiseite
+282,43458,Unnamed (Dimorph of Devilline)
+301,43493,Chrommagnetite
+364,702,Bogdanovite
+383,43455,Unnamed (Pb-Fe-Cl-S(?)-O-H Phase)
+408,39582,Unnamed (Ba Thiosulphate Monohydrate)
+432,39613,Unnamed (Orthorhombic dimorph of Barstowite)
+506,42804,Terrywallaceite
+576,7080,Tamaite
+583,41907,Chukhrovite-(Ca)
+627,41130,Långbanshyttanite
+644,42842,Mariinskite
+770,1250,Delessite
+902,11505,Strontian Aragonite
+924,3527,Santite
+929,3542,Satpaevite
+1022,3693,Natrouranospinite
+1035,52865,Spinel Supergroup
+37,53,Agathacopalite
+54,27483,Ferri-winchite
+61,49922,IIAB iron meteorite
+189,43293,Trébeurdenite
+231,43359,Carlfrancisite
+279,43454,Unnamed (Tetragonal Dimorph of Nadorite)
+281,43456,Unnamed (Ba-Ca Carbonate)
+295,11002,Bushmakinite
+317,3042,Ottemannite
+346,43586,Leydetite
+354,43595,Vysokýite
+475,39696,Symplesite Group
+482,795,Buckhornite
+485,801,Bunsenite
+537,4983,Paraluminite
+586,27596,Allochalcoselite
+602,11089,Tarnowitzite
+608,46069,Mojaveite
+731,29874,Schwarzer Glaskopf
+849,11630,Pissophanite
+873,43587,Línekite
+876,42738,Fuettererite
+877,40347,Fluorkenopyrochlore
+878,1436,Fahleite
+931,3580,Schraufite
+1052,43298,Mössbauerite
+1069,42732,Putnisite
+1070,27602,Chrome-Omphacite
+1117,4154,Vanuxemite
+12,25,Adinole
+22,8081,Alumocalcite
+46,2594,Mátraite
+211,35832,Klöchite
+243,8612,Babingtonite-Manganbabingtonite Series
+272,29153,Valchovite
+353,29303,Löllingite Group
+382,10918,Paceite
+483,2905,Nimite
+498,42788,Schlüterite-(Y)
+545,39892,Fluor-dravite
+554,41957,Boscardinite
+734,30937,Nuummite
+736,40218,Pyropissite
+754,9535,Pseudowollastonite
+777,42350,Atelisite-(Y)
+816,43593,Nizamoffite
+839,43865,Césarferreiraite
+854,48656,Skarn
+860,3612,Selenostephanite
+906,9148,Fiorite
+970,42727,Nashite
+1086,42931,Lizardite-1T
+1111,10919,Hoganite
+57,4182,Villyaellenite
+161,43731,Unnamed (Ca-Ba Carbonate)
+288,51959,Somersetite
+315,29190,Crichtonite Group
+327,27165,Star Garnet
+471,2820,Macusanite
+511,5961,Chrysopal
+525,867,Calkinsite-(Ce)
+527,11112,Tischendorfite
+530,11118,Tweddillite
+584,48064,Lamprophyre
+656,39984,Nigerite Group
+802,43568,Ferrochiavennite
+868,40340,Hydroxycalciopyrochlore
+1005,42618,Unnamed (Cordylite-like (Ca0.5[]0.5)BaCe2[CO3]4F)
+1163,30584,Cave Pearls
+1229,38894,Wakefieldite-(Nd)
+45,208,Amstallite
+48,26701,Ángelaite
+56,39005,Sardignaite
+108,2666,Metauranopilite
+147,53500,Orbiculite
+153,39639,Galliskiite
+237,29085,Tremolite-Actinolite Series
+247,8618,Triplite-Zwieselite Series
+313,6710,Prasolite
+329,43460,Unnamed (Zn-analogue of Humboldtine)
+373,29330,Rutile Group
+457,43802,Cairncrossite
+474,43837,Elatolite
+489,27482,Jonassonite
+573,41951,Krasheninnikovite
+604,43829,Nickeloan Copper
+636,1400,Erlianite
+651,25688,Schlemaite
+728,9997,Marmolite
+771,1281,Diallage
+883,7622,Binghamite
+927,27460,Kokchetavite
+1037,27678,Kingstonite
+1051,9988,Tawmawite
+1069,43313,Mendozavilite Group
+1113,46965,Millsite
+1166,26577,Filatovite
+33,43877,Leverettite
+68,119,Alkali-apatite
+114,41155,Vladimirivanovite
+167,26894,Saussurite
+174,27492,Kalungaite
+185,43314,Mimetite-Vanadinite Series
+209,43407,Unnamed (Pb-Cu Oxide)
+223,43753,Camaronesite
+237,27027,Zincostaurolite
+272,26490,Lapis Nevada
+287,43521,Aluminopyracmonite
+319,43569,Markhininite
+328,43591,Murashkoite
+338,3975,Tirodite
+350,630,Berdesinskiite
+365,27276,Damsonite
+424,29424,Cobaltoan Austinite
+466,43838,Friedel's Salt
+475,43854,Vendidaite
+476,43856,Joteite
+482,27443,Pauflerite
+485,43869,Sanguite
+486,43870,Deveroite-(Ce)
+497,43884,Almeidaite
+499,43886,Ericlaxmanite
+513,43909,Evdokimovite
+520,43918,Mathesiusite
+522,43922,Hloušekite
+524,43924,Magnesiokoritnigite
+537,43943,Emmerichite
+598,44045,Coal blend
+605,1046,Chukhrovite
+644,43874,Chrysothallite
+648,30904,Calvertite
+726,47780,Braunerite
+736,43897,Wulffite
+779,97,Albrechtschraufite
+825,26837,Cuprian Saponite
+858,4334,Xiangjiangite
+915,43945,Chanabayaite
+988,1667,Geffroyite
+1013,43907,Karpovite
+40,4162,Vaughanite
+129,35035,Murmanite Group
+148,30965,Arsenpolybasite
+178,4398,Zhanghengite
+214,26983,Nielsenite
+265,29338,Tetrahedrite Group
+301,8723,Ferropargasite-Pargasite Series
+533,43926,Therasiaite
+553,42381,Paseroite
+594,5119,Iolite
+630,38851,Yegorovite
+639,1097,Cobaltpentlandite
+792,43340,Darrellhenryite
+844,1433,Fabianite
+1001,41587,Warwickite Group
+1042,46854,Hielscherite-Thaumasite series
+1091,3929,Thadeuite
+106,39090,Yttromicrolite (of Hogarth)
+167,49430,Clay
+185,26598,Cuprian Fraipontite
+236,49560,CO3 chondrite meteorite
+274,9154,Low Albite
+303,43544,Andean Opal
+317,6711,Prase Opal
+460,46213,Dough tin
+499,43878,Paratacamite-(Mg)
+534,43935,Arsiccioite
+557,39878,Ferri-fluoro-leakeite
+638,39437,Skutterudite Subgroup
+715,42447,Murchisite
+732,7399,Pyrrholite
+781,2431,Lonsdaleite
+822,27199,Redondite
+940,3659,Silicon
+967,39871,Atlantisite
+1027,7063,Rengeite
+1146,26458,Kupčíkite
+118,1403,Erniggliite
+259,43525,"w(OH, F, Cl)-dominant Amphibole Group"
+344,636,Bernardite
+390,29414,Arrojadite-(BaNa)
+421,49945,Nakhlite meteorite
+422,2843,Nasledovite
+432,49967,Slag
+450,39758,Dalnegroite
+457,43866,Laachite
+787,49732,L3-6 chondrite meteorite
+835,43901,Kaliochalcite
+865,43955,Kozyrevskite
+918,2329,Lapieite
+1007,32565,Phlogopite-1M
+1056,26526,Zincian Devilline
+1106,8186,Kupferpecherz
+111,26838,Medmontite
+130,2291,Kuramite
+149,43286,Cualstibite-1T
+155,41250,Unnamed (Pb Arsenite Chloride)
+260,43495,Chromite-Magnetite Series
+338,2500,Magnesiocarpholite
+390,43725,Float-stone
+428,45833,Bobdownsite-Whitlockite Series
+448,9050,Toad's Eye Tin
+477,31539,Whitlockite Group
+764,46414,Ferri-obertiite
+795,44420,Unnamed (OH-analogue of Mimetite)
+920,35595,Fluorapophyllite
+1058,44312,Kuratite
+1117,38864,Hickoryite
+4,2056,Itoite
+75,45968,Dmisokolovite
+92,4258,Weilerite
+234,39990,Sulphur-β
+290,27227,Carbonado
+296,27151,Anyolite
+297,8720,Petitjeanite-Preisingerite Series
+593,39947,Padparadscha
+682,40473,Rémondite
+765,43899,Parawulffite
+822,40331,Galena Group
+926,9143,Retinite
+929,9807,Opal Matrix
+1052,45888,Magnesium
+1121,3737,Srilankite
+1175,27278,Chrysocolla Chalcedony
+32,2397,Liebenbergite
+44,43920,Aradite
+49,77,Al-lizardite
+74,123,Allagite
+346,43597,Parádsasvárite
+397,49821,EL-melt rock chondrite meteorite
+475,1154,Criddleite
+483,43808,Unnamed (Zn Sulphate-Hydroxide-Chloride-Hydrate)
+509,45900,Bridgmanite
+527,45926,Unnamed (Cu-Sb Sulphate)
+549,45964,Tondiite
+550,45966,Shchurovskyite
+562,43937,Popovite
+612,46057,Backite
+705,45933,UM1991-09-OH:AlCr
+770,45941,Vapnikite
+783,7381,Yuanjiangite
+996,40502,Black Nephrite Jade
+1042,46016,Methane Clathrate
+33,46089,Tiffany stone
+57,42684,Unnamed (Na-Pb Carbonate-Hydroxide)
+200,10596,Oellacherite
+236,43435,Star muscovite
+307,29245,Magnesian Schorl
+369,29357,Aikinite-Bismuthinite Series
+404,29425,Cobaltoan Ferrilotharmeyerite
+503,46006,Braccoite
+551,46101,Geschieberite
+587,46145,Plášilite
+657,40114,Ferrosalite
+766,42341,Wurtzite-4H
+800,48540,Phonolite
+840,40435,Whiteite-(CaMnMn)
+899,2660,Meta-alunogen
+927,1682,Germanocolusite
+978,5877,Moissanite-6H
+1065,6057,Polyxene
+61,9766,Kelyphite
+156,588,Bean Ore
+173,45345,Canutite
+213,1066,Clinobehoite
+250,2475,Manganochromite
+255,3015,Oregonite
+261,40182,Fluorite Group
+262,2498,Magnesiohulsite
+287,46162,Antipinite
+293,39421,Kornerupine-Prismatine Series
+421,4219,Vyalsovite
+443,6921,Faujasite-Mg
+458,2523,Tapiolite-(Mn)
+483,43845,Ophirite
+497,43875,Engelhauptite
+518,11143,Heterophyllite
+525,45970,Balestraite
+575,44003,Philrothite
+614,48163,Granodiorite
+631,46139,Shilovite
+641,46151,Tapiaite
+721,11444,Zincohögbomite-2N6S
+783,1297,Dittmarite
+865,40361,Hydrokenomicrolite
+898,8785,Magnesioferrite-Magnetite Series
+923,41651,Chromian Pyrope
+977,45951,Grandaite
+981,7717,Magnesioferrikataphorite
+990,40482,Shocked Quartz
+1020,35789,Potassic-ferro-pargasite
+1062,5627,Beaumontite (of Lévy)
+1091,39567,Barioferrite
+1142,10182,Haydenite
+1146,27373,Oxy-rossmanite
+163,4380,Zabuyelite
+227,39301,Garutiite
+240,43418,Tschermakite Root Name
+241,10654,Tedhadleyite
+246,10660,Palladinite
+286,45953,Agakhanovite-(Y)
+321,43582,Cobaltoblödite
+334,8787,Sadanagaite Root Name
+430,27365,Guadalcazarite
+475,45881,Bluelizardite
+522,45960,Belakovskiite
+561,46019,Oxo-magnesio-hastingsite
+581,52198,Martian (basaltic breccia) meteorite
+722,11467,Reidite
+843,46147,Yusupovite
+952,9396,Polyadelphite
+953,9797,Mexican Fire Opal
+1048,30453,Barleycorn
+1126,42874,Zaccariniite
+1138,3993,Tomichite
+1166,44024,Unnamed (Fe2+-analogue of Brandtite)
+5,46081,Kojonenite
+45,2110,Joliotite
+55,46776,Alnaperbøeite-(Ce)-Perbøeite-(Ce) Series
+82,2181,Kelyanite
+158,2300,Kuzminite
+197,43330,Magnesiohögbomite-2N4S
+238,9281,Mg-bearing Boothite
+489,7304,Sodic-ferrogedrite
+509,31566,Hydroxylpyromorphite
+563,45988,Segerstromite
+587,43510,Agatized coral
+626,25604,Rhenian Molybdenite
+638,1048,Chursinite
+680,46165,Cortesognoite
+683,43876,Mapiquiroite
+720,35982,Grünlingite
+754,3276,Poyarkovite
+814,9516,Manganoan Melanterite
+870,3459,Rosièresite
+993,3652,Sideroplesite
+1099,42757,Zavalíaite
+1120,9896,Chrome-Nontronite
+1228,46167,Bobcookite
+1232,30686,Caliche
+8,3757,Fluorstrophite
+108,46551,Stilpnochlorane
+493,27397,Qaqarssukite-(Ce)
+495,29484,Zorgite
+546,2910,Nioboloparite
+595,45994,Itsiite
+604,46008,Caesiumpharmacosiderite
+673,46107,Wernerkrauseite
+715,46159,Keutschite
+735,9323,Carnevallite
+816,9450,Coprolite
+941,46506,Fermiite
+1021,50781,Fluorarrojadite-(BaNa)
+1025,50739,Granitic gneiss
+1158,46274,Chromoamesite
+225,43393,Magnesio-ferri-fluoro-hornblende
+263,8952,Hollingworthite-Irarsite Series
+281,10737,Urbanite
+345,46394,Chiappinoite-(Y)
+347,29309,Melanterite Group
+476,46564,Karpenkoite
+561,46055,Torrecillasite
+666,11390,Copper-silver 'half-breed'
+686,46012,Mambertiite
+718,3292,Protopartzite
+849,46518,Lefontite
+856,46528,Palladosilicide
+878,46576,Fogoite-(Y)
+1033,1788,Haapalaite
+1052,30494,Zincorhodochrosite
+1096,43325,Galloplumbogummite
+3,8791,Ferrocarpholite-Magnesiocarpholite Series
+20,46427,Melanarsite
+73,46440,Cryobostryxite
+103,2219,Kitkaite
+175,49444,Shale
+224,46141,Chubarovite
+242,2449,Lucasite-(Ce)
+293,508,Bannermanite
+340,39568,Cossaite
+382,29341,Variscite Group
+458,46195,Bunnoite
+498,46090,Pyrrhotite-6C
+575,31499,Braithwaiteite
+581,46063,Kononovite
+625,46135,Zincomenite
+645,7259,Pyatenkoite-(Y)
+674,35969,Panichiite
+768,45939,Parascandolaite
+791,46077,Pilawite-(Y)
+800,46425,Raisaite
+847,46498,Flurlite
+865,46530,Arsmirandite
+907,11524,Surkhobite
+914,9762,Hilgardite-3Tc
+928,9789,Isopyre
+974,46602,Bumblebee Jasper
+990,3766,Sterlinghillite
+1024,39208,Brontesite
+1071,46920,Anglesite-Baryte Series
+1141,39584,Nováčekite-II
+214,319,Argentotennantite
+249,3816,Stumpflite
+365,8743,Hydrolepidocrocite
+398,46663,Cayalsite-(Y)-1O
+405,45841,Unnamed (Ni Vanadate)
+449,8866,Freibergite-Tetrahedrite Series
+471,31406,Knasibfite
+513,43777,Iwateite
+515,39683,Demicheleite-(I)
+525,45840,Unnamed (Na-V Oxide)
+527,45842,Unnamed (Pb Diarsenite-Chloride-Hydrate)
+531,8687,Pectolite-Serandite Series
+569,39763,Guidottiite
+572,43862,Vanadoallanite-(La)
+607,43917,Byrudite
+616,7064,Kapitsaite-(Y)
+633,45996,Campostriniite
+666,46586,Meieranite
+684,44025,Unnamed (Fe2+-analogue of Parabrandtite)
+797,46617,Apexite
+819,46623,Perettiite-(Y)
+886,7460,Breislakite
+904,52189,Rhombporphyry
+917,9559,Vredenburgite
+930,2620,Mcnearite
+980,45983,Ferriakasakaite-(La)
+992,45986,Ferriandrosite-(La)
+1012,46578,Tavagnascoite
+1041,46683,Alfredopetrovite
+1151,3022,Orschallite
+1177,45843,Unnamed (Pb-Cu Arsenite-Chloride)
+1241,42846,D'Ansite-(Mn)
+1254,46739,Wilancookite
+68,116,Alipite
+92,160,Alumotungstite
+167,730,Borovskite
+279,45528,Yttriumapatite
+351,46522,Ralphcannonite
+395,8865,Pyrosmalite-(Fe)-Pyrosmalite-(Mn) Series
+486,45886,Beryllium vesuvianite
+508,39739,Ga-rich plumbogummite
+534,7049,Ekatite
+542,45972,Calcinaksite
+614,11279,Zincian Malachite
+674,1265,Dervillite
+713,11410,Grape Willemite
+734,40128,Steklite
+743,11470,Vanadian Mimetite
+817,40274,Hydroxylchondrodite
+870,42908,Pyrope-Spessartine Series
+894,46559,Suseinargiuite
+909,46582,Möhnite
+1031,29041,UM1999-38-WO:CrV
+1032,46800,Ilirneyite
+1076,26404,Marumoite
+1088,42806,Tazzoliite
+1127,46095,Ivsite
+1145,46794,Lucchesiite
+1185,46071,Bluebellite
+121,180,Amakinite
+161,28901,Tillmannsite
+182,42028,Phosphoferrite Group
+240,10589,Theoparacelsite
+321,495,Balipholite
+327,27129,Burmite
+402,46865,Usolite
+409,8818,Limnite
+462,891,Carboborite
+474,6857,Chabazite-Sr
+494,39654,Pyrrhotite-5C
+507,46514,Oppenheimerite
+511,29437,Laueite Group
+534,728,Borodaevite
+587,11132,Radovanite
+588,7037,Rollandite
+634,46010,Okruschite
+641,9153,High Albite
+688,46612,Cryptochalcite
+733,46155,Bavsiite
+752,11365,Selenian Metacinnabar
+919,46434,Bobshannonite
+954,237,Animikite
+986,46526,Ježekite
+1024,40439,Pyrrhotite-4C
+1038,40461,Pearceite-Polybasite Group
+1082,46670,Grundmannite
+1195,52993,Pandoraite-Ba
+1220,3879,Tancoite
+1223,38700,Paulscherrerite
+1239,40246,Chlorargyrite Group
+1310,38830,Lapeyreite
+1330,51153,Ooid-limestone
+1361,46421,Wetherillite
+185,49445,Argillite
+207,46699,Canosioite
+235,39283,Vondechenite
+299,38992,Hazenite
+369,3293,Proudite
+385,49772,LL5 chondrite meteorite
+433,685,Bismuth Ochre
+547,52369,Unclassified stony meteorite
+549,46883,Ilyukhinite
+587,7065,Bismutopyrochlore (of Chukanov et al.)
+604,45998,Ichnusaite
+605,46000,Nuragheite
+646,7149,Laforêtite
+659,46085,Thalliumpharmacosiderite
+724,46178,Lavinskyite-1M
+792,47008,Abellaite
+857,1313,Dorrite
+871,2611,Mcbirneyite
+904,46437,Rossovskyite
+950,46502,Esquireite
+1011,47038,Petříčekite
+1018,46608,Dravertite
+1024,42524,Clinochlore-Chamosite Series
+1066,46686,Ciriottiite
+1077,46970,Péligotite
+1088,46726,Unnamed (NH4-Zn-Fe Chloride)
+1089,46727,Unnamed (NH4-Mn Chloride-Fluoride(?)-Hydrate)
+1090,46728,Unnamed (NH4-Mn Chloride-Hydrate)
+1144,46811,Manganiceladonite
+1157,46833,Plavnoite
+1166,46850,Riotintoite
+1169,51411,Fluorbarytolamprophyllite
+1184,46878,Ferraioloite
+1185,46881,Feodosiyite
+1202,46905,Castellaroite
+1244,659,Bismutostibiconite
+1249,46969,Klaprothite
+1268,39461,Chalcoalumite Group
+1278,31645,Selenopolybasite
+1314,46877,Marklite
+194,8507,Bagrationite (of Koksharov)
+347,589,Bearsite
+381,25709,Zincospiroffite
+425,50898,Quartzose sandstone
+456,47537,Unnamed Organometallic Se Phase
+501,2890,Nickelblödite
+526,45934,Fensterquarz
+629,46816,Tatarinovite
+899,50574,Litchfieldite
+938,40391,Charcoal
+939,46536,Lipuite
+945,46550,Taniajacoite
+954,46423,Coldwellite
+1074,7866,α-Arsenic Sulphide
+1108,46824,Shumwayite
+1167,42844,Leonardsenite
+1228,46916,Vasilseverginite
+0,47791,Ewingite
+4,47788,Gauthierite
+13,6169,Edisonite
+109,8361,Alumohematite
+128,26821,Leonhardite
+130,46113,Romanorlovite
+167,28923,Gjerdingenite-Ca
+235,50135,Combustion buchite
+253,27495,Chivruaiite
+267,49542,CI1 chondrite meteorite
+324,42747,Yaroshevskite
+333,47603,Borisenkoite
+337,47609,Eleomelanite
+344,46508,Hedegaardite
+369,43570,Harmunite
+404,47724,Unnamed (Fe Sulphate Hydroxide)
+537,43604,Vanadium
+568,29545,Uedaite-(Ce)
+678,334,Aristarainite
+836,46633,Alexkhomyakovite
+889,1346,Ecandrewsite
+929,27542,Ferrorosemaryite
+1051,47744,Unnamed (Ce-analogue of Kozoite-(La) and -(Nd))
+1088,52860,Dellagiustaite
+1166,46835,Honeaite
+1175,26383,Meniaylovite
+1178,47745,Unnamed (Kanemite-related mineral)
+1193,46880,Hansesmarkite
+1202,42795,Matrix Opal
+1257,46967,Vránaite
+1291,47018,Tinnunculite
+1298,47026,Ottohahnite
+1338,47785,Leószilárdite
+41,46912,Juansilvaite
+50,41602,Lucabindiite
+171,49438,Sandstone
+275,48434,Porphyry
+291,43496,Fluoro-arfvedsonite
+295,47598,Dioskouriite
+318,4996,Masonite
+509,39395,Rockbridgeite Group
+528,43895,Yurmarinite
+548,29218,Oxybiotite
+609,7159,Lukechangite-(Ce)
+636,11408,Dry Bone Ore
+737,42527,Bastnäsite Group
+902,40363,Calciomicrolite
+905,40368,Oxycalcioroméite
+1011,49083,Suevite
+1133,46892,Enneasartorite
+1176,47790,Hydroxyferroroméite
+1224,4032,Trüstedtite
+44,26803,Hornstein
+89,48492,Basalt
+107,40309,Hinsdalite-Plumbogummite Series
+211,48407,Peridotite
+227,49514,Meteorite
+402,35952,Cupropolybasite
+418,39605,Unnamed (NH4-Al Fluoride)
+430,49936,Anomalous IVA iron meteorite
+457,29431,Nickeloan Magnetite
+477,46894,Hendekasartorite
+494,47921,Zincostrunzite
+501,47930,Folvikite
+534,52089,Strontioruizite
+535,47935,Parisite-(La)
+537,45949,Zvyaginite
+570,41901,Eldragónite
+606,48635,Hornfels
+643,48173,Tonalite
+654,5219,Renardite
+746,47993,Richardsollyite
+835,40167,Helvine Group
+869,46492,Erazoite
+901,46539,Unnamed (Ca-Na-ordered analogue of Korobitsynite)
+1006,5579,Red Ochre
+1008,5760,Bastite
+1081,7981,Niobium
+1097,51479,Grape agate
+1192,51882,Intrusive breccia
+1212,3401,Rhenium
+1215,47037,Hansblockite
+1253,49414,Sand
+11,46083,Bernarlottiite
+66,26732,Bořickýite
+96,26784,Genthite
+208,2364,Lecontite
+227,46137,Pharmazincite
+282,444,Azovskite
+394,3176,Petrovicite
+484,42792,Raberite
+510,47919,Marinaite
+533,49215,Dolomite-mud
+626,3101,Paranatisite
+640,4261,Weishanite
+645,10406,Ferri-pedrizite
+661,25598,Kochite
+685,39970,Chovanite
+686,46115,Spaltiite
+700,50234,Merelaniite
+713,11447,Magnesiohögbomite-6N6S
+714,50252,Lombardoite
+772,46532,Tvrdýite
+777,50339,Zincobradaczekite
+781,50344,Argentodufrénoysite
+784,50350,Quijarroite
+826,10271,Taznite
+855,46033,Centennialite
+881,48432,Dolerite
+956,46496,Eckerite
+971,50786,Redcanyonite
+1034,48674,Pseudotachylite
+1068,50774,Leesite
+1090,48762,Serpentinite
+1144,3787,Stillwaterite
+1147,50352,Molinelloite
+1181,46037,Fluorlamprophyllite
+1219,3894,Tatarskite
+0,49153,Marl
+105,4124,Uvanite
+144,4326,Xanthite
+169,4369,Yttrocolumbite-(Y)
+198,46861,White mica
+237,8586,Ahlfeldite-Cobaltomenite Series
+254,49579,CV3 chondrite meteorite
+273,49614,H5 chondrite meteorite
+278,49619,H6 chondrite meteorite
+506,50315,Pegmatite
+523,50015,Granulite
+533,9073,Chalk
+544,11136,Kaolinite-Serpentine Group
+608,46052,Jahnsite-(CaFeMg)
+671,11339,Tellurian Canfieldite
+740,7339,Titanium
+747,50354,Magnesiocanutite
+754,49695,L4 chondrite meteorite
+925,48589,Lapillistone
+928,43939,Meerschautite
+936,46561,Ferrostalderite
+956,9727,Porcellanite
+1065,52909,Bodieite
+1151,50998,Quartz-tourmaline-rock
+1272,46073,Flamite
+1287,51180,Nagatelite
+85,49315,Hard jet
+105,51233,Phosphothorite
+169,49448,Siltstone
+171,43311,Fordite
+186,42745,Agaite
+224,39310,Oyamalite
+269,6565,Devonite
+318,43594,Ferdowsiite
+328,29280,Chalcanthite Group
+334,47720,Barian Feldspar
+337,51303,Calc-silicate hornfels
+436,11017,Grothite
+644,44145,Unnamed (Cu Antimonide)
+728,51482,Riebeckite-quartz-feldspar gneiss
+730,42231,Ianbruceite
+752,46621,Pauladamsite
+769,49375,Radiolarite
+877,48640,Schist
+886,46606,Calciomurmanite
+922,50771,Rietveldite
+986,51409,Rudabányaite
+1028,46890,Heptasartorite
+1095,48484,Andesite
+1107,47040,Hydroxylgugiaite
+58,51555,Shinkolobweite
+179,28953,Chenguodaite
+194,46792,Hydroterskite
+221,42383,Calciolangbeinite
+291,8665,Ilmenorutile-Strüverite Series
+361,600,Beekite
+488,1596,Frankdicksonite
+553,1863,Hendersonite
+649,49332,Sapropelite
+726,3238,Platynite
+728,2631,Melanostibite
+811,48416,Lherzolite
+816,50473,Spessartite
+853,48489,Basaltic-andesite
+914,3523,Sanmartinite
+938,1510,Ferro-barroisite
+942,47016,Mengxianminite
+943,46580,Arsenowagnerite
+1040,1698,Giraudite
+1046,41586,Columbite Group
+1054,3765,Stercorite
+1097,32316,Manganese-bearing Apatite-(CaOH)
+1128,30512,Turkey-Fat Ore
+1254,51192,Elvan
+4,49161,Mud-grade limestone
+50,30808,Metathénardite
+84,48495,Olivine basalt
+110,51577,Vymazalováite
+145,51469,Kravtsovite
+181,43332,Arangasite
+211,51573,Giftgrubeite
+275,51698,Basaltic glass
+279,2555,Mallardite
+303,43561,Uvite (OH-dominant end-member)
+306,51847,Piccoliite
+308,51758,Copper ore
+334,51808,Nickel sulfide ore
+406,50292,Pegmatitic peralkaline syenite
+450,51760,Silver ore
+453,47915,Arsenatrotitanite
+586,51795,Tin ore
+591,50351,Badalovite
+667,47025,Alwilkinsite-(Y)
+668,9346,Strontian Apatite
+684,50334,Calamaite
+754,48402,Hornblendite
+763,50468,Rock
+765,51420,Volcanic breccia
+802,50542,Allivalite
+836,51782,Gold ore
+873,45990,Ferrivauxite
+896,48655,Greisen
+900,48660,Hydrothermal breccia
+936,50776,Calciojohillerite
+1017,51840,Betpakdalite-FeFe
+1043,3869,Taikanite
+1100,51087,Quartzite
+1129,47042,Mineral GS1 (of Gebhard)
+35,49208,Crinoid-limestone
+52,51557,Heyerdahlite
+55,2138,Kalininite
+111,51386,Iron oxide
+114,46442,Bussyite-(Y)
+325,51294,Coticule
+327,43575,Yangite
+449,51977,Feynmanite
+468,27440,Ochre
+501,43882,Paratacamite-(Ni)
+502,47980,Unnamed (Cu-Zn Alloy II)
+553,51702,Palagonite
+598,3102,Paranatrolite
+713,5320,Pistacite
+784,50505,Aplite
+816,48508,Sideromelane
+826,48023,Dolomite-carbonatite
+882,48629,Gneiss
+883,48630,Banded gneiss
+921,30257,Iodian Bromargyrite
+927,27263,Ribbonstone
+962,46707,Kummerite
+1020,50913,Gossan
+1103,32637,Vanadian Wulfenite
+19,51842,Schmidite
+128,4340,Xiphonite
+148,47932,Currierite
+152,49447,Tillite
+181,51567,Arsenmedaite
+205,51591,Verneite
+253,47607,Spryite
+254,47608,Zincoberaunite
+256,8699,Richterite Root Name
+297,2653,Mertieite
+362,2255,Potassic-mangani-leakeite
+371,49886,Eucrite monomict breccia meteorite
+375,51943,Unnamed (Th-bearing silicate UK#1)
+399,11028,Sicherite
+405,49968,Iron slag
+414,47920,Nataliyamalikite
+424,6980,Ferroan Saponite
+491,52148,Barwoodite
+505,25552,Argentiferous Chalcocite
+578,49517,Chondrite-fusion crust meteorite
+586,46190,Siderophyllite-Polylithionite Series
+645,42532,Rhabdophane-(Y)
+648,48350,Nepheline-syenite
+790,48591,Tuff
+813,938,Cesanite
+814,48639,Pyritic slate
+817,48647,Quartz-mica schist
+826,50714,Glassy igneous rock
+839,50108,Epidote-glaucophane schist
+865,50779,Alpeite
+870,48737,Blueschist
+879,46713,Gajardoite
+901,49776,LL6 chondrite meteorite
+913,48408,Dunite
+937,46820,Wiklundite
+1001,52152,Finchite
+1003,48999,Metamudstone
+42,52236,Hornblende-augite andesite
+79,49302,Peat
+127,51424,Beach sand
+145,49408,Cobbles
+224,49548,CK4 chondrite meteorite
+318,43584,Schindlerite
+363,6798,Taramite
+376,47774,Cerian Barite
+388,47787,Cesiodymite
+419,49889,Diogenite meteorite
+428,49901,Anomalous PMG pallasite meteorite
+437,11003,Lanmuchangite
+511,52372,Anomalous aubrite meteorite
+555,49678,L3.8-an chondrite meteorite
+562,52164,Rüdlingerite
+568,31697,Kirovite
+597,52230,Kaiyuhite
+690,48275,Gabbro
+713,52408,Spodosol
+718,52415,Puddingstone
+803,48447,Dacite
+825,48485,Hornblende andesite
+840,10593,Mg-bearing Melanterite
+880,52126,Nepheline syenite pegmatite
+970,50446,H3-4 chondrite meteorite
+981,9836,White Opal
+1124,46972,Wilhelmgümbelite
+1175,52558,Antimonian Tulameenite
+1187,50532,Hornblende oligoclase diorite
+92,52589,Ammoniomathesiusite
+106,39079,Khoharite
+262,10684,Aidyrlite
+274,47835,Unnamed (Covellite-like Mineral)
+290,47596,Russoite
+308,2570,Mapimite
+358,39528,Ferriallanite-(La)
+386,48578,Scoria
+399,43676,Mimetite-2M
+400,8683,Rhodochrosite-Siderite Series
+461,51961,Triazolite
+556,45977,Misakiite
+559,45980,Iyoite
+584,48066,Kersantite
+622,1029,Christite
+630,48147,Porphyritic granite
+636,39965,Nickeloan Lizardite
+676,50268,Calciocarbonatite lapillistone
+753,52420,commodity:Aggregates
+788,51973,Horákite
+897,40352,Oxycalciobetafite
+951,48638,Slate
+973,46619,Albertiniite
+1088,50920,Beach dune sand
+1102,52182,Ammoniozippeite
+1122,1828,Hatrurite
+1142,8003,Crystal Opal
+30,39487,Devilline Group
+85,51364,Collobrièrite
+242,43472,Simetite
+316,51985,Martinandresite
+372,2761,Montbrayite
+436,821,Bütschliite
+451,43868,Raygrantite
+452,42378,Fengchengite
+594,48213,Syenite
+668,52427,commodity:Bauxite (Aluminium)
+686,9449,Phosphoscorodite
+828,51907,itabirite
+887,50284,Peralkaline alkali-feldspar-granite
+962,50905,Laterite
+1005,27272,Nickeloan Magnesite
+1016,42815,Davinciite
+1019,46914,Steinmetzite
+1023,8014,Lepidomelane
+0,40960,Hydroxylbastnäsite
+25,48475,Trachybasalt
+89,34951,Molybdenite Group
+165,26665,Rudenkoite
+205,51935,Tinguaite
+224,52076,Pegmatitic Ijolite
+280,2510,Machatschkiite
+289,35579,Leucostaurite
+296,49431,Till
+301,46164,Adrianite
+422,6858,Chadwickite
+446,51953,Alumoedtollite
+493,48607,Tuff-breccia
+508,50010,Kakortokite
+534,30528,Ctypéite
+576,48065,Camptonite
+578,48493,Alkali basalt
+620,50692,Ankaratrite
+716,46003,Gatedalite
+751,47989,Incomsartorite
+919,48605,Ignimbritic tuff
+925,52712,Paddlewheelite
+965,52781,Hydroxynatromicrolite
+966,52782,Manganoan Pellyite
+981,9793,Lemon Opal
+1048,52921,Dokuchaevite (of Sumin)
+1061,46711,Chongite
+1233,51881,Nepheline-phonolite
+70,51319,Muscovite schist
+77,49174,Marlstone
+178,42717,Coral
+213,51435,Volcanic rock
+219,49519,Carbonaceous chondrite meteorite
+249,10658,Platiniferous Palladium
+254,27051,Rhätizite
+268,47562,Middlebackite
+287,49641,H3-5 chondrite meteorite
+424,8916,Berzeline (of Necker)
+451,49126,Greywacke
+462,50286,Pegmatitic granite
+487,39736,Duftite-Mottramite Series
+497,839,Cacoclase
+517,51652,Zincian Chalcopyrite
+576,52170,Tredouxite
+611,11263,Lodranite meteorite
+613,825,Calciocelestine
+657,7245,Potassic-sadanagaite
+711,7328,Tantalowodginite
+737,9411,Cordierite-pinite
+765,47779,Huenite
+808,3384,Refikite
+831,48478,Trachyte
+833,7520,Snow
+871,45875,Paraboleite
+879,52649,Perlite
+893,3514,Samiresite
+894,48571,Picrobasalt
+906,40525,Paradoxite
+959,46635,Huizingite-(Al)
+972,10078,Colophonite
+974,4119,Ursilite
+989,52834,Bodeachat
+996,52853,Nollmotzite
+1013,52880,Vandermeerscheite
+1024,52897,Pararaisaite
+1026,52903,Jahnsite-(MnMnZn)
+1091,50946,Shell marl
+16,49178,Lime-packstone
+45,49219,Dolostone
+73,53060,Peperite
+102,51569,Ariegilatite
+110,52994,Pandoraite-Ca
+151,43257,Lazaridisite
+153,51456,Banded iron formation
+155,50064,Phyllite
+164,51471,Rozhdestvenskayaite-(Zn)
+169,51478,Stracherite
+220,51560,Tiberiobardiite
+222,49515,Chondrite meteorite
+228,52591,Janchevite
+280,29203,Mn-Tourmaline
+281,42744,Vanackerite
+306,48681,Metadacite
+311,43541,Jahnsite-(MnMnMg)
+364,51829,Katerinopoulosite
+374,51845,Sharyginite
+395,49827,EL6/7 chondrite meteorite
+439,49899,PMG pallasite meteorite
+459,47885,Sodic Albite
+467,51397,Sandy mud
+478,49974,Plastic
+507,43883,Fluormayenite
+525,45955,Acmonidesite
+546,12306,Atacamita
+569,52168,Wildenauerite
+606,49203,Pisoid-limestone
+659,53093,Unnamed (hydrous zirconium molybdate)
+675,52995,Stefanweissite
+718,52402,Ulitisol
+736,49699,L/LL4 chondrite meteorite
+740,39802,Bediasite
+749,43755,Kaolinite Subgroup
+772,3332,Qilianshanite
+823,52566,Clino-ferro-suenoite
+915,52713,Tsygankoite
+934,52753,Sbacchiite
+975,50782,Vorontsovite
+1012,52899,Thalhammerite
+1018,52907,Fiemmeite
+1019,52908,Vaniniite
+1021,9903,Chrome-Spinel (of Dana)
+1039,40567,Clinometaborite
+1102,48779,Metadolomite-carbonatite
+1113,313,Argentian Lillianite
+1208,2044,Iridarsenite
+36,49207,Shell-limestone
+77,6270,Morion
+99,2075,Jankovićite
+151,52580,Dekatriasartorite
+158,2321,Langisite
+207,43366,Colinowensite
+218,51581,Ulfanderssonite-(Ce)
+232,49557,CM2 chondrite meteorite
+269,49573,CR2 chondrite meteorite
+272,2532,Maghagendorfite
+315,43580,Nabimusaite
+438,39690,Bournonite Group
+464,47931,Argentoliveingite
+486,8758,Kidney Stone
+503,45962,Graţianite
+559,44007,Imayoshiite
+563,31726,Meridianiite
+764,46429,Andreadiniite
+812,53148,Fanfaniite
+875,46637,Decagonite
+876,46639,Melcherite
+891,40522,Pharmacosiderite Supergroup
+896,50773,Epifanovite
+913,52850,Ferrierite-NH4
+914,46709,Gazeevite
+932,52888,Rhabdoborite-(W)
+948,53045,Hitachiite
+978,25280,Chlorit
+984,42752,Cayalsite-(Y)
+987,52998,Cerromojonite
+1043,53102,Alterite
+1052,51415,Delhuyarite-(Ce)
+1067,53150,Aniyunwiyaite
+1069,53152,Bonacinaite
+1070,53154,Kruijenite
+0,7365,Wilhelmkleinite
+17,53273,Lutite
+145,43255,Voudourisite
+199,42725,Oxy-chromium-dravite
+260,47868,Opal-A
+278,51971,Kroupaite
+320,137,Allophane-chrysocolla
+414,42452,Natrotitanite
+432,6938,Ferrokinoshitalite
+473,27502,Zoltaiite
+489,50065,Spilite
+509,52144,Rinkite-(Y)
+523,2892,Nickelbischofite
+526,52174,Brandãoite
+565,46109,Flinteite
+595,43873,Carducciite
+598,46157,Znamenskyite
+670,48323,Anorthosite
+697,40146,Greenwoodite
+855,48642,Chlorite schist
+907,46675,Batievaite-(Y)
+924,46629,Sulfhydrylbystrite
+964,52917,Zubkovaite
+1022,1821,Harrisonite
+1046,46922,Kannanite
+1100,53187,Ruthenian Iridium
+1107,40370,Partzite
+1110,53206,Jeankempite
+1121,53224,Lussierite
+1127,46918,Wavellite Group
+25,53294,Carmeltazite
+200,46813,Kainotropite
+229,4438,Zincovoltaite
+314,45844,Unnamed (Na-Pb Carbonate-Hydroxide II)
+329,43551,Hollandite Supergroup
+334,6577,Merrillite
+375,47733,Lillianite Homologous Series
+376,51831,Hydrokenopyrochlore
+397,51860,UM1990-28-OHF:Al
+404,2720,Minguzzite
+473,47878,Low-calcium pyroxene
+499,47927,Bytízite
+516,53051,Pliniusite
+524,43887,Yeomanite
+560,53362,Šlikite
+566,52154,Maohokite
+601,1015,Chlorellestadite
+713,48301,Troctolite
+731,9413,Polychroilite
+801,53169,Udinaite
+842,53142,Antofagastaite
+903,50668,Amygdaloidal basalt
+915,48645,Mica schist
+921,52751,Straßmannite
+959,46677,Saranchinaite
+961,52019,Unnamed (Sc-Nb oxide)
+973,52849,framesite 
+975,1652,Garrelsite
+1027,52841,Ammoniolasalite
+1072,38695,Tistarite
+1077,42796,Jakobssonite
+1080,53041,Thermaerogenite
+1086,46909,Kyawthuite
+1151,53170,Arsenudinaite
+1166,53210,Alkali olivine basalt
+1173,53217,Lehmannite
+1175,53223,Uroxite
+1179,52919,Achyrophanite
+1181,48009,Calcic plagioclase
+37,52916,Dalnegorskite
+86,53409,Kollerite
+213,51579,Lagalyite
+249,51661,K-petalite
+289,39470,Sulphur Group
+306,53346,Nickeltyrrellite
+352,40048,Beaverite-(Zn)
+486,53428,Metacarbonate slag
+515,50131,Buchite
+532,52734,Ramazzoite
+534,53417,Natromarkeyite
+566,53427,Parabasalt
+576,1089,Cobaltoan Smithsonite
+602,40039,Unnamed (Hydrous Yttrium Silicate)
+624,53418,Bohuslavite
+641,8731,Celsian-Hyalophane Series
+729,52541,Clinker
+753,32104,Owyhee Jasper
+833,38826,Mavlyanovite
+871,46656,Faden Quartz
+959,50900,Black shale
+962,7119,Jaipurite
+975,42741,Ophicalcite
+1036,51061,Variolite
+1067,42921,Lead Glass
+1087,11598,Ferrihastingsite
+1097,29255,Arsenovanmeersscheite
+139,53498,Unnamed (Se-analogue of Dantopaite)
+140,53499,Unnamed (Partially dehydrated Arsenuranospathite)
+178,27017,Flajolotite
+209,2414,Lisetite
+253,39325,Dantopaite
+320,52997,Gaildunningite
+333,46516,Bettertonite
+424,53216,Natroaphthitalite
+460,47913,Gadolinite-(Nd)
+533,893,Carboirite
+546,52113,Flourite
+547,50066,Greenstone
+561,9131,Spectrolite
+598,48103,Chromitite
+615,39941,Ramsdellite Group
+616,39944,Larvikite
+657,11332,Magnioursilite
+662,50250,UM1986-23-O:BaMnU
+681,48226,Diorite
+849,42352,Perbøeite-(Ce)
+851,30066,Kreittonite
+852,53139,Manaevite-(Ce)
+865,50568,Borolanite
+885,40365,Fluornatroroméite
+921,46566,Polloneite
+931,48631,Augen gneiss
+977,40517,Boussingaultite-Mohrite Series
+990,48735,Greenschist
+1006,48766,Amphibole-rock
+1016,52886,Rhabdoborite-(V)
+1027,52911,Belomarinaite
+1030,49971,Glass slag
+1093,40726,Harrisite
+1094,53209,Cuatrocapaite-(NH4)
+1198,46234,Epidote Group
+1215,53214,Ekebergite
