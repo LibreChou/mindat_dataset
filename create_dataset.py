@@ -1,25 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-from fastai.vision import *
 from pathlib import Path
 from PIL import Image
 from time import time
 import pandas as pd
+import fire
+import os
 from queue import Queue
 import argparse
 from collections import defaultdict
 
-def __main__():
+def __main__(n_threads=5, start_idx=0, end_idx=100):
+  print(n_threads)
   imgs_dict = {}
   specimens_images_dict = defaultdict(list)
   imgs_minerals_dict = {}
   imgs_comments_dict = {}
   location_names_dict = {}
   minerals_names_dict = {}
-  n_threads = 5
-  start_idx = 100
-  end_idx = 250
   url_queue = Queue(n_threads)
 
   def worker():
@@ -31,7 +30,7 @@ def __main__():
         # if url is bad
         url_queue.task_done()
         continue
-      soup = BeautifulSoup(page.content)
+      soup = BeautifulSoup(page.content, 'html.parser')
       try:
         img_tag = soup.find(property='og:image')
         img_url = img_tag['content']
@@ -100,6 +99,6 @@ def __main__():
       file.write(v)
       
 if __name__ == '__main__':
-  __main__()
+  fire.Fire(__main__)
   
   
